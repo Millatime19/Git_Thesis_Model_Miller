@@ -1,0 +1,1548 @@
+observation_name,parameter_name,n_samples,sen_mean,sen_mean_abs,sen_std_dev
+mod_obs2_6,por,4,-351.683,411.874,599.674
+mod_obs2_6,por v min,4,-1217.93,1240.96,1573.49
+mod_obs2_6,FOC,4,-597.924,597.924,119.574
+mod_obs2_6,airdiff,4,0,0,0
+mod_obs2_6,k sat,4,-2.49E+06,2.49E+06,4.50E+06
+mod_obs2_6,Pore Size Dist.,4,2061.85,2062.9,3678.02
+mod_obs2_6,p air,4,-253.883,253.928,506.332
+mod_obs2_6,conc s top,4,0,0,0
+mod_obs2_6,conc s bot,4,0,0,0
+mod_obs2_6,theta min,4,0,0,0
+mod_obs2_6,q air slab,4,0,0,0
+mod_obs2_6,q air vims,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs2_6,q var,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs1_1,por,4,4.30E+03,6.22E+03,1.01E+04
+mod_obs1_1,por v min,4,-2669.04,5103.01,8200.54
+mod_obs1_1,FOC,4,-18103.6,18103.6,26897
+mod_obs1_1,airdiff,4,0,0,0
+mod_obs1_1,k sat,4,2.70E+07,2.99E+07,5.78E+07
+mod_obs1_1,Pore Size Dist.,4,277226,277226,551568
+mod_obs1_1,p air,4,-59967.4,59967.4,119498
+mod_obs1_1,conc s top,4,0,0,0
+mod_obs1_1,conc s bot,4,0,0,0
+mod_obs1_1,theta min,4,0,0,0
+mod_obs1_1,q air slab,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs1_1,q air vims,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs1_1,q var,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs2_5,por,4,5.98E+06,5.98E+06,1.20E+07
+mod_obs2_5,por v min,4,-4.07E+07,4.07E+07,8.14E+07
+mod_obs2_5,FOC,4,-2.90E+06,2.90E+06,5.80E+06
+mod_obs2_5,airdiff,4,0,0,0
+mod_obs2_5,k sat,4,-3.39E+11,3.39E+11,6.77E+11
+mod_obs2_5,Pore Size Dist.,4,3.13E+07,3.13E+07,4.52E+07
+mod_obs2_5,p air,4,-1.81E+06,1.81E+06,3.11E+06
+mod_obs2_5,conc s top,4,0,0,0
+mod_obs2_5,conc s bot,4,0,0,0
+mod_obs2_5,theta min,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs2_5,q air slab,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs2_5,q air vims,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs2_5,q var,4,0,0,0
+mod_obs1_2,por,4,-175386,175386,211672
+mod_obs1_2,por v min,4,-1.34E+06,1.34E+06,1.55E+06
+mod_obs1_2,FOC,4,-165038,165038,101157
+mod_obs1_2,airdiff,4,0,0,0
+mod_obs1_2,k sat,4,-9.30E+07,9.67E+07,1.90E+08
+mod_obs1_2,Pore Size Dist.,4,323131,325381,649262
+mod_obs1_2,p air,4,-71063.1,71074.3,142114
+mod_obs1_2,conc s top,4,0,0,0
+mod_obs1_2,conc s bot,4,0,0,0
+mod_obs1_2,theta min,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs1_2,q air slab,4,0,0,0
+mod_obs1_2,q air vims,4,0,0,0
+mod_obs1_2,q var,4,0,0,0
+mod_obs2_4,por,4,35.8934,200.627,271.303
+mod_obs2_4,por v min,4,735.344,761.385,874.74
+mod_obs2_4,FOC,4,-402.251,402.251,249.625
+mod_obs2_4,airdiff,4,0,0,0
+mod_obs2_4,k sat,4,-4.66E+06,4.66E+06,9.20E+06
+mod_obs2_4,Pore Size Dist.,4,5378.82,5378.82,9826.65
+mod_obs2_4,p air,4,-771.27,771.27,1536.51
+mod_obs2_4,conc s top,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs2_4,conc s bot,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs2_4,theta min,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs2_4,q air slab,4,0,0,0
+mod_obs2_4,q air vims,4,0,0,0.00E+00
+mod_obs2_4,q var,4,0,0,0
+mod_obs1_3,por,4,562456,625920,1.21E+06
+mod_obs1_3,por v min,4,-178957,178957,97691.5
+mod_obs1_3,FOC,4,-1.73E+06,1.73E+06,3.31E+06
+mod_obs1_3,airdiff,4,0,0,0
+mod_obs1_3,k sat,4,4.13E+09,4.20E+09,8.35E+09
+mod_obs1_3,Pore Size Dist.,4,9.22E+06,9.22E+06,1.83E+07
+mod_obs1_3,p air,4,-2.08E+06,2.08E+06,4.09E+06
+mod_obs1_3,conc s top,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs1_3,conc s bot,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs1_3,theta min,4,0,0,0
+mod_obs1_3,q air slab,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs1_3,q air vims,4,0,0,0
+mod_obs1_3,q var,4,0,0,0
+mod_obs2_3,por,4,239363,297934,556818
+mod_obs2_3,por v min,4,57769.8,121010,144194
+mod_obs2_3,FOC,4,-811520,811520,1.56E+06
+mod_obs2_3,airdiff,4,0,0,0
+mod_obs2_3,k sat,4,-2.50E+10,2.50E+10,4.99E+10
+mod_obs2_3,Pore Size Dist.,4,7.05E+06,7.05E+06,9.74E+06
+mod_obs2_3,p air,4,-1.05E+06,1.05E+06,2.06E+06
+mod_obs2_3,conc s top,4,0,0,0
+mod_obs2_3,conc s bot,4,0,0,0
+mod_obs2_3,theta min,4,0,0,0
+mod_obs2_3,q air slab,4,0,0,0
+mod_obs2_3,q air vims,4,0,0,0
+mod_obs2_3,q var,4,0,0,0
+mod_obs1_4,por,4,69.9683,220.071,286.344
+mod_obs1_4,por v min,4,-4.22778,350.075,534.76
+mod_obs1_4,FOC,4,-652.994,652.994,426.195
+mod_obs1_4,airdiff,4,0,0,0
+mod_obs1_4,k sat,4,229036,444868,7.72E+05
+mod_obs1_4,Pore Size Dist.,4,1.20E+04,1.20E+04,2.38E+04
+mod_obs1_4,p air,4,-2.56E+03,2.56E+03,5.11E+03
+mod_obs1_4,conc s top,4,0,0,0
+mod_obs1_4,conc s bot,4,0,0,0
+mod_obs1_4,theta min,4,0,0,0
+mod_obs1_4,q air slab,4,0,0,0
+mod_obs1_4,q air vims,4,0,0,0
+mod_obs1_4,q var,4,0,0,0
+mod_obs2_2,por,4,-111648,111893,136630
+mod_obs2_2,por v min,4,-690281,690281,799044
+mod_obs2_2,FOC,4,-80437.9,80437.9,48134.2
+mod_obs2_2,airdiff,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs2_2,k sat,4,-1.13E+08,1.13E+08,1.36E+08
+mod_obs2_2,Pore Size Dist.,4,1.35E+05,1.37E+05,2.62E+05
+mod_obs2_2,p air,4,-19404,19415.2,38782.6
+mod_obs2_2,conc s top,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs2_2,conc s bot,4,0,0,0
+mod_obs2_2,theta min,4,0,0,0
+mod_obs2_2,q air slab,4,0,0,0
+mod_obs2_2,q air vims,4,0,0,0
+mod_obs2_2,q var,4,0,0,0
+mod_obs1_5,por,4,1.66E+07,1.66E+07,3.32E+07
+mod_obs1_5,por v min,4,-7.92E+07,7.92E+07,1.58E+08
+mod_obs1_5,FOC,4,-7.18E+06,7.18E+06,1.44E+07
+mod_obs1_5,airdiff,4,0,0,0
+mod_obs1_5,k sat,4,3.02E+10,3.02E+10,6.04E+10
+mod_obs1_5,Pore Size Dist.,4,4.52E+06,4.52E+06,7.99E+06
+mod_obs1_5,p air,4,-1.19E+06,1.19E+06,1.80E+06
+mod_obs1_5,conc s top,4,0,0,0
+mod_obs1_5,conc s bot,4,0,0,0
+mod_obs1_5,theta min,4,0,0,0
+mod_obs1_5,q air slab,4,0,0,0
+mod_obs1_5,q air vims,4,0,0,0
+mod_obs1_5,q var,4,0,0,0
+mod_obs1_6,por,4,-497.956,560.011,779.936
+mod_obs1_6,por v min,4,-3858.21,3858.21,4.57E+03
+mod_obs1_6,FOC,4,-1.04E+03,1.04E+03,2.79E+02
+mod_obs1_6,airdiff,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs1_6,k sat,4,-366780,452825,845297
+mod_obs1_6,Pore Size Dist.,4,4764.06,4764.06,9464.99
+mod_obs1_6,p air,4,-1003.75,1003.8,2006.57
+mod_obs1_6,conc s top,4,0,0,0
+mod_obs1_6,conc s bot,4,0,0,0
+mod_obs1_6,theta min,4,0,0,0
+mod_obs1_6,q air slab,4,0,0,0
+mod_obs1_6,q air vims,4,0,0,0
+mod_obs1_6,q var,4,0,0,0
+mod_obs2_1,por,4,2136.48,4080.6,6311.54
+mod_obs2_1,por v min,4,6741.7,7372.14,6897.13
+mod_obs2_1,FOC,4,-9740.53,9740.53,13698.6
+mod_obs2_1,airdiff,4,0,0,0
+mod_obs2_1,k sat,4,-2.05E+08,2.05E+08,4.08E+08
+mod_obs2_1,Pore Size Dist.,4,134345,134345,228764
+mod_obs2_1,p air,4,-19699.4,19699.4,38980.5
+mod_obs2_1,conc s top,4,0,0,0
+mod_obs2_1,conc s bot,4,0,0,0
+mod_obs2_1,theta min,4,0,0,0
+mod_obs2_1,q air slab,4,0,0,0
+mod_obs2_1,q air vims,4,0,0,0
+mod_obs2_1,q var,4,0,0,0
+mod_obs1_7,por,4,-120.462,130.381,211.787
+mod_obs1_7,por v min,4,-816.844,816.844,1004.9
+mod_obs1_7,FOC,4,-316.958,316.958,141.881
+mod_obs1_7,airdiff,4,0,0,0
+mod_obs1_7,k sat,4,-130550,130550,219675
+mod_obs1_7,Pore Size Dist.,4,2308.56,2308.56,4601.69
+mod_obs1_7,p air,4,-488.175,488.183,976.301
+mod_obs1_7,conc s top,4,0,0,0
+mod_obs1_7,conc s bot,4,0,0,0
+mod_obs1_7,theta min,4,0,0,0
+mod_obs1_7,q air slab,4,0,0,0
+mod_obs1_7,q air vims,4,0,0,0
+mod_obs1_7,q var,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs2_7,por,4,-9.46E+01,1.02E+02,1.77E+02
+mod_obs2_7,por v min,4,-84.0017,159.705,269.179
+mod_obs2_7,FOC,4,-189.889,189.889,71.7369
+mod_obs2_7,airdiff,4,0,0,0
+mod_obs2_7,k sat,4,-455511,455511,781699
+mod_obs2_7,Pore Size Dist.,4,958.098,958.098,1835.47
+mod_obs2_7,p air,4,-128.57,128.579,257.054
+mod_obs2_7,conc s top,4,0,0,0
+mod_obs2_7,conc s bot,4,0,0,0
+mod_obs2_7,theta min,4,0,0,0
+mod_obs2_7,q air slab,4,0,0,0
+mod_obs2_7,q air vims,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs2_7,q var,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs10_1,por,4,1962.86,4079.51,6989.22
+mod_obs10_1,por v min,4,27896.2,28119.1,22855.4
+mod_obs10_1,FOC,4,-5884.76,5884.76,9629.22
+mod_obs10_1,airdiff,4,0,0,0
+mod_obs10_1,k sat,4,7.48E+06,8.12E+06,1.58E+07
+mod_obs10_1,Pore Size Dist.,4,24840.4,24840.4,47573.9
+mod_obs10_1,p air,4,-5576.28,5576.28,10803.3
+mod_obs10_1,conc s top,4,0,0,0
+mod_obs10_1,conc s bot,4,0,0,0
+mod_obs10_1,theta min,4,0,0,0.00E+00
+mod_obs10_1,q air slab,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs10_1,q air vims,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs10_1,q var,4,0,0,0
+mod_obs3_1,por,4,3025.52,5555.38,8386.06
+mod_obs3_1,por v min,4,13382.1,14073.8,11325.1
+mod_obs3_1,FOC,4,-12807.3,12807.3,18586.8
+mod_obs3_1,airdiff,4,0,0,0
+mod_obs3_1,k sat,4,6.73E+06,8.11E+06,1.53E+07
+mod_obs3_1,Pore Size Dist.,4,81713,81713,159224
+mod_obs3_1,p air,4,-10832.5,10832.5,21234.1
+mod_obs3_1,conc s top,4,0,0,0
+mod_obs3_1,conc s bot,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs3_1,theta min,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs3_1,q air slab,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs3_1,q air vims,4,0,0,0
+mod_obs3_1,q var,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs3_2,por,4,-125690,126673,156553
+mod_obs3_2,por v min,4,-852037,852821,988879
+mod_obs3_2,FOC,4,-86321.1,86321.1,51045.4
+mod_obs3_2,airdiff,4,0,0,0
+mod_obs3_2,k sat,4,-4.51E+07,6.14E+07,1.11E+08
+mod_obs3_2,Pore Size Dist.,4,46880.4,51091.2,99382.1
+mod_obs3_2,p air,4,-67.3773,78.6324,101.85
+mod_obs3_2,conc s top,4,0,0,0
+mod_obs3_2,conc s bot,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs3_2,theta min,4,0,0,0
+mod_obs3_2,q air slab,4,0,0,0
+mod_obs3_2,q air vims,4,0,0,0
+mod_obs3_2,q var,4,0,0,0
+mod_obs3_3,por,4,388873,444024,832958
+mod_obs3_3,por v min,4,224221,289578,256453
+mod_obs3_3,FOC,4,-797048,797048,1.53E+06
+mod_obs3_3,airdiff,4,0,0,0
+mod_obs3_3,k sat,4,-7.63E+09,7.63E+09,1.52E+10
+mod_obs3_3,Pore Size Dist.,4,6.71E+06,6.71E+06,1.16E+07
+mod_obs3_3,p air,4,-1.27E+06,1.27E+06,2.49E+06
+mod_obs3_3,conc s top,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs3_3,conc s bot,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs3_3,theta min,4,0,0,0
+mod_obs3_3,q air slab,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs3_3,q air vims,4,0,0,0
+mod_obs3_3,q var,4,0,0,0
+mod_obs3_4,por,4,54.4937,252.706,331.358
+mod_obs3_4,por v min,4,1285.79,1316.21,1446.66
+mod_obs3_4,FOC,4,-489.654,489.654,354.178
+mod_obs3_4,airdiff,4,0,0,0
+mod_obs3_4,k sat,4,446782,526117,1.00E+06
+mod_obs3_4,Pore Size Dist.,4,2369.21,2369.21,4692.42
+mod_obs3_4,p air,4,-146.849,146.849,2.87E+02
+mod_obs3_4,conc s top,4,0,0,0
+mod_obs3_4,conc s bot,4,0,0,0
+mod_obs3_4,theta min,4,0,0,0
+mod_obs3_4,q air slab,4,0,0,0
+mod_obs3_4,q air vims,4,0,0,0
+mod_obs3_4,q var,4,0,0,0
+mod_obs3_5,por,4,3.61E+06,3.61E+06,7.22E+06
+mod_obs3_5,por v min,4,-2.90E+07,2.90E+07,5.80E+07
+mod_obs3_5,FOC,4,-1.83E+06,1.83E+06,3.66E+06
+mod_obs3_5,airdiff,4,0,0,0
+mod_obs3_5,k sat,4,-1.41E+13,1.41E+13,2.82E+13
+mod_obs3_5,Pore Size Dist.,4,9.77E+08,9.77E+08,1.93E+09
+mod_obs3_5,p air,4,-2.21E+06,2.21E+06,3.81E+06
+mod_obs3_5,conc s top,4,0,0,0
+mod_obs3_5,conc s bot,4,0,0,0
+mod_obs3_5,theta min,4,0,0,0
+mod_obs3_5,q air slab,4,0,0,0
+mod_obs3_5,q air vims,4,0,0,0
+mod_obs3_5,q var,4,0,0,0
+mod_obs3_6,por,4,-370.223,440.971,709.271
+mod_obs3_6,por v min,4,-933.824,980.944,1398.05
+mod_obs3_6,FOC,4,-673.232,673.232,124.907
+mod_obs3_6,airdiff,4,0,0,0
+mod_obs3_6,k sat,4,9.40E+04,5.04E+05,8.25E+05
+mod_obs3_6,Pore Size Dist.,4,5.61E+02,5.69E+02,1.13E+03
+mod_obs3_6,p air,4,56.6221,58.0608,115.104
+mod_obs3_6,conc s top,4,0,0,0
+mod_obs3_6,conc s bot,4,0,0,0
+mod_obs3_6,theta min,4,0,0,0
+mod_obs3_6,q air slab,4,0,0,0
+mod_obs3_6,q air vims,4,0,0,0
+mod_obs3_6,q var,4,0,0,0
+mod_obs3_7,por,4,-89.0779,113.938,210.516
+mod_obs3_7,por v min,4,151.918,189.943,352.184
+mod_obs3_7,FOC,4,-205.403,205.403,79.1245
+mod_obs3_7,airdiff,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs3_7,k sat,4,-9.95E+02,1.01E+05,1.63E+05
+mod_obs3_7,Pore Size Dist.,4,299.544,300.887,600.792
+mod_obs3_7,p air,4,18.8126,18.9126,37.7471
+mod_obs3_7,conc s top,4,0,0,0
+mod_obs3_7,conc s bot,4,0,0,0
+mod_obs3_7,theta min,4,0,0,0
+mod_obs3_7,q air slab,4,0,0,0
+mod_obs3_7,q air vims,4,0,0,0
+mod_obs3_7,q var,4,0,0,0
+mod_obs4_1,por,4,1646.47,3870.01,5889.15
+mod_obs4_1,por v min,4,1.52E+04,1.59E+04,1.16E+04
+mod_obs4_1,FOC,4,-6.21E+03,6.21E+03,7.32E+03
+mod_obs4_1,airdiff,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs4_1,k sat,4,2.27E+06,2.46E+06,4.76E+06
+mod_obs4_1,Pore Size Dist.,4,2.42E+04,2.42E+04,4.63E+04
+mod_obs4_1,p air,4,-4622.46,4622.46,8956.14
+mod_obs4_1,conc s top,4,0,0,0
+mod_obs4_1,conc s bot,4,0,0,0
+mod_obs4_1,theta min,4,0,0,0
+mod_obs4_1,q air slab,4,0,0,0
+mod_obs4_1,q air vims,4,0,0,0
+mod_obs4_1,q var,4,0,0,0
+mod_obs4_2,por,4,-92516.1,93031,109681
+mod_obs4_2,por v min,4,-5.27E+05,5.28E+05,6.02E+05
+mod_obs4_2,FOC,4,-53406.6,53406.6,30599.4
+mod_obs4_2,airdiff,4,0,0,0
+mod_obs4_2,k sat,4,-1.61E+07,2.82E+07,4.75E+07
+mod_obs4_2,Pore Size Dist.,4,8275.94,12711.4,22496.2
+mod_obs4_2,p air,4,-1774.5,1785.37,3511.31
+mod_obs4_2,conc s top,4,0,0,0
+mod_obs4_2,conc s bot,4,0,0,0
+mod_obs4_2,theta min,4,0,0,0
+mod_obs4_2,q air slab,4,0,0,0
+mod_obs4_2,q air vims,4,0,0,0
+mod_obs4_2,q var,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs4_3,por,4,1.36E+05,1.80E+05,3.19E+05
+mod_obs4_3,por v min,4,3.50E+05,4.08E+05,3.77E+05
+mod_obs4_3,FOC,4,-210771,210771,390102
+mod_obs4_3,airdiff,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs4_3,k sat,4,-4.31E+09,4.32E+09,8.61E+09
+mod_obs4_3,Pore Size Dist.,4,1.81E+06,1.81E+06,2.77E+06
+mod_obs4_3,p air,4,-335060,335060,648370
+mod_obs4_3,conc s top,4,0,0,0
+mod_obs4_3,conc s bot,4,0,0,0
+mod_obs4_3,theta min,4,0,0,0
+mod_obs4_3,q air slab,4,0,0,0
+mod_obs4_3,q air vims,4,0,0,0
+mod_obs4_3,q var,4,0,0,0.00E+00
+mod_obs4_4,por,4,18.012,186.772,252.278
+mod_obs4_4,por v min,4,1348.89,1382.56,1409.26
+mod_obs4_4,FOC,4,-325.573,325.573,199.527
+mod_obs4_4,airdiff,4,0,0,0
+mod_obs4_4,k sat,4,328472,335021,642756
+mod_obs4_4,Pore Size Dist.,4,637.683,637.683,1255.1
+mod_obs4_4,p air,4,-99.559,99.559,193.175
+mod_obs4_4,conc s top,4,0,0,0
+mod_obs4_4,conc s bot,4,0,0,0
+mod_obs4_4,theta min,4,0,0,0
+mod_obs4_4,q air slab,4,0,0,0
+mod_obs4_4,q air vims,4,0,0,0
+mod_obs4_4,q var,4,0,0,0
+mod_obs4_5,por,4,441968,450427,895218
+mod_obs4_5,por v min,4,-4.01E+06,4.01E+06,7.98E+06
+mod_obs4_5,FOC,4,-265246,265246,529670
+mod_obs4_5,airdiff,4,0,0,0
+mod_obs4_5,k sat,4,-1.42E+13,1.42E+13,2.83E+13
+mod_obs4_5,Pore Size Dist.,4,9.73E+08,9.73E+08,1.94E+09
+mod_obs4_5,p air,4,-360000,360000,572246
+mod_obs4_5,conc s top,4,0,0,0
+mod_obs4_5,conc s bot,4,0,0,0
+mod_obs4_5,theta min,4,0,0,0
+mod_obs4_5,q air slab,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs4_5,q air vims,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs4_5,q var,4,0,0,0
+mod_obs4_6,por,4,-306.108,354.061,521.757
+mod_obs4_6,por v min,4,29.0317,233.816,299.233
+mod_obs4_6,FOC,4,-463.388,463.388,86.7566
+mod_obs4_6,airdiff,4,0,0,0
+mod_obs4_6,k sat,4,157350,271069,475567
+mod_obs4_6,Pore Size Dist.,4,141.102,154.198,299.72
+mod_obs4_6,p air,4,-15.497,15.541,29.1751
+mod_obs4_6,conc s top,4,0,0,0
+mod_obs4_6,conc s bot,4,0,0,0
+mod_obs4_6,theta min,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs4_6,q air slab,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs4_6,q air vims,4,0,0,0
+mod_obs4_6,q var,4,0,0,0
+mod_obs4_7,por,4,-74.6186,80.3046,155.288
+mod_obs4_7,por v min,4,360.218,369.842,421.214
+mod_obs4_7,FOC,4,-144.218,144.218,55.5771
+mod_obs4_7,airdiff,4,0,0,0
+mod_obs4_7,k sat,4,28232.6,45596.4,80866.7
+mod_obs4_7,Pore Size Dist.,4,76.9579,79.4533,157.248
+mod_obs4_7,p air,4,-8.28478,8.29314,16.4322
+mod_obs4_7,conc s top,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs4_7,conc s bot,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs4_7,theta min,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs4_7,q air slab,4,0,0,0
+mod_obs4_7,q air vims,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs4_7,q var,4,0,0,0
+mod_obs5_1,por,4,2594.75,3893.87,6321.82
+mod_obs5_1,por v min,4,18618.5,19239.3,14375.5
+mod_obs5_1,FOC,4,-5801.71,5801.71,6996.73
+mod_obs5_1,airdiff,4,0,0,0
+mod_obs5_1,k sat,4,3.19E+06,3.89E+06,7.32E+06
+mod_obs5_1,Pore Size Dist.,4,47249.6,47260.1,92751.9
+mod_obs5_1,p air,4,-10500.2,10500.2,20720.7
+mod_obs5_1,conc s top,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs5_1,conc s bot,4,0,0,0
+mod_obs5_1,theta min,4,0,0,0
+mod_obs5_1,q air slab,4,0,0,0
+mod_obs5_1,q air vims,4,0,0,0
+mod_obs5_1,q var,4,0,0,0
+mod_obs5_2,por,4,-62937.9,63752.3,71858.9
+mod_obs5_2,por v min,4,-470434,472987,536217
+mod_obs5_2,FOC,4,-44836,44836,24269.1
+mod_obs5_2,airdiff,4,0,0,0
+mod_obs5_2,k sat,4,-1.98E+07,3.66E+07,6.15E+07
+mod_obs5_2,Pore Size Dist.,4,54118.3,58819.2,1.15E+05
+mod_obs5_2,p air,4,-1.33E+04,1.33E+04,2.66E+04
+mod_obs5_2,conc s top,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs5_2,conc s bot,4,0,0,0
+mod_obs5_2,theta min,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs5_2,q air slab,4,0,0,0
+mod_obs5_2,q air vims,4,0,0,0
+mod_obs5_2,q var,4,0,0,0
+mod_obs5_3,por,4,86254.9,106220,187677
+mod_obs5_3,por v min,4,360358,412165,342040
+mod_obs5_3,FOC,4,-170207,170207,326087
+mod_obs5_3,airdiff,4,0,0,0
+mod_obs5_3,k sat,4,-4.00E+09,4.00E+09,7.98E+09
+mod_obs5_3,Pore Size Dist.,4,1.99E+06,1.99E+06,3.18E+06
+mod_obs5_3,p air,4,-391721,391721,762428
+mod_obs5_3,conc s top,4,0,0,0
+mod_obs5_3,conc s bot,4,0,0,0
+mod_obs5_3,theta min,4,0,0,0
+mod_obs5_3,q air slab,4,0,0,0
+mod_obs5_3,q air vims,4,0,0,0
+mod_obs5_3,q var,4,0,0,0
+mod_obs5_4,por,4,71.5161,155.87,196.646
+mod_obs5_4,por v min,4,1552.44,1588.19,1578.02
+mod_obs5_4,FOC,4,-319.084,319.084,254.851
+mod_obs5_4,airdiff,4,0,0,0
+mod_obs5_4,k sat,4,399156,429343,838759
+mod_obs5_4,Pore Size Dist.,4,2111.57,2111.97,4211.67
+mod_obs5_4,p air,4,-470.656,470.656,935.225
+mod_obs5_4,conc s top,4,0,0,0
+mod_obs5_4,conc s bot,4,0,0,0
+mod_obs5_4,theta min,4,0,0,0
+mod_obs5_4,q air slab,4,0,0,0
+mod_obs5_4,q air vims,4,0,0,0
+mod_obs5_4,q var,4,0,0,0
+mod_obs5_5,por,4,118397,124466,244887
+mod_obs5_5,por v min,4,-2.72E+06,2.72E+06,5.40E+06
+mod_obs5_5,FOC,4,-170769,170769,340829
+mod_obs5_5,airdiff,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs5_5,k sat,4,-1.25E+13,1.25E+13,2.49E+13
+mod_obs5_5,Pore Size Dist.,4,8.56E+08,8.56E+08,1.71E+09
+mod_obs5_5,p air,4,-275008,275008,433118
+mod_obs5_5,conc s top,4,0,0,0
+mod_obs5_5,conc s bot,4,0,0,0
+mod_obs5_5,theta min,4,0,0,0
+mod_obs5_5,q air slab,4,0,0,0
+mod_obs5_5,q air vims,4,0,0,0
+mod_obs5_5,q var,4,0,0,0
+mod_obs5_6,por,4,-168.207,222.306,303.517
+mod_obs5_6,por v min,4,494.749,608.878,1022.66
+mod_obs5_6,FOC,4,-4.33E+02,4.33E+02,5.03E+01
+mod_obs5_6,airdiff,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs5_6,k sat,4,188853,387850,665581
+mod_obs5_6,Pore Size Dist.,4,822.251,840.047,1668.25
+mod_obs5_6,p air,4,-187.719,187.765,373.405
+mod_obs5_6,conc s top,4,0,0,0
+mod_obs5_6,conc s bot,4,0,0,0
+mod_obs5_6,theta min,4,0,0,0
+mod_obs5_6,q air slab,4,0,0,0
+mod_obs5_6,q air vims,4,0,0,0
+mod_obs5_6,q var,4,0,0,0
+mod_obs5_7,por,4,-33.6988,4.54E+01,8.14E+01
+mod_obs5_7,por v min,4,5.19E+02,5.30E+02,6.58E+02
+mod_obs5_7,FOC,4,-1.27E+02,1.27E+02,3.58E+01
+mod_obs5_7,airdiff,4,0,0,0
+mod_obs5_7,k sat,4,3.00E+04,7.32E+04,1.24E+05
+mod_obs5_7,Pore Size Dist.,4,403.726,407.396,812.348
+mod_obs5_7,p air,4,-90.588,90.5965,181.008
+mod_obs5_7,conc s top,4,0,0,0
+mod_obs5_7,conc s bot,4,0,0,0
+mod_obs5_7,theta min,4,0,0,0
+mod_obs5_7,q air slab,4,0,0,0
+mod_obs5_7,q air vims,4,0,0,0
+mod_obs5_7,q var,4,0,0,0
+mod_obs6_1,por,4,1.16E+03,4.91E+03,7.78E+03
+mod_obs6_1,por v min,4,25202.8,25728.6,19211.4
+mod_obs6_1,FOC,4,-5408.35,5408.35,6115.08
+mod_obs6_1,airdiff,4,0,0,0
+mod_obs6_1,k sat,4,2.21E+06,3.46E+06,6.14E+06
+mod_obs6_1,Pore Size Dist.,4,20813.1,20823.8,39849.3
+mod_obs6_1,p air,4,-4672.07,4672.07,9073.57
+mod_obs6_1,conc s top,4,0,0,0
+mod_obs6_1,conc s bot,4,0,0,0
+mod_obs6_1,theta min,4,0,0,0
+mod_obs6_1,q air slab,4,0,0,0
+mod_obs6_1,q air vims,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs6_1,q var,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs6_2,por,4,-9.73E+04,9.89E+04,1.18E+05
+mod_obs6_2,por v min,4,-414047,418402,467336
+mod_obs6_2,FOC,4,-4.18E+04,4.18E+04,2.26E+04
+mod_obs6_2,airdiff,4,0,0,0
+mod_obs6_2,k sat,4,-1.92E+07,3.88E+07,6.45E+07
+mod_obs6_2,Pore Size Dist.,4,22159.2,26839.1,50573.9
+mod_obs6_2,p air,4,-6390.41,6401.46,12729
+mod_obs6_2,conc s top,4,0,0,0
+mod_obs6_2,conc s bot,4,0,0,0
+mod_obs6_2,theta min,4,0,0,0
+mod_obs6_2,q air slab,4,0,0,0
+mod_obs6_2,q air vims,4,0,0,0.00E+00
+mod_obs6_2,q var,4,0,0,0
+mod_obs6_3,por,4,18078,68847.6,107127
+mod_obs6_3,por v min,4,406545,453846,341415
+mod_obs6_3,FOC,4,-120439,120875,227653
+mod_obs6_3,airdiff,4,0,0,0
+mod_obs6_3,k sat,4,-4.14E+09,4.14E+09,8.23E+09
+mod_obs6_3,Pore Size Dist.,4,961357,961357,1.22E+06
+mod_obs6_3,p air,4,-155347,155347,292441
+mod_obs6_3,conc s top,4,0,0,0
+mod_obs6_3,conc s bot,4,0,0,0
+mod_obs6_3,theta min,4,0,0,0
+mod_obs6_3,q air slab,4,0,0,0
+mod_obs6_3,q air vims,4,0,0,0
+mod_obs6_3,q var,4,0,0,0
+mod_obs6_4,por,4,-22.2114,216.113,338.557
+mod_obs6_4,por v min,4,2093.8,2130.29,2069.08
+mod_obs6_4,FOC,4,-328.232,328.232,274.745
+mod_obs6_4,airdiff,4,0,0,0
+mod_obs6_4,k sat,4,407503,492098,930324
+mod_obs6_4,Pore Size Dist.,4,975.33,976.2,1939.62
+mod_obs6_4,p air,4,-223.724,223.724,441.126
+mod_obs6_4,conc s top,4,0,0,0
+mod_obs6_4,conc s bot,4,0,0,0
+mod_obs6_4,theta min,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs6_4,q air slab,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs6_4,q air vims,4,0,0,0
+mod_obs6_4,q var,4,0,0,0
+mod_obs6_5,por,4,-27922.3,27922.3,38491.8
+mod_obs6_5,por v min,4,-1.34E+06,1.34E+06,2.65E+06
+mod_obs6_5,FOC,4,-89765,89765,178825
+mod_obs6_5,airdiff,4,0,0,0
+mod_obs6_5,k sat,4,-1.24E+13,1.24E+13,2.49E+13
+mod_obs6_5,Pore Size Dist.,4,8.54E+08,8.54E+08,1.71E+09
+mod_obs6_5,p air,4,-94488.8,94488.8,133504
+mod_obs6_5,conc s top,4,0,0,0
+mod_obs6_5,conc s bot,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs6_5,theta min,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs6_5,q air slab,4,0,0,0
+mod_obs6_5,q air vims,4,0,0,0
+mod_obs6_5,q var,4,0,0,0
+mod_obs6_6,por,4,-425.308,500.876,660.165
+mod_obs6_6,por v min,4,1299.51,1371.37,1580.33
+mod_obs6_6,FOC,4,-443.491,443.491,94.7668
+mod_obs6_6,airdiff,4,0,0,0
+mod_obs6_6,k sat,4,198181,469662,794893
+mod_obs6_6,Pore Size Dist.,4,376.919,395.064,778.072
+mod_obs6_6,p air,4,-93.165,9.32E+01,1.84E+02
+mod_obs6_6,conc s top,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs6_6,conc s bot,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs6_6,theta min,4,0,0,0
+mod_obs6_6,q air slab,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs6_6,q air vims,4,0,0,0
+mod_obs6_6,q var,4,0,0,0
+mod_obs6_7,por,4,-117.927,125.623,181.233
+mod_obs6_7,por v min,4,806.459,818.734,962.123
+mod_obs6_7,FOC,4,-129.934,129.934,35.9026
+mod_obs6_7,airdiff,4,0,0,0
+mod_obs6_7,k sat,4,26089.6,100555,165770
+mod_obs6_7,Pore Size Dist.,4,188.895,192.726,382.902
+mod_obs6_7,p air,4,-4.47E+01,4.47E+01,8.92E+01
+mod_obs6_7,conc s top,4,0,0,0
+mod_obs6_7,conc s bot,4,0,0,0
+mod_obs6_7,theta min,4,0,0,0
+mod_obs6_7,q air slab,4,0,0,0
+mod_obs6_7,q air vims,4,0,0,0
+mod_obs6_7,q var,4,0,0,0
+mod_obs7_1,por,4,-1096.82,9250.2,13454.1
+mod_obs7_1,por v min,4,26647,27222.9,24094.2
+mod_obs7_1,FOC,4,-9701.68,9701.68,8237.81
+mod_obs7_1,airdiff,4,0,0,0
+mod_obs7_1,k sat,4,2.52E+06,1.41E+07,2.31E+07
+mod_obs7_1,Pore Size Dist.,4,2.86E+04,2.86E+04,5.53E+04
+mod_obs7_1,p air,4,-6.59E+03,6.59E+03,1.29E+04
+mod_obs7_1,conc s top,4,0,0,0
+mod_obs7_1,conc s bot,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs7_1,theta min,4,0,0,0
+mod_obs7_1,q air slab,4,0,0,0
+mod_obs7_1,q air vims,4,0,0,0
+mod_obs7_1,q var,4,0,0,0
+mod_obs7_2,por,4,-282190,285121,341990
+mod_obs7_2,por v min,4,-2.11E+06,2.12E+06,2.45E+06
+mod_obs7_2,FOC,4,-102779,102779,63602.9
+mod_obs7_2,airdiff,4,0,0,0
+mod_obs7_2,k sat,4,-2.09E+08,2.35E+08,4.50E+08
+mod_obs7_2,Pore Size Dist.,4,18045.1,22752.5,42383.5
+mod_obs7_2,p air,4,-9077.38,9088.28,18095.8
+mod_obs7_2,conc s top,4,0,0,0
+mod_obs7_2,conc s bot,4,0,0,0
+mod_obs7_2,theta min,4,0,0,0
+mod_obs7_2,q air slab,4,0,0,0
+mod_obs7_2,q air vims,4,0,0,0
+mod_obs7_2,q var,4,0,0,0
+mod_obs7_3,por,4,102395,182702,315689
+mod_obs7_3,por v min,4,429263,489525,452834
+mod_obs7_3,FOC,4,-231944,231944,412416
+mod_obs7_3,airdiff,4,0,0,0
+mod_obs7_3,k sat,4,-3.89E+09,3.89E+09,7.64E+09
+mod_obs7_3,Pore Size Dist.,4,1.13E+06,1.13E+06,1.52E+06
+mod_obs7_3,p air,4,-195082,195082,369722
+mod_obs7_3,conc s top,4,0,0,0
+mod_obs7_3,conc s bot,4,0,0,0
+mod_obs7_3,theta min,4,0,0,0
+mod_obs7_3,q air slab,4,0,0,0
+mod_obs7_3,q air vims,4,0,0,0
+mod_obs7_3,q var,4,0,0,0
+mod_obs7_4,por,4,-141.083,420.742,639.093
+mod_obs7_4,por v min,4,3038.87,3079.52,3185.52
+mod_obs7_4,FOC,4,-5.42E+02,5.42E+02,3.04E+02
+mod_obs7_4,airdiff,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs7_4,k sat,4,276112,976572,1.62E+06
+mod_obs7_4,Pore Size Dist.,4,1326.72,1327.83,2641.54
+mod_obs7_4,p air,4,-312.14,312.14,617.484
+mod_obs7_4,conc s top,4,0,0,0
+mod_obs7_4,conc s bot,4,0,0,0
+mod_obs7_4,theta min,4,0,0,0
+mod_obs7_4,q air slab,4,0,0,0
+mod_obs7_4,q air vims,4,0,0,0
+mod_obs7_4,q var,4,0,0,0
+mod_obs7_5,por,4,232393,275519,522455
+mod_obs7_5,por v min,4,-2.66E+06,2.66E+06,4.95E+06
+mod_obs7_5,FOC,4,-1.92E+05,1.92E+05,3.78E+05
+mod_obs7_5,airdiff,4,0,0,0
+mod_obs7_5,k sat,4,-1.24E+13,1.24E+13,2.49E+13
+mod_obs7_5,Pore Size Dist.,4,8.54E+08,8.54E+08,1.71E+09
+mod_obs7_5,p air,4,-101531,101531,141326
+mod_obs7_5,conc s top,4,0,0,0
+mod_obs7_5,conc s bot,4,0,0,0
+mod_obs7_5,theta min,4,0,0,0
+mod_obs7_5,q air slab,4,0,0,0
+mod_obs7_5,q air vims,4,0,0,0
+mod_obs7_5,q var,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs7_6,por,4,-1.19E+03,1.30E+03,1.70E+03
+mod_obs7_6,por v min,4,-1.69E+03,1.88E+03,2.27E+03
+mod_obs7_6,FOC,4,-901.729,901.729,263.264
+mod_obs7_6,airdiff,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs7_6,k sat,4,-701877,1.59E+06,2.70E+06
+mod_obs7_6,Pore Size Dist.,4,447.295,465.578,919
+mod_obs7_6,p air,4,-129.83,129.874,257.138
+mod_obs7_6,conc s top,4,0,0,0
+mod_obs7_6,conc s bot,4,0,0,0
+mod_obs7_6,theta min,4,0,0,0
+mod_obs7_6,q air slab,4,0,0,0
+mod_obs7_6,q air vims,4,0,0,0
+mod_obs7_6,q var,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs7_7,por,4,-287.757,300.672,421.346
+mod_obs7_7,por v min,4,691.083,704.952,908.998
+mod_obs7_7,FOC,4,-252.151,252.151,103.286
+mod_obs7_7,airdiff,4,0,0,0
+mod_obs7_7,k sat,4,-206964,376386,656787
+mod_obs7_7,Pore Size Dist.,4,240.807,244.718,486.831
+mod_obs7_7,p air,4,-62.0108,62.0192,123.782
+mod_obs7_7,conc s top,4,0,0,0
+mod_obs7_7,conc s bot,4,0,0,0
+mod_obs7_7,theta min,4,0,0,0
+mod_obs7_7,q air slab,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs7_7,q air vims,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs7_7,q var,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs8_1,por,4,-118.984,3123.47,4902.66
+mod_obs8_1,por v min,4,3.21E+04,3.25E+04,2.70E+04
+mod_obs8_1,FOC,4,-4397.06,4397.06,4927.37
+mod_obs8_1,airdiff,4,0,0,0
+mod_obs8_1,k sat,4,1.02E+06,2.23E+06,3.74E+06
+mod_obs8_1,Pore Size Dist.,4,10082.9,10082.9,18230.6
+mod_obs8_1,p air,4,-2240.31,2240.31,4141.79
+mod_obs8_1,conc s top,4,0,0,0
+mod_obs8_1,conc s bot,4,0,0,0
+mod_obs8_1,theta min,4,0,0,0
+mod_obs8_1,q air slab,4,0,0,0.00E+00
+mod_obs8_1,q air vims,4,0,0,0
+mod_obs8_1,q var,4,0,0,0
+mod_obs8_2,por,4,-82024.2,85406.5,110471
+mod_obs8_2,por v min,4,-210964,219462,275709
+mod_obs8_2,FOC,4,-35493.7,35493.7,16014.7
+mod_obs8_2,airdiff,4,0,0,0
+mod_obs8_2,k sat,4,-1.49E+07,3.92E+07,6.33E+07
+mod_obs8_2,Pore Size Dist.,4,7221.61,11874.7,20683.7
+mod_obs8_2,p air,4,-2921.92,2932.85,5768.75
+mod_obs8_2,conc s top,4,0,0,0
+mod_obs8_2,conc s bot,4,0,0,0
+mod_obs8_2,theta min,4,0,0,0
+mod_obs8_2,q air slab,4,0,0,0
+mod_obs8_2,q air vims,4,0,0,0
+mod_obs8_2,q var,4,0,0,0
+mod_obs8_3,por,4,-98687.7,100510,160636
+mod_obs8_3,por v min,4,377429,418522,319583
+mod_obs8_3,FOC,4,-87506.9,93617.9,183200
+mod_obs8_3,airdiff,4,0,0,0
+mod_obs8_3,k sat,4,-4.23E+09,4.23E+09,8.42E+09
+mod_obs8_3,Pore Size Dist.,4,565781,565781,638153
+mod_obs8_3,p air,4,-62844.7,62844.7,106621
+mod_obs8_3,conc s top,4,0,0,0
+mod_obs8_3,conc s bot,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs8_3,theta min,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs8_3,q air slab,4,0,0,0
+mod_obs8_3,q air vims,4,0,0,0
+mod_obs8_3,q var,4,0,0,0
+mod_obs8_4,por,4,36.1187,228.253,357.766
+mod_obs8_4,por v min,4,2530.37,2566.87,2387.35
+mod_obs8_4,FOC,4,-285.413,285.413,297.491
+mod_obs8_4,airdiff,4,0,0,0
+mod_obs8_4,k sat,4,444886,510760,978818
+mod_obs8_4,Pore Size Dist.,4,445.696,446.529,877.693
+mod_obs8_4,p air,4,-103.192,103.192,198.266
+mod_obs8_4,conc s top,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs8_4,conc s bot,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs8_4,theta min,4,0,0,0
+mod_obs8_4,q air slab,4,0,0,0
+mod_obs8_4,q air vims,4,0,0,0
+mod_obs8_4,q var,4,0,0,0
+mod_obs8_5,por,4,-162197,162197,307573
+mod_obs8_5,por v min,4,-1.06E+06,1.09E+06,2.14E+06
+mod_obs8_5,FOC,4,-78642.1,78692.4,156765
+mod_obs8_5,airdiff,4,0,0,0
+mod_obs8_5,k sat,4,-1.24E+13,1.24E+13,2.49E+13
+mod_obs8_5,Pore Size Dist.,4,8.54E+08,8.54E+08,1.71E+09
+mod_obs8_5,p air,4,-2.89E+04,2.89E+04,2.77E+04
+mod_obs8_5,conc s top,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs8_5,conc s bot,4,0,0,0
+mod_obs8_5,theta min,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs8_5,q air slab,4,0,0,0
+mod_obs8_5,q air vims,4,0,0,0
+mod_obs8_5,q var,4,0,0,0
+mod_obs8_6,por,4,-315.745,447.003,652.949
+mod_obs8_6,por v min,4,2962.52,3044.88,3192.56
+mod_obs8_6,FOC,4,-405.242,405.242,148.213
+mod_obs8_6,airdiff,4,0,0,0
+mod_obs8_6,k sat,4,283571,525011,912581
+mod_obs8_6,Pore Size Dist.,4,1.53E+02,1.71E+02,3.30E+02
+mod_obs8_6,p air,4,-41.8665,41.9105,80.6552
+mod_obs8_6,conc s top,4,0,0,0
+mod_obs8_6,conc s bot,4,0,0,0
+mod_obs8_6,theta min,4,0,0,0
+mod_obs8_6,q air slab,4,0,0,0
+mod_obs8_6,q air vims,4,0,0,0
+mod_obs8_6,q var,4,0,0,0
+mod_obs8_7,por,4,-82.9251,98.4805,163.434
+mod_obs8_7,por v min,4,1219.3,1233.76,1386.67
+mod_obs8_7,FOC,4,-112.111,112.111,30.7674
+mod_obs8_7,airdiff,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs8_7,k sat,4,5.93E+04,1.17E+05,2.01E+05
+mod_obs8_7,Pore Size Dist.,4,8.04E+01,8.43E+01,1.66E+02
+mod_obs8_7,p air,4,-19.7467,19.755,39.188
+mod_obs8_7,conc s top,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs8_7,conc s bot,4,0,0,0
+mod_obs8_7,theta min,4,0,0,0
+mod_obs8_7,q air slab,4,0,0,0
+mod_obs8_7,q air vims,4,0,0,0
+mod_obs8_7,q var,4,0,0,0
+mod_obs9_1,por,4,1073.64,3438.09,5603.53
+mod_obs9_1,por v min,4,25822.5,26091.9,22099.1
+mod_obs9_1,FOC,4,-4820.6,4820.6,7391.39
+mod_obs9_1,airdiff,4,0,0,0.00E+00
+mod_obs9_1,k sat,4,3.85E+06,4.55E+06,8.65E+06
+mod_obs9_1,Pore Size Dist.,4,17134.3,17134.3,32353.3
+mod_obs9_1,p air,4,-3846.69,3846.69,7398.19
+mod_obs9_1,conc s top,4,0,0,0
+mod_obs9_1,conc s bot,4,0,0,0
+mod_obs9_1,theta min,4,0,0,0
+mod_obs9_1,q air slab,4,0,0,0
+mod_obs9_1,q air vims,4,0,0,0
+mod_obs9_1,q var,4,0,0,0
+mod_obs9_2,por,4,-58056.5,61731.5,79219.5
+mod_obs9_2,por v min,4,-60043.9,72135.7,115796
+mod_obs9_2,FOC,4,-22429.1,22429.1,9569.56
+mod_obs9_2,airdiff,4,0,0,0
+mod_obs9_2,k sat,4,-4.24E+06,2.86E+07,4.43E+07
+mod_obs9_2,Pore Size Dist.,4,18020.6,22716.8,42322.2
+mod_obs9_2,p air,4,-5105.78,5116.94,10138.1
+mod_obs9_2,conc s top,4,0,0,0
+mod_obs9_2,conc s bot,4,0,0,0
+mod_obs9_2,theta min,4,0,0,0
+mod_obs9_2,q air slab,4,0,0,0
+mod_obs9_2,q air vims,4,0,0,0
+mod_obs9_2,q var,4,0,0,0
+mod_obs9_3,por,4,57641.6,78722.9,142685
+mod_obs9_3,por v min,4,2.65E+05,3.00E+05,2.31E+05
+mod_obs9_3,FOC,4,-1.48E+05,1.63E+05,3.17E+05
+mod_obs9_3,airdiff,4,0,0,0
+mod_obs9_3,k sat,4,-4.05E+09,4.05E+09,8.08E+09
+mod_obs9_3,Pore Size Dist.,4,725620,725620,830225
+mod_obs9_3,p air,4,-98353,98353,181395
+mod_obs9_3,conc s top,4,0,0,0
+mod_obs9_3,conc s bot,4,0,0,0
+mod_obs9_3,theta min,4,0,0,0
+mod_obs9_3,q air slab,4,0,0,0
+mod_obs9_3,q air vims,4,0,0,0
+mod_obs9_3,q var,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs9_4,por,4,6.33E+01,1.92E+02,3.14E+02
+mod_obs9_4,por v min,4,1.92E+03,1.96E+03,1.76E+03
+mod_obs9_4,FOC,4,-251.113,251.113,351.496
+mod_obs9_4,airdiff,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs9_4,k sat,4,491852,524207,1.03E+06
+mod_obs9_4,Pore Size Dist.,4,774.536,775.539,1536.19
+mod_obs9_4,p air,4,-178.453,178.453,349.298
+mod_obs9_4,conc s top,4,0,0,0
+mod_obs9_4,conc s bot,4,0,0,0
+mod_obs9_4,theta min,4,0,0,0
+mod_obs9_4,q air slab,4,0,0,0
+mod_obs9_4,q air vims,4,0,0,0
+mod_obs9_4,q var,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs9_5,por,4,151454,161989,316982
+mod_obs9_5,por v min,4,-1.80E+06,1.84E+06,3.64E+06
+mod_obs9_5,FOC,4,-133156,133286,266317
+mod_obs9_5,airdiff,4,0,0,0
+mod_obs9_5,k sat,4,-1.25E+13,1.25E+13,2.49E+13
+mod_obs9_5,Pore Size Dist.,4,8.55E+08,8.55E+08,1.71E+09
+mod_obs9_5,p air,4,-31031.6,31031.6,35143.7
+mod_obs9_5,conc s top,4,0,0,0
+mod_obs9_5,conc s bot,4,0,0,0
+mod_obs9_5,theta min,4,0,0,0
+mod_obs9_5,q air slab,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs9_5,q air vims,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs9_5,q var,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs9_6,por,4,-200.794,337.883,479.762
+mod_obs9_6,por v min,4,2.69E+03,2.77E+03,2.89E+03
+mod_obs9_6,FOC,4,-301.397,301.397,204.2
+mod_obs9_6,airdiff,4,0,0,0
+mod_obs9_6,k sat,4,339722,472079,862024
+mod_obs9_6,Pore Size Dist.,4,291.407,309.743,607.319
+mod_obs9_6,p air,4,-71.8805,71.9254,140.748
+mod_obs9_6,conc s top,4,0,0,0
+mod_obs9_6,conc s bot,4,0,0,0
+mod_obs9_6,theta min,4,0,0,0
+mod_obs9_6,q air slab,4,0,0,0.00E+00
+mod_obs9_6,q air vims,4,0,0,0
+mod_obs9_6,q var,4,0,0,0
+mod_obs9_7,por,4,-53.176,70.556,111.833
+mod_obs9_7,por v min,4,982.805,997.859,1113.22
+mod_obs9_7,FOC,4,-79.1449,79.1449,41.8539
+mod_obs9_7,airdiff,4,0,0,0
+mod_obs9_7,k sat,4,73504.1,101154,185233
+mod_obs9_7,Pore Size Dist.,4,145.261,149.31,295.926
+mod_obs9_7,p air,4,-34.2023,34.2108,68.0947
+mod_obs9_7,conc s top,4,0,0,0
+mod_obs9_7,conc s bot,4,0,0,0
+mod_obs9_7,theta min,4,0,0,0
+mod_obs9_7,q air slab,4,0,0,0
+mod_obs9_7,q air vims,4,0,0,0
+mod_obs9_7,q var,4,0,0,0
+mod_obs10_2,por,4,-56665.4,61750.3,81684.1
+mod_obs10_2,por v min,4,-35948.9,82013.9,117359
+mod_obs10_2,FOC,4,-23892.7,23892.7,9287.64
+mod_obs10_2,airdiff,4,0,0,0
+mod_obs10_2,k sat,4,-2.54E+06,3.37E+07,5.25E+07
+mod_obs10_2,Pore Size Dist.,4,28389.5,33094.8,63066
+mod_obs10_2,p air,4,-7456.3,7467.54,14829.3
+mod_obs10_2,conc s top,4,0,0,0
+mod_obs10_2,conc s bot,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs10_2,theta min,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs10_2,q air slab,4,0,0,0
+mod_obs10_2,q air vims,4,0,0,0
+mod_obs10_2,q var,4,0,0,0
+mod_obs10_3,por,4,98258.9,114949,216023
+mod_obs10_3,por v min,4,309996,347703,282402
+mod_obs10_3,FOC,4,-191889,209646,407459
+mod_obs10_3,airdiff,4,0,0,0
+mod_obs10_3,k sat,4,-3.94E+09,3.94E+09,7.85E+09
+mod_obs10_3,Pore Size Dist.,4,900668,900668,1.09E+06
+mod_obs10_3,p air,4,-137387,137387,255415
+mod_obs10_3,conc s top,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs10_3,conc s bot,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs10_3,theta min,4,0,0,0
+mod_obs10_3,q air slab,4,0,0,0
+mod_obs10_3,q air vims,4,0,0,0
+mod_obs10_3,q var,4,0,0,0
+mod_obs10_4,por,4,113.584,226.904,374.73
+mod_obs10_4,por v min,4,1911.55,1947.74,1674.27
+mod_obs10_4,FOC,4,-292.537,292.537,455.081
+mod_obs10_4,airdiff,4,0,0,0
+mod_obs10_4,k sat,4,649793,671910,1.33E+06
+mod_obs10_4,Pore Size Dist.,4,1.12E+03,1.13E+03,2.23E+03
+mod_obs10_4,p air,4,-2.57E+02,2.57E+02,5.05E+02
+mod_obs10_4,conc s top,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs10_4,conc s bot,4,0,0,0
+mod_obs10_4,theta min,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs10_4,q air slab,4,0,0,0
+mod_obs10_4,q air vims,4,0,0,0
+mod_obs10_4,q var,4,0,0,0
+mod_obs10_5,por,4,278651,289839,572242
+mod_obs10_5,por v min,4,-2.42E+06,2.47E+06,4.89E+06
+mod_obs10_5,FOC,4,-176104,176259,352222
+mod_obs10_5,airdiff,4,0,0,0
+mod_obs10_5,k sat,4,-1.25E+13,1.25E+13,2.49E+13
+mod_obs10_5,Pore Size Dist.,4,8.55E+08,8.55E+08,1.71E+09
+mod_obs10_5,p air,4,-39980.9,39980.9,43952.2
+mod_obs10_5,conc s top,4,0,0,0
+mod_obs10_5,conc s bot,4,0,0,0
+mod_obs10_5,theta min,4,0,0,0
+mod_obs10_5,q air slab,4,0,0,0
+mod_obs10_5,q air vims,4,0,0,0
+mod_obs10_5,q var,4,0,0,0
+mod_obs10_6,por,4,-155.175,337.511,498.17
+mod_obs10_6,por v min,4,2964.06,3054.64,3134.68
+mod_obs10_6,FOC,4,-333.186,333.186,281.006
+mod_obs10_6,airdiff,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs10_6,k sat,4,4.54E+05,5.76E+05,1.07E+06
+mod_obs10_6,Pore Size Dist.,4,4.34E+02,4.52E+02,8.92E+02
+mod_obs10_6,p air,4,-103.785,103.83,204.215
+mod_obs10_6,conc s top,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs10_6,conc s bot,4,0,0,0
+mod_obs10_6,theta min,4,0,0,0
+mod_obs10_6,q air slab,4,0,0,0
+mod_obs10_6,q air vims,4,0,0,0
+mod_obs10_6,q var,4,0,0,0
+mod_obs10_7,por,4,-40.0649,63.9531,107.044
+mod_obs10_7,por v min,4,1001.51,1017.75,1121.77
+mod_obs10_7,FOC,4,-83.6389,83.6389,60.8776
+mod_obs10_7,airdiff,4,0,0,0.00E+00
+mod_obs10_7,k sat,4,101647,122179,231182
+mod_obs10_7,Pore Size Dist.,4,212.909,216.984,431.255
+mod_obs10_7,p air,4,-49.2845,49.293,98.2167
+mod_obs10_7,conc s top,4,0,0,0
+mod_obs10_7,conc s bot,4,0,0,0
+mod_obs10_7,theta min,4,0,0,0
+mod_obs10_7,q air slab,4,0,0,0
+mod_obs10_7,q air vims,4,0,0,0
+mod_obs10_7,q var,4,0,0,0
+mod_obs11_1,por,4,1875.58,3132.13,5510.87
+mod_obs11_1,por v min,4,18941.8,19134.4,14436.5
+mod_obs11_1,FOC,4,-4450.64,4450.64,8054.84
+mod_obs11_1,airdiff,4,0,0,0
+mod_obs11_1,k sat,4,4.92E+06,5.19E+06,1.02E+07
+mod_obs11_1,Pore Size Dist.,4,15393.4,15393.4,28753.6
+mod_obs11_1,p air,4,-3381.16,3381.16,6454.95
+mod_obs11_1,conc s top,4,0,0,0
+mod_obs11_1,conc s bot,4,0,0,0
+mod_obs11_1,theta min,4,0,0,0
+mod_obs11_1,q air slab,4,0,0,0
+mod_obs11_1,q air vims,4,0,0,0
+mod_obs11_1,q var,4,0,0,0
+mod_obs11_2,por,4,-37430.8,42821.1,55310.8
+mod_obs11_2,por v min,4,1.99E+04,5.64E+04,7.96E+04
+mod_obs11_2,FOC,4,-1.38E+04,1.38E+04,7.97E+03
+mod_obs11_2,airdiff,4,0,0,0
+mod_obs11_2,k sat,4,4.33E+06,2.37E+07,3.71E+07
+mod_obs11_2,Pore Size Dist.,4,16781.8,21405.8,39748.3
+mod_obs11_2,p air,4,-4543.8,4554.73,9006.37
+mod_obs11_2,conc s top,4,0,0,0
+mod_obs11_2,conc s bot,4,0,0,0
+mod_obs11_2,theta min,4,0,0,0
+mod_obs11_2,q air slab,4,0,0,0
+mod_obs11_2,q air vims,4,0,0,0
+mod_obs11_2,q var,4,0,0,0
+mod_obs11_3,por,4,9.28E+04,1.03E+05,1.98E+05
+mod_obs11_3,por v min,4,2.18E+05,2.49E+05,2.83E+05
+mod_obs11_3,FOC,4,-136597,158425,302299
+mod_obs11_3,airdiff,4,0,0,0
+mod_obs11_3,k sat,4,-4.06E+09,4.06E+09,8.11E+09
+mod_obs11_3,Pore Size Dist.,4,654835,654835,731516
+mod_obs11_3,p air,4,-80111.4,80111.4,145339
+mod_obs11_3,conc s top,4,0,0,0
+mod_obs11_3,conc s bot,4,0,0,0
+mod_obs11_3,theta min,4,0,0,0
+mod_obs11_3,q air slab,4,0,0,0
+mod_obs11_3,q air vims,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs11_3,q var,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs11_4,por,4,1.27E+02,1.82E+02,3.24E+02
+mod_obs11_4,por v min,4,1127.66,1163.28,902.26
+mod_obs11_4,FOC,4,-2.19E+02,2.19E+02,4.00E+02
+mod_obs11_4,airdiff,4,0,0,0
+mod_obs11_4,k sat,4,558783,568858,1.13E+06
+mod_obs11_4,Pore Size Dist.,4,675.519,676.466,1335.82
+mod_obs11_4,p air,4,-152.77,152.77,297.56
+mod_obs11_4,conc s top,4,0,0,0
+mod_obs11_4,conc s bot,4,0,0,0
+mod_obs11_4,theta min,4,0,0,0
+mod_obs11_4,q air slab,4,0,0,0
+mod_obs11_4,q air vims,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs11_4,q var,4,0,0,0
+mod_obs11_5,por,4,176903,185950,365887
+mod_obs11_5,por v min,4,-1.82E+06,1.87E+06,3.69E+06
+mod_obs11_5,FOC,4,-123225,123498,246799
+mod_obs11_5,airdiff,4,0,0,0
+mod_obs11_5,k sat,4,-1.25E+13,1.25E+13,2.49E+13
+mod_obs11_5,Pore Size Dist.,4,8.55E+08,8.55E+08,1.71E+09
+mod_obs11_5,p air,4,-23390.6,23390.6,25112.2
+mod_obs11_5,conc s top,4,0,0,0
+mod_obs11_5,conc s bot,4,0,0,0
+mod_obs11_5,theta min,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs11_5,q air slab,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs11_5,q air vims,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs11_5,q var,4,0,0,0
+mod_obs11_6,por,4,-5.20E+01,2.40E+02,3.47E+02
+mod_obs11_6,por v min,4,2080.09,2173.06,2160.98
+mod_obs11_6,FOC,4,-229.075,229.075,284.579
+mod_obs11_6,airdiff,4,0,0,0
+mod_obs11_6,k sat,4,438499,483558,937244
+mod_obs11_6,Pore Size Dist.,4,262.153,279.949,548.095
+mod_obs11_6,p air,4,-62.7116,62.7553,122.172
+mod_obs11_6,conc s top,4,0,0,0
+mod_obs11_6,conc s bot,4,0,0,0
+mod_obs11_6,theta min,4,0,0,0.00E+00
+mod_obs11_6,q air slab,4,0,0,0
+mod_obs11_6,q air vims,4,0,0,0
+mod_obs11_6,q var,4,0,0,0
+mod_obs11_7,por,4,-13.4452,40.4721,62.1713
+mod_obs11_7,por v min,4,610.483,627.312,670.06
+mod_obs11_7,FOC,4,-55.5961,55.5961,69.1815
+mod_obs11_7,airdiff,4,0,0,0
+mod_obs11_7,k sat,4,103448,106969,211592
+mod_obs11_7,Pore Size Dist.,4,127.692,131.774,260.831
+mod_obs11_7,p air,4,-29.2908,29.2991,58.2301
+mod_obs11_7,conc s top,4,0,0,0
+mod_obs11_7,conc s bot,4,0,0,0
+mod_obs11_7,theta min,4,0,0,0
+mod_obs11_7,q air slab,4,0,0,0
+mod_obs11_7,q air vims,4,0,0,0
+mod_obs11_7,q var,4,0,0,0
+mod_obs12_1,por,4,2326.93,4121.78,7139.42
+mod_obs12_1,por v min,4,23940.1,24069.7,17279.7
+mod_obs12_1,FOC,4,-5601.96,5601.96,10153.7
+mod_obs12_1,airdiff,4,0,0,0
+mod_obs12_1,k sat,4,7.92E+06,8.31E+06,1.64E+07
+mod_obs12_1,Pore Size Dist.,4,12817.2,12817.2,23459.4
+mod_obs12_1,p air,4,-2757.22,2757.22,5172.78
+mod_obs12_1,conc s top,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs12_1,conc s bot,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs12_1,theta min,4,0,0,0
+mod_obs12_1,q air slab,4,0,0,0
+mod_obs12_1,q air vims,4,0,0,0
+mod_obs12_1,q var,4,0,0,0
+mod_obs12_2,por,4,-52844.4,58922.4,74659.4
+mod_obs12_2,por v min,4,26861,76376.4,109211
+mod_obs12_2,FOC,4,-17803.5,17803.5,10136.7
+mod_obs12_2,airdiff,4,0,0,0
+mod_obs12_2,k sat,4,2.79E+06,2.96E+07,4.60E+07
+mod_obs12_2,Pore Size Dist.,4,12718.5,17365,31657.9
+mod_obs12_2,p air,4,-3.63E+03,3.64E+03,7.17E+03
+mod_obs12_2,conc s top,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs12_2,conc s bot,4,0,0,0
+mod_obs12_2,theta min,4,0,0,0
+mod_obs12_2,q air slab,4,0,0,0
+mod_obs12_2,q air vims,4,0,0,0
+mod_obs12_2,q var,4,0,0,0
+mod_obs12_3,por,4,158311,168995,330907
+mod_obs12_3,por v min,4,288595,320358,415837
+mod_obs12_3,FOC,4,-161459,183412,352188
+mod_obs12_3,airdiff,4,0,0,0
+mod_obs12_3,k sat,4,-4.07E+09,4.07E+09,8.13E+09
+mod_obs12_3,Pore Size Dist.,4,6.09E+05,6.09E+05,6.75E+05
+mod_obs12_3,p air,4,-6.70E+04,6.70E+04,1.17E+05
+mod_obs12_3,conc s top,4,0,0,0
+mod_obs12_3,conc s bot,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs12_3,theta min,4,0,0,0
+mod_obs12_3,q air slab,4,0,0,0
+mod_obs12_3,q air vims,4,0,0,0
+mod_obs12_3,q var,4,0,0,0
+mod_obs12_4,por,4,126,198.133,351.597
+mod_obs12_4,por v min,4,1286.18,1321.25,1010.12
+mod_obs12_4,FOC,4,-264.528,266.105,487.636
+mod_obs12_4,airdiff,4,0,0,0
+mod_obs12_4,k sat,4,6.82E+05,6.93E+05,1.38E+06
+mod_obs12_4,Pore Size Dist.,4,560.769,561.446,1103.68
+mod_obs12_4,p air,4,-125.037,125.037,241.095
+mod_obs12_4,conc s top,4,0,0,0
+mod_obs12_4,conc s bot,4,0,0,0
+mod_obs12_4,theta min,4,0,0,0
+mod_obs12_4,q air slab,4,0,0,0
+mod_obs12_4,q air vims,4,0,0,0
+mod_obs12_4,q var,4,0,0,0
+mod_obs12_5,por,4,81069.7,95336.5,181224
+mod_obs12_5,por v min,4,-1.72E+06,1.78E+06,3.51E+06
+mod_obs12_5,FOC,4,-1.37E+05,1.37E+05,2.73E+05
+mod_obs12_5,airdiff,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs12_5,k sat,4,-1.24E+13,1.24E+13,2.49E+13
+mod_obs12_5,Pore Size Dist.,4,8.54E+08,8.54E+08,1.71E+09
+mod_obs12_5,p air,4,-2.21E+04,2.21E+04,1.75E+04
+mod_obs12_5,conc s top,4,0,0,0
+mod_obs12_5,conc s bot,4,0,0,0
+mod_obs12_5,theta min,4,0,0,0
+mod_obs12_5,q air slab,4,0,0,0
+mod_obs12_5,q air vims,4,0,0,0
+mod_obs12_5,q var,4,0,0,0
+mod_obs12_6,por,4,-98.8703,307.805,422.655
+mod_obs12_6,por v min,4,2512.86,2610.44,2607.18
+mod_obs12_6,FOC,4,-268.835,268.835,3.27E+02
+mod_obs12_6,airdiff,4,0,0,0
+mod_obs12_6,k sat,4,498580,567523,1.09E+06
+mod_obs12_6,Pore Size Dist.,4,211.755,229.181,446.829
+mod_obs12_6,p air,4,-50.7531,50.7975,97.8346
+mod_obs12_6,conc s top,4,0,0,0
+mod_obs12_6,conc s bot,4,0,0,0
+mod_obs12_6,theta min,4,0,0,0
+mod_obs12_6,q air slab,4,0,0,0
+mod_obs12_6,q air vims,4,0,0,0
+mod_obs12_6,q var,4,0,0,0
+mod_obs12_7,por,4,-21.1566,53.4419,75.4845
+mod_obs12_7,por v min,4,702.957,720.768,767.842
+mod_obs12_7,FOC,4,-62.6675,62.6675,78.3899
+mod_obs12_7,airdiff,4,0,0,0
+mod_obs12_7,k sat,4,115227,122964,240788
+mod_obs12_7,Pore Size Dist.,4,104.67,108.767,214.81
+mod_obs12_7,p air,4,-23.7322,23.7406,47.0636
+mod_obs12_7,conc s top,4,0,0,0
+mod_obs12_7,conc s bot,4,0,0,0
+mod_obs12_7,theta min,4,0,0,0
+mod_obs12_7,q air slab,4,0,0,0
+mod_obs12_7,q air vims,4,0,0,0
+mod_obs12_7,q var,4,0,0,0
+mod_obs13_1,por,4,2.29E+03,3.20E+03,5.81E+03
+mod_obs13_1,por v min,4,1.39E+04,1.39E+04,9.76E+03
+mod_obs13_1,FOC,4,-3173.26,3281.22,6281.35
+mod_obs13_1,airdiff,4,0,0,0
+mod_obs13_1,k sat,4,2.47E+06,2.71E+06,5.26E+06
+mod_obs13_1,Pore Size Dist.,4,16884,16884,31684.7
+mod_obs13_1,p air,4,-3631.5,3631.5,6968.84
+mod_obs13_1,conc s top,4,0,0,0
+mod_obs13_1,conc s bot,4,0,0,0
+mod_obs13_1,theta min,4,0,0,0
+mod_obs13_1,q air slab,4,0,0,0
+mod_obs13_1,q air vims,4,0,0,0
+mod_obs13_1,q var,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs13_2,por,4,-2.50E+04,3.11E+04,3.77E+04
+mod_obs13_2,por v min,4,56028.1,76455.9,85586.9
+mod_obs13_2,FOC,4,-6520.39,8636.87,10457.1
+mod_obs13_2,airdiff,4,0,0,0
+mod_obs13_2,k sat,4,8.18E+06,2.02E+07,3.30E+07
+mod_obs13_2,Pore Size Dist.,4,19151,23742.1,44442.3
+mod_obs13_2,p air,4,-4838.79,4849.84,9585.28
+mod_obs13_2,conc s top,4,0,0,0
+mod_obs13_2,conc s bot,4,0,0,0
+mod_obs13_2,theta min,4,0,0,0
+mod_obs13_2,q air slab,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs13_2,q air vims,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs13_2,q var,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs13_3,por,4,73669.2,81611,158007
+mod_obs13_3,por v min,4,1.14E+05,1.40E+05,1.74E+05
+mod_obs13_3,FOC,4,-102214,122890,231998
+mod_obs13_3,airdiff,4,0,0,0
+mod_obs13_3,k sat,4,-4.19E+09,4.19E+09,8.36E+09
+mod_obs13_3,Pore Size Dist.,4,693471,693471,781924
+mod_obs13_3,p air,4,-86159,86159,159848
+mod_obs13_3,conc s top,4,0,0,0
+mod_obs13_3,conc s bot,4,0,0,0
+mod_obs13_3,theta min,4,0,0,0
+mod_obs13_3,q air slab,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs13_3,q air vims,4,0,0,0
+mod_obs13_3,q var,4,0,0,0
+mod_obs13_4,por,4,135.093,172.282,320.314
+mod_obs13_4,por v min,4,744.722,777.705,562.77
+mod_obs13_4,FOC,4,-181.576,191.491,373.137
+mod_obs13_4,airdiff,4,0,0,0
+mod_obs13_4,k sat,4,520559,530876,1.05E+06
+mod_obs13_4,Pore Size Dist.,4,751.975,752.655,1486.53
+mod_obs13_4,p air,4,-166.521,166.521,324.597
+mod_obs13_4,conc s top,4,0,0,0
+mod_obs13_4,conc s bot,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs13_4,theta min,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs13_4,q air slab,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs13_4,q air vims,4,0,0,0
+mod_obs13_4,q var,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs13_5,por,4,91418.4,98989.7,192946
+mod_obs13_5,por v min,4,-1.47E+06,1.52E+06,3.00E+06
+mod_obs13_5,FOC,4,-104471,104927,209550
+mod_obs13_5,airdiff,4,0,0,0
+mod_obs13_5,k sat,4,-1.25E+13,1.25E+13,2.49E+13
+mod_obs13_5,Pore Size Dist.,4,8.54E+08,8.54E+08,1.71E+09
+mod_obs13_5,p air,4,-20762.3,20762.3,24759.4
+mod_obs13_5,conc s top,4,0,0,0
+mod_obs13_5,conc s bot,4,0,0,0.00E+00
+mod_obs13_5,theta min,4,0,0,0
+mod_obs13_5,q air slab,4,0,0,0
+mod_obs13_5,q air vims,4,0,0,0
+mod_obs13_5,q var,4,0,0,0
+mod_obs13_6,por,4,2.75121,204.351,294.413
+mod_obs13_6,por v min,4,1460.3,1558.59,1446.78
+mod_obs13_6,FOC,4,-174.404,184.988,311.112
+mod_obs13_6,airdiff,4,0,0,0
+mod_obs13_6,k sat,4,447722,480969,939784
+mod_obs13_6,Pore Size Dist.,4,291.562,308.828,606.209
+mod_obs13_6,p air,4,-67.392,67.4362,131.167
+mod_obs13_6,conc s top,4,0,0,0
+mod_obs13_6,conc s bot,4,0,0,0
+mod_obs13_6,theta min,4,0,0,0
+mod_obs13_6,q air slab,4,0,0,0
+mod_obs13_6,q air vims,4,0,0,0
+mod_obs13_6,q var,4,0,0,0
+mod_obs13_7,por,4,-0.916802,35.0442,50.5227
+mod_obs13_7,por v min,4,375.328,393.626,390.772
+mod_obs13_7,FOC,4,-43.4616,46.7398,81.2278
+mod_obs13_7,airdiff,4,0,0,0
+mod_obs13_7,k sat,4,109402,113251,223937
+mod_obs13_7,Pore Size Dist.,4,141.988,146.118,289.488
+mod_obs13_7,p air,4,-3.18E+01,3.18E+01,6.31E+01
+mod_obs13_7,conc s top,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs13_7,conc s bot,4,0,0,0
+mod_obs13_7,theta min,4,0,0,0
+mod_obs13_7,q air slab,4,0,0,0
+mod_obs13_7,q air vims,4,0,0,0
+mod_obs13_7,q var,4,0,0,0
+mod_obs14_1,por,4,1847.18,4249.19,7000.54
+mod_obs14_1,por v min,4,21021.5,21021.5,17225.7
+mod_obs14_1,FOC,4,-4802.62,4912.68,8848.01
+mod_obs14_1,airdiff,4,0,0,0
+mod_obs14_1,k sat,4,6.67E+06,6.93E+06,1.37E+07
+mod_obs14_1,Pore Size Dist.,4,2.85E+04,2.85E+04,5.47E+04
+mod_obs14_1,p air,4,-6.25E+03,6.25E+03,1.21E+04
+mod_obs14_1,conc s top,4,0,0,0
+mod_obs14_1,conc s bot,4,0,0,0
+mod_obs14_1,theta min,4,0,0,0
+mod_obs14_1,q air slab,4,0,0,0
+mod_obs14_1,q air vims,4,0,0,0
+mod_obs14_1,q var,4,0,0,0
+mod_obs14_2,por,4,-71521.4,79159.5,98376.1
+mod_obs14_2,por v min,4,59259.9,122350,190157
+mod_obs14_2,FOC,4,-16586.1,18197.9,14247.5
+mod_obs14_2,airdiff,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs14_2,k sat,4,1.04E+07,2.41E+07,3.98E+07
+mod_obs14_2,Pore Size Dist.,4,3.46E+04,3.92E+04,7.53E+04
+mod_obs14_2,p air,4,-8323.19,8334.27,16524.6
+mod_obs14_2,conc s top,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs14_2,conc s bot,4,0,0,0
+mod_obs14_2,theta min,4,0,0,0
+mod_obs14_2,q air slab,4,0,0,0
+mod_obs14_2,q air vims,4,0,0,0
+mod_obs14_2,q var,4,0,0,0
+mod_obs14_3,por,4,100381,114440,219607
+mod_obs14_3,por v min,4,86753.3,109440,90535.3
+mod_obs14_3,FOC,4,-160992,182234,350307
+mod_obs14_3,airdiff,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs14_3,k sat,4,-4.01E+09,4.01E+09,8.00E+09
+mod_obs14_3,Pore Size Dist.,4,974791,974791,1.22E+06
+mod_obs14_3,p air,4,-149638,149638,282391
+mod_obs14_3,conc s top,4,0,0,0
+mod_obs14_3,conc s bot,4,0,0,0
+mod_obs14_3,theta min,4,0,0,0
+mod_obs14_3,q air slab,4,0,0,0
+mod_obs14_3,q air vims,4,0,0,0
+mod_obs14_3,q var,4,0,0,0
+mod_obs14_4,por,4,137.052,228.388,398.123
+mod_obs14_4,por v min,4,1.14E+03,1.17E+03,8.89E+02
+mod_obs14_4,FOC,4,-2.35E+02,2.43E+02,4.50E+02
+mod_obs14_4,airdiff,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs14_4,k sat,4,660615,671327,1.33E+06
+mod_obs14_4,Pore Size Dist.,4,1.30E+03,1.30E+03,2.57E+03
+mod_obs14_4,p air,4,-288.771,288.771,566.644
+mod_obs14_4,conc s top,4,0,0,0
+mod_obs14_4,conc s bot,4,0,0,0
+mod_obs14_4,theta min,4,0,0,0
+mod_obs14_4,q air slab,4,0,0,0
+mod_obs14_4,q air vims,4,0,0,0
+mod_obs14_4,q var,4,0,0,0
+mod_obs14_5,por,4,114515,139623,262562
+mod_obs14_5,por v min,4,-2.26E+06,2.35E+06,4.64E+06
+mod_obs14_5,FOC,4,-149098,149473,298415
+mod_obs14_5,airdiff,4,0,0,0
+mod_obs14_5,k sat,4,-1.25E+13,1.25E+13,2.49E+13
+mod_obs14_5,Pore Size Dist.,4,8.55E+08,8.55E+08,1.71E+09
+mod_obs14_5,p air,4,-34580.5,34580.5,42487.5
+mod_obs14_5,conc s top,4,0,0,0
+mod_obs14_5,conc s bot,4,0,0,0
+mod_obs14_5,theta min,4,0,0,0
+mod_obs14_5,q air slab,4,0,0,0
+mod_obs14_5,q air vims,4,0,0,0
+mod_obs14_5,q var,4,0,0,0
+mod_obs14_6,por,4,-134.37,390.061,510.038
+mod_obs14_6,por v min,4,2541.58,2640.12,2616.66
+mod_obs14_6,FOC,4,-253.46,262.843,346.951
+mod_obs14_6,airdiff,4,0,0,0
+mod_obs14_6,k sat,4,542234,579896,1.13E+06
+mod_obs14_6,Pore Size Dist.,4,507.66,523.874,1036.25
+mod_obs14_6,p air,4,-116.025,116.069,227.412
+mod_obs14_6,conc s top,4,0,0,0
+mod_obs14_6,conc s bot,4,0,0,0
+mod_obs14_6,theta min,4,0,0,0
+mod_obs14_6,q air slab,4,0,0,0
+mod_obs14_6,q air vims,4,0,0,0
+mod_obs14_6,q var,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs14_7,por,4,-2.39E+01,6.81E+01,8.93E+01
+mod_obs14_7,por v min,4,650.113,668.638,696.417
+mod_obs14_7,FOC,4,-62.074,65.2815,93.5035
+mod_obs14_7,airdiff,4,0,0,0
+mod_obs14_7,k sat,4,134211,138771,274503
+mod_obs14_7,Pore Size Dist.,4,246.188,250.168,497.686
+mod_obs14_7,p air,4,-55.1256,55.134,109.731
+mod_obs14_7,conc s top,4,0,0,0
+mod_obs14_7,conc s bot,4,0,0,0
+mod_obs14_7,theta min,4,0,0,0
+mod_obs14_7,q air slab,4,0,0,0
+mod_obs14_7,q air vims,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs14_7,q var,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs15_1,por,4,2119.36,2825.1,5191.46
+mod_obs15_1,por v min,4,11615.8,11625.8,8215.08
+mod_obs15_1,FOC,4,-3801.9,3974.88,7761.44
+mod_obs15_1,airdiff,4,0,0,0
+mod_obs15_1,k sat,4,4.61E+06,4.85E+06,9.54E+06
+mod_obs15_1,Pore Size Dist.,4,14436.8,14436.8,26588.1
+mod_obs15_1,p air,4,-3172.18,3172.18,5990.56
+mod_obs15_1,conc s top,4,0,0,0
+mod_obs15_1,conc s bot,4,0,0,0
+mod_obs15_1,theta min,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs15_1,q air slab,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs15_1,q air vims,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs15_1,q var,4,0,0,0
+mod_obs15_2,por,4,-2.01E+04,2.79E+04,3.31E+04
+mod_obs15_2,por v min,4,71780.5,93983.5,99559.1
+mod_obs15_2,FOC,4,-5197.53,7978.29,11765.4
+mod_obs15_2,airdiff,4,0,0,0
+mod_obs15_2,k sat,4,9.72E+06,2.18E+07,3.60E+07
+mod_obs15_2,Pore Size Dist.,4,15633.7,20188,37365.2
+mod_obs15_2,p air,4,-4162.77,4174.03,8199.22
+mod_obs15_2,conc s top,4,0,0,0
+mod_obs15_2,conc s bot,4,0,0,0
+mod_obs15_2,theta min,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs15_2,q air slab,4,0,0,0
+mod_obs15_2,q air vims,4,0,0,0
+mod_obs15_2,q var,4,0,0,0
+mod_obs15_3,por,4,76395.7,82212.6,160595
+mod_obs15_3,por v min,4,68049.3,94581.1,119269
+mod_obs15_3,FOC,4,-147214,167037,320860
+mod_obs15_3,airdiff,4,0,0,0
+mod_obs15_3,k sat,4,-4.07E+09,4.07E+09,8.13E+09
+mod_obs15_3,Pore Size Dist.,4,645118,645118,714420
+mod_obs15_3,p air,4,-77078.4,77078.4,139590
+mod_obs15_3,conc s top,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs15_3,conc s bot,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs15_3,theta min,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs15_3,q air slab,4,0,0,0
+mod_obs15_3,q air vims,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs15_3,q var,4,0,0,0
+mod_obs15_4,por,4,156.652,184.845,351.056
+mod_obs15_4,por v min,4,631.886,663.325,528.865
+mod_obs15_4,FOC,4,-187.37,204.318,397.384
+mod_obs15_4,airdiff,4,0,0,0
+mod_obs15_4,k sat,4,577061,587809,1.17E+06
+mod_obs15_4,Pore Size Dist.,4,641.612,641.612,1259.22
+mod_obs15_4,p air,4,-145.821,145.821,280.87
+mod_obs15_4,conc s top,4,0,0,0.00E+00
+mod_obs15_4,conc s bot,4,0,0,0
+mod_obs15_4,theta min,4,0,0,0
+mod_obs15_4,q air slab,4,0,0,0
+mod_obs15_4,q air vims,4,0,0,0
+mod_obs15_4,q var,4,0,0,0
+mod_obs15_5,por,4,134135,141105,277571
+mod_obs15_5,por v min,4,-1.98E+06,2.03E+06,4.03E+06
+mod_obs15_5,FOC,4,-137527,138130,275859
+mod_obs15_5,airdiff,4,0,0,0
+mod_obs15_5,k sat,4,-1.25E+13,1.25E+13,2.49E+13
+mod_obs15_5,Pore Size Dist.,4,8.55E+08,8.55E+08,1.71E+09
+mod_obs15_5,p air,4,-20207.8,20207.8,19149.4
+mod_obs15_5,conc s top,4,0,0,0
+mod_obs15_5,conc s bot,4,0,0,0
+mod_obs15_5,theta min,4,0,0,0
+mod_obs15_5,q air slab,4,0,0,0
+mod_obs15_5,q air vims,4,0,0,0
+mod_obs15_5,q var,4,0,0,0
+mod_obs15_6,por,4,47.9536,210.056,321.211
+mod_obs15_6,por v min,4,1281.65,1386.47,1205.46
+mod_obs15_6,FOC,4,-169.58,185.054,337.833
+mod_obs15_6,airdiff,4,0,0,0
+mod_obs15_6,k sat,4,493113,528919,1.03E+06
+mod_obs15_6,Pore Size Dist.,4,2.45E+02,2.61E+02,5.10E+02
+mod_obs15_6,p air,4,-5.86E+01,5.87E+01,1.13E+02
+mod_obs15_6,conc s top,4,0,0,0
+mod_obs15_6,conc s bot,4,0,0,0
+mod_obs15_6,theta min,4,0,0,0
+mod_obs15_6,q air slab,4,0,0,0
+mod_obs15_6,q air vims,4,0,0,0
+mod_obs15_6,q var,4,0,0,0
+mod_obs15_7,por,4,10.4918,37.6575,58.723
+mod_obs15_7,por v min,4,301.74,321.568,290.231
+mod_obs15_7,FOC,4,-44.9574,50.4158,94.3274
+mod_obs15_7,airdiff,4,0,0,0
+mod_obs15_7,k sat,4,1.27E+05,1.32E+05,2.60E+05
+mod_obs15_7,Pore Size Dist.,4,1.20E+02,1.24E+02,2.45E+02
+mod_obs15_7,p air,4,-27.5449,27.5533,54.5346
+mod_obs15_7,conc s top,4,0,0,0
+mod_obs15_7,conc s bot,4,0,0,0
+mod_obs15_7,theta min,4,0,0,0
+mod_obs15_7,q air slab,4,0,0,0
+mod_obs15_7,q air vims,4,0,0,0
+mod_obs15_7,q var,4,0,0,0
+mod_obs16_1,por,4,588.509,1395.77,2289.21
+mod_obs16_1,por v min,4,7406.16,7406.16,4985.32
+mod_obs16_1,FOC,4,-3.03E+03,3.24E+03,6.32E+03
+mod_obs16_1,airdiff,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs16_1,k sat,4,2.60E+06,2.88E+06,5.57E+06
+mod_obs16_1,Pore Size Dist.,4,7585.84,7585.84,12799.8
+mod_obs16_1,p air,4,-1.59E+03,1.59E+03,2.80E+03
+mod_obs16_1,conc s top,4,0,0,0
+mod_obs16_1,conc s bot,4,0,0,0
+mod_obs16_1,theta min,4,0,0,0
+mod_obs16_1,q air slab,4,0,0,0
+mod_obs16_1,q air vims,4,0,0,0
+mod_obs16_1,q var,4,0,0,0
+mod_obs16_2,por,4,-22126.8,29987.7,35553.9
+mod_obs16_2,por v min,4,13985.4,54293,70751.9
+mod_obs16_2,FOC,4,-4.19E+03,7.65E+03,1.18E+04
+mod_obs16_2,airdiff,4,0,0,0
+mod_obs16_2,k sat,4,8.95E+06,2.29E+07,3.72E+07
+mod_obs16_2,Pore Size Dist.,4,6221.37,10673.5,18431.6
+mod_obs16_2,p air,4,-2001.52,2012.68,3843.76
+mod_obs16_2,conc s top,4,0,0,0
+mod_obs16_2,conc s bot,4,0,0,0
+mod_obs16_2,theta min,4,0,0,0
+mod_obs16_2,q air slab,4,0,0,0
+mod_obs16_2,q air vims,4,0,0,0
+mod_obs16_2,q var,4,0,0,0
+mod_obs16_3,por,4,-2.97E+04,2.97E+04,5.10E+04
+mod_obs16_3,por v min,4,-8.28E+03,3.70E+04,4.29E+04
+mod_obs16_3,FOC,4,-8.26E+04,1.02E+05,1.92E+05
+mod_obs16_3,airdiff,4,0,0,0
+mod_obs16_3,k sat,4,-4.34E+09,4.34E+09,8.67E+09
+mod_obs16_3,Pore Size Dist.,4,492885,492885,598835
+mod_obs16_3,p air,4,-40229.3,40229.3,66340.9
+mod_obs16_3,conc s top,4,0,0,0
+mod_obs16_3,conc s bot,4,0,0,0
+mod_obs16_3,theta min,4,0,0,0
+mod_obs16_3,q air slab,4,0,0,0
+mod_obs16_3,q air vims,4,0,0,0
+mod_obs16_3,q var,4,0,0,0
+mod_obs16_4,por,4,120.773,154.672,2.87E+02
+mod_obs16_4,por v min,4,461.068,487.861,424.079
+mod_obs16_4,FOC,4,-173.229,193.556,373.586
+mod_obs16_4,airdiff,4,0,0,0
+mod_obs16_4,k sat,4,558555,571122,1.13E+06
+mod_obs16_4,Pore Size Dist.,4,325.134,325.134,620.943
+mod_obs16_4,p air,4,-72.7982,72.7982,133.08
+mod_obs16_4,conc s top,4,0,0,0
+mod_obs16_4,conc s bot,4,0,0,0
+mod_obs16_4,theta min,4,0,0,0
+mod_obs16_4,q air slab,4,0,0,0
+mod_obs16_4,q air vims,4,0,0,0
+mod_obs16_4,q var,4,0,0,0
+mod_obs16_5,por,4,-124246,124246,238272
+mod_obs16_5,por v min,4,-1.01E+06,1.05E+06,2.08E+06
+mod_obs16_5,FOC,4,-63811.2,64534.5,128587
+mod_obs16_5,airdiff,4,0,0,0
+mod_obs16_5,k sat,4,-1.24E+13,1.24E+13,2.48E+13
+mod_obs16_5,Pore Size Dist.,4,8.52E+08,8.52E+08,1.70E+09
+mod_obs16_5,p air,4,-11844,11844,8258.07
+mod_obs16_5,conc s top,4,0,0,0
+mod_obs16_5,conc s bot,4,0,0,0
+mod_obs16_5,theta min,4,0,0,0
+mod_obs16_5,q air slab,4,0,0,0
+mod_obs16_5,q air vims,4,0,0,0
+mod_obs16_5,q var,4,0,0,0
+mod_obs16_6,por,4,34.8094,220.182,328.07
+mod_obs16_6,por v min,4,856.494,961.832,752.628
+mod_obs16_6,FOC,4,-158.932,177.977,332.737
+mod_obs16_6,airdiff,4,0,0,0
+mod_obs16_6,k sat,4,493696,537750,1.05E+06
+mod_obs16_6,Pore Size Dist.,4,116.725,132.512,251.172
+mod_obs16_6,p air,4,-29.2252,29.2696,52.6018
+mod_obs16_6,conc s top,4,0,0,0
+mod_obs16_6,conc s bot,4,0,0,0
+mod_obs16_6,theta min,4,0,0,0
+mod_obs16_6,q air slab,4,0,0,0
+mod_obs16_6,q air vims,4,0,0,0
+mod_obs16_6,q var,4,0,0,0
+mod_obs16_7,por,4,11.1762,43.777,67.5527
+mod_obs16_7,por v min,4,206.196,226.527,176.817
+mod_obs16_7,FOC,4,-44.677,51.1957,97.608
+mod_obs16_7,airdiff,4,0,0,0
+mod_obs16_7,k sat,4,132506,138841,273460
+mod_obs16_7,Pore Size Dist.,4,58.3307,62.0168,121.593
+mod_obs16_7,p air,4,-13.3475,13.3559,25.9852
+mod_obs16_7,conc s top,4,0,0,0
+mod_obs16_7,conc s bot,4,0,0,0
+mod_obs16_7,theta min,4,0,0,0
+mod_obs16_7,q air slab,4,0,0,0
+mod_obs16_7,q air vims,4,0,0,0
+mod_obs16_7,q var,4,0,0,0
+mod_obs17_1,por,4,2455.81,3071.44,5739.97
+mod_obs17_1,por v min,4,2886.66,2886.66,2202.63
+mod_obs17_1,FOC,4,-4502.95,4854.2,9474.51
+mod_obs17_1,airdiff,4,0,0,0
+mod_obs17_1,k sat,4,7.62E+06,7.87E+06,1.56E+07
+mod_obs17_1,Pore Size Dist.,4,9927.64,9927.64,17318.4
+mod_obs17_1,p air,4,-2134.93,2134.93,3853.01
+mod_obs17_1,conc s top,4,0,0,0
+mod_obs17_1,conc s bot,4,0,0,0
+mod_obs17_1,theta min,4,0,0,0
+mod_obs17_1,q air slab,4,0,0,0
+mod_obs17_1,q air vims,4,0,0,0
+mod_obs17_1,q var,4,0,0,0
+mod_obs17_2,por,4,-15610,25460.8,30128.3
+mod_obs17_2,por v min,4,-15489.8,50457.8,61526.2
+mod_obs17_2,FOC,4,-3341.57,9815.68,15425.5
+mod_obs17_2,airdiff,4,0,0,0
+mod_obs17_2,k sat,4,1.37E+07,2.58E+07,4.38E+07
+mod_obs17_2,Pore Size Dist.,4,9446.54,13844.6,24798.8
+mod_obs17_2,p air,4,-2722.3,2734,5268.63
+mod_obs17_2,conc s top,4,0,0,0
+mod_obs17_2,conc s bot,4,0,0,0
+mod_obs17_2,theta min,4,0,0,0
+mod_obs17_2,q air slab,4,0,0,0
+mod_obs17_2,q air vims,4,0,0,0
+mod_obs17_2,q var,4,0,0,0
+mod_obs17_3,por,4,93041.3,99060.4,194151
+mod_obs17_3,por v min,4,112748,134289,243864
+mod_obs17_3,FOC,4,-185503,204234,395982
+mod_obs17_3,airdiff,4,0,0,0
+mod_obs17_3,k sat,4,-3.98E+09,3.98E+09,7.95E+09
+mod_obs17_3,Pore Size Dist.,4,548099,548099,616967
+mod_obs17_3,p air,4,-53997,53997,90965.3
+mod_obs17_3,conc s top,4,0,0,0
+mod_obs17_3,conc s bot,4,0,0,0
+mod_obs17_3,theta min,4,0,0,0
+mod_obs17_3,q air slab,4,0,0,0
+mod_obs17_3,q air vims,4,0,0,0
+mod_obs17_3,q var,4,0,0,0
+mod_obs17_4,por,4,184.189,210.731,403.84
+mod_obs17_4,por v min,4,209.914,234.381,237.519
+mod_obs17_4,FOC,4,-224.303,251.728,485.175
+mod_obs17_4,airdiff,4,0,0,0
+mod_obs17_4,k sat,4,732404,744641,1.48E+06
+mod_obs17_4,Pore Size Dist.,4,433.694,433.694,833.792
+mod_obs17_4,p air,4,-98.0838,98.0838,182.506
+mod_obs17_4,conc s top,4,0,0,0
+mod_obs17_4,conc s bot,4,0,0,0
+mod_obs17_4,theta min,4,0,0,0
+mod_obs17_4,q air slab,4,0,0,0
+mod_obs17_4,q air vims,4,0,0,0
+mod_obs17_4,q var,4,0,0,0
+mod_obs17_5,por,4,193246,199470,394794
+mod_obs17_5,por v min,4,-1.62E+06,1.65E+06,3.27E+06
+mod_obs17_5,FOC,4,-169498,170246,339993
+mod_obs17_5,airdiff,4,0,0,0
+mod_obs17_5,k sat,4,-1.24E+13,1.24E+13,2.49E+13
+mod_obs17_5,Pore Size Dist.,4,8.53E+08,8.53E+08,1.71E+09
+mod_obs17_5,p air,4,-17763,17763,11403.3
+mod_obs17_5,conc s top,4,0,0,0
+mod_obs17_5,conc s bot,4,0,0,0
+mod_obs17_5,theta min,4,0,0,0
+mod_obs17_5,q air slab,4,0,0,0
+mod_obs17_5,q air vims,4,0,0,0
+mod_obs17_5,q var,4,0,0,0
+mod_obs17_6,por,4,87.6401,231.792,372.463
+mod_obs17_6,por v min,4,386.525,492.255,400.828
+mod_obs17_6,FOC,4,-185.428,223.439,421.645
+mod_obs17_6,airdiff,4,0,0,0
+mod_obs17_6,k sat,4,617567,657046,1.29E+06
+mod_obs17_6,Pore Size Dist.,4,160.513,176.188,336.737
+mod_obs17_6,p air,4,-39.346,39.3932,72.2629
+mod_obs17_6,conc s top,4,0,0,0
+mod_obs17_6,conc s bot,4,0,0,0
+mod_obs17_6,theta min,4,0,0,0
+mod_obs17_6,q air slab,4,0,0,0
+mod_obs17_6,q air vims,4,0,0,0
+mod_obs17_6,q var,4,0,0,0
+mod_obs17_7,por,4,20.9096,45.881,75.8352
+mod_obs17_7,por v min,4,94.3251,114.971,94.7171
+mod_obs17_7,FOC,4,-51.2188,63.5478,118.888
+mod_obs17_7,airdiff,4,0,0,0
+mod_obs17_7,k sat,4,160624,166447,329012
+mod_obs17_7,Pore Size Dist.,4,79.0284,82.5719,162.795
+mod_obs17_7,p air,4,-18.1554,18.1642,35.5236
+mod_obs17_7,conc s top,4,0,0,0
+mod_obs17_7,conc s bot,4,0,0,0
+mod_obs17_7,theta min,4,0,0,0
+mod_obs17_7,q air slab,4,0,0,0
+mod_obs17_7,q air vims,4,0,0,0
+mod_obs17_7,q var,4,0,0,0

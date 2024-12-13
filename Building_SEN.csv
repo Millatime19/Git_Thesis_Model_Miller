@@ -1,0 +1,1387 @@
+observation_name,parameter_name,n_samples,sen_mean,sen_mean_abs,sen_std_dev
+mod_obs5_4,Porosity ,4,-0.0271544,0.0271544,0.0543089
+mod_obs5_4,Min. Vapor Porosity,4,0.0456794,0.0456794,0.0913521
+mod_obs5_4,FOC,4,-0.0666068,0.0666068,0.133208
+mod_obs5_4,D {air},4,0.112832,0.112832,0.224605
+mod_obs5_4,Pore Size Dist. Coeff. ,4,9.90E-05,9.90E-05,0.000196173
+mod_obs5_4,Vapor Pressure ,4,-2.58E-05,2.58E-05,5.15E-05
+mod_obs5_4,Soil Source Top Conc. ,4,3.10E-07,3.10E-07,6.21E-07
+mod_obs5_4,Soil Source Bottom Conc. ,4,4.10E-06,4.10E-06,8.21E-06
+mod_obs5_4,Min Soil Moisture,4,-0.0953357,0.0953357,0.187979
+mod_obs5_4,q air slab,4,-0.122884,0.122884,0.245758
+mod_obs5_4,q air vims,4,-0.0486083,0.0486083,0.096939
+mod_obs0_1,Porosity ,4,-13117.3,13117.4,24195.5
+mod_obs0_1,Min. Vapor Porosity,4,-1.24E+03,1.27E+03,2.51E+03
+mod_obs0_1,FOC,4,-1.34E+06,1.34E+06,2.66E+06
+mod_obs0_1,D {air},4,-1.49E+04,1.57E+04,3.09E+04
+mod_obs0_1,Pore Size Dist. Coeff. ,4,660.907,661.82,1319.97
+mod_obs0_1,Vapor Pressure ,4,-174.066,174.077,348.146
+mod_obs0_1,Soil Source Top Conc. ,4,0,0,0
+mod_obs0_1,Soil Source Bottom Conc. ,4,0,0,0
+mod_obs0_1,Min Soil Moisture,4,-8.26E+05,8.26E+05,1.65E+06
+mod_obs0_1,q air slab,4,-7.84E+07,7.84E+07,1.57E+08
+mod_obs0_1,q air vims,4,0,0,0
+mod_obs5_7,Porosity ,4,-0.06529,0.06529,0.13058
+mod_obs5_7,Min. Vapor Porosity,4,0.172635,0.172635,0.34526
+mod_obs5_7,FOC,4,-2.49E-01,2.49E-01,4.98E-01
+mod_obs5_7,D {air},4,4.23E-01,4.23E-01,8.44E-01
+mod_obs5_7,Pore Size Dist. Coeff. ,4,3.41E-04,3.41E-04,6.80E-04
+mod_obs5_7,Vapor Pressure ,4,-8.96E-05,8.96E-05,0.000179191
+mod_obs5_7,Soil Source Top Conc. ,4,3.06E-06,3.06E-06,6.12E-06
+mod_obs5_7,Soil Source Bottom Conc. ,4,3.78E-05,3.78E-05,7.55E-05
+mod_obs5_7,Min Soil Moisture,4,-0.289453,0.289453,0.574979
+mod_obs5_7,q air slab,4,-0.346052,0.346052,0.692098
+mod_obs5_7,q air vims,4,-0.172436,0.172436,0.344466
+mod_obs0_2,Porosity ,4,-9.44E+04,9.44E+04,1.88E+05
+mod_obs0_2,Min. Vapor Porosity,4,400.665,491.885,8.14E+02
+mod_obs0_2,FOC,4,-1.75E+07,1.75E+07,3.48E+07
+mod_obs0_2,D {air},4,-4.71E+05,4.73E+05,9.45E+05
+mod_obs0_2,Pore Size Dist. Coeff. ,4,3.63E+03,3.64E+03,7.26E+03
+mod_obs0_2,Vapor Pressure ,4,-9.73E+02,9.73E+02,1.95E+03
+mod_obs0_2,Soil Source Top Conc. ,4,0,0,0
+mod_obs0_2,Soil Source Bottom Conc. ,4,0,0,0
+mod_obs0_2,Min Soil Moisture,4,5.64E+06,5.64E+06,1.13E+07
+mod_obs0_2,q air slab,4,-7.79E+08,7.79E+08,1.56E+09
+mod_obs0_2,q air vims,4,0,0,0
+mod_obs5_6,Porosity ,4,0.225839,0.225839,0.451679
+mod_obs5_6,Min. Vapor Porosity,4,0.781282,0.781282,1.56252
+mod_obs5_6,FOC,4,-0.950288,0.950288,1.90054
+mod_obs5_6,D {air},4,1.62822,1.62822,3.2493
+mod_obs5_6,Pore Size Dist. Coeff. ,4,0.00106434,0.00106434,0.00211649
+mod_obs5_6,Vapor Pressure ,4,-2.89E-04,2.89E-04,5.79E-04
+mod_obs5_6,Soil Source Top Conc. ,4,1.45E-05,1.45E-05,2.89E-05
+mod_obs5_6,Soil Source Bottom Conc. ,4,2.43E-04,2.43E-04,4.86E-04
+mod_obs5_6,Min Soil Moisture,4,-0.581893,0.581893,1.14578
+mod_obs5_6,q air slab,4,-1.17389,1.17389,2.34774
+mod_obs5_6,q air vims,4,-0.544071,0.544071,1.08628
+mod_obs0_3,Porosity ,4,1.26E+05,1.29E+05,2.56E+05
+mod_obs0_3,Min. Vapor Porosity,4,-3481.94,4175.11,7913.35
+mod_obs0_3,FOC,4,-2.65E+05,2.65E+05,3.63E+05
+mod_obs0_3,D {air},4,9725.49,9725.49,18607.6
+mod_obs0_3,Pore Size Dist. Coeff. ,4,165.995,167.628,333.718
+mod_obs0_3,Vapor Pressure ,4,-4.30E+01,4.31E+01,8.61E+01
+mod_obs0_3,Soil Source Top Conc. ,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs0_3,Soil Source Bottom Conc. ,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs0_3,Min Soil Moisture,4,-7.12E+06,7.12E+06,1.42E+07
+mod_obs0_3,q air slab,4,-1.15E+08,1.15E+08,2.30E+08
+mod_obs0_3,q air vims,4,0,0,0
+mod_obs5_1,Porosity ,4,-4.71535,5.68501,9.91774
+mod_obs5_1,Min. Vapor Porosity,4,6.67672,9.21468,12.8633
+mod_obs5_1,FOC,4,8.738,32.5816,39.8468
+mod_obs5_1,D {air},4,153.07,153.07,215.943
+mod_obs5_1,Pore Size Dist. Coeff. ,4,0.0381036,0.229666,0.277596
+mod_obs5_1,Vapor Pressure ,4,0.0125668,0.0126157,0.0234275
+mod_obs5_1,Soil Source Top Conc. ,4,1.25E-01,1.25E-01,6.09E-02
+mod_obs5_1,Soil Source Bottom Conc. ,4,8.01E-02,8.01E-02,1.44E-01
+mod_obs5_1,Min Soil Moisture,4,5.54E+01,9.01E+01,1.59E+02
+mod_obs5_1,q air slab,4,-481.064,481.064,957.143
+mod_obs5_1,q air vims,4,-6.08E+03,6.08E+03,1.21E+04
+mod_obs0_4,Porosity ,4,99.0074,99.0074,198.015
+mod_obs0_4,Min. Vapor Porosity,4,0.298235,0.298235,0.596459
+mod_obs0_4,FOC,4,-71.3455,71.3455,142.691
+mod_obs0_4,D {air},4,25.9348,25.9348,51.8542
+mod_obs0_4,Pore Size Dist. Coeff. ,4,0.0795922,0.0795922,0.159181
+mod_obs0_4,Vapor Pressure ,4,-0.0192674,0.0192674,0.0385347
+mod_obs0_4,Soil Source Top Conc. ,4,0,0,0
+mod_obs0_4,Soil Source Bottom Conc. ,4,0,0,0
+mod_obs0_4,Min Soil Moisture,4,-8355.75,8355.75,1.67E+04
+mod_obs0_4,q air slab,4,-1.24E+05,1.24E+05,2.48E+05
+mod_obs0_4,q air vims,4,0,0,0
+mod_obs0_5,Porosity ,4,1110.76,1131.35,2248.97
+mod_obs0_5,Min. Vapor Porosity,4,-7.19109,8.20308,15.7437
+mod_obs0_5,FOC,4,-6579.39,6591.7,7641.89
+mod_obs0_5,D {air},4,43979.5,43979.5,87675.3
+mod_obs0_5,Pore Size Dist. Coeff. ,4,93.0001,94.8221,188.432
+mod_obs0_5,Vapor Pressure ,4,-23.6084,23.6272,47.2419
+mod_obs0_5,Soil Source Top Conc. ,4,0,0,0
+mod_obs0_5,Soil Source Bottom Conc. ,4,0,0,0
+mod_obs0_5,Min Soil Moisture,4,-645257,645268,1.29E+06
+mod_obs0_5,q air slab,4,-1.02E+07,1.02E+07,2.03E+07
+mod_obs0_5,q air vims,4,0.00E+00,0.00E+00,0.00E+00
+mod_obs5_3,Porosity ,4,-85.244,85.3585,168.599
+mod_obs5_3,Min. Vapor Porosity,4,27.8296,27.8296,50.0519
+mod_obs5_3,FOC,4,-59.2691,77.8339,128.206
+mod_obs5_3,D {air},4,159.668,159.668,250.726
+mod_obs5_3,Pore Size Dist. Coeff. ,4,0.0193253,0.21932,0.291366
+mod_obs5_3,Vapor Pressure ,4,-0.0235082,0.025592,0.049813
+mod_obs5_3,Soil Source Top Conc. ,4,0.0626997,0.0626997,0.0317144
+mod_obs5_3,Soil Source Bottom Conc. ,4,0.0239358,0.0239358,0.036905
+mod_obs5_3,Min Soil Moisture,4,-135.291,135.651,223.177
+mod_obs5_3,q air slab,4,-2.62E+02,2.62E+02,5.17E+02
+mod_obs5_3,q air vims,4,-4.17E+03,4.17E+03,8.17E+03
+mod_obs0_6,Porosity ,4,9.11E+02,9.11E+02,1.82E+03
+mod_obs0_6,Min. Vapor Porosity,4,3.07532,3.07532,6.15057
+mod_obs0_6,FOC,4,-8.95E+02,8.95E+02,1.79E+03
+mod_obs0_6,D {air},4,952.049,952.049,1903.99
+mod_obs0_6,Pore Size Dist. Coeff. ,4,2.74945,2.74945,5.49888
+mod_obs0_6,Vapor Pressure ,4,-0.670745,0.670745,1.34149
+mod_obs0_6,Soil Source Top Conc. ,4,0,0,0
+mod_obs0_6,Soil Source Bottom Conc. ,4,0,0,0
+mod_obs0_6,Min Soil Moisture,4,-126615,126615,253230
+mod_obs0_6,q air slab,4,-1.89E+06,1.89E+06,3.77E+06
+mod_obs0_6,q air vims,4,0,0,0
+mod_obs5_2,Porosity ,4,-12.2373,21.293,36.5159
+mod_obs5_2,Min. Vapor Porosity,4,38.2922,38.2922,52.9226
+mod_obs5_2,FOC,4,1.15681,75.3916,106.463
+mod_obs5_2,D {air},4,989.385,989.385,1724.34
+mod_obs5_2,Pore Size Dist. Coeff. ,4,0.107611,1.15387,1.6189
+mod_obs5_2,Vapor Pressure ,4,0.129895,0.130092,0.258386
+mod_obs5_2,Soil Source Top Conc. ,4,0.52455,0.52455,0.390867
+mod_obs5_2,Soil Source Bottom Conc. ,4,1.02044,1.02044,1.997
+mod_obs5_2,Min Soil Moisture,4,1066.08,1168.45,2269.61
+mod_obs5_2,q air slab,4,-3246.99,3246.99,6489.01
+mod_obs5_2,q air vims,4,-17132.4,17132.4,34087.2
+mod_obs0_7,Porosity ,4,341.683,341.683,6.83E+02
+mod_obs0_7,Min. Vapor Porosity,4,9.36E-01,9.36E-01,1.87E+00
+mod_obs0_7,FOC,4,-2.47E+02,2.47E+02,4.94E+02
+mod_obs0_7,D {air},4,118.3,118.3,236.578
+mod_obs0_7,Pore Size Dist. Coeff. ,4,0.356529,0.356529,0.713053
+mod_obs0_7,Vapor Pressure ,4,-0.0865068,0.0865068,0.173014
+mod_obs0_7,Soil Source Top Conc. ,4,0,0,0
+mod_obs0_7,Soil Source Bottom Conc. ,4,0,0,0
+mod_obs0_7,Min Soil Moisture,4,-29374.9,29374.9,58749.8
+mod_obs0_7,q air slab,4,-4.36E+05,4.36E+05,8.72E+05
+mod_obs0_7,q air vims,4,0,0,0
+mod_obs2_6,Porosity ,4,-1.42893,1.42893,2.85787
+mod_obs2_6,Min. Vapor Porosity,4,0.262972,0.262972,0.5259
+mod_obs2_6,FOC,4,-1.36628,1.36628,2.73252
+mod_obs2_6,D {air},4,1.82559,1.82559,3.64417
+mod_obs2_6,Pore Size Dist. Coeff. ,4,0.00186565,0.00186565,0.00371958
+mod_obs2_6,Vapor Pressure ,4,-0.000504074,0.000504074,0.00100814
+mod_obs2_6,Soil Source Top Conc. ,4,0.000143176,0.000143178,0.000286355
+mod_obs2_6,Soil Source Bottom Conc. ,4,-4.07E-04,4.07E-04,0.000814755
+mod_obs2_6,Min Soil Moisture,4,-3.49347,3.49347,6.9694
+mod_obs2_6,q air slab,4,-7.84767,7.84767,15.6953
+mod_obs2_6,q air vims,4,-1.0334,1.0334,2.06499
+mod_obs1_1,Porosity ,4,-37.4448,38.4524,76.0704
+mod_obs1_1,Min. Vapor Porosity,4,6.75227,9.70694,13.1234
+mod_obs1_1,FOC,4,-20.2582,50.3192,55.9615
+mod_obs1_1,D {air},4,882.866,882.866,1665.98
+mod_obs1_1,Pore Size Dist. Coeff. ,4,0.29385,0.356642,0.329283
+mod_obs1_1,Vapor Pressure ,4,-0.0320461,0.0328654,0.0650977
+mod_obs1_1,Soil Source Top Conc. ,4,0.483555,0.483555,0.653229
+mod_obs1_1,Soil Source Bottom Conc. ,4,0.25128,0.25128,0.486501
+mod_obs1_1,Min Soil Moisture,4,-130.384,130.522,209.801
+mod_obs1_1,q air slab,4,-6650.36,6650.36,13293.6
+mod_obs1_1,q air vims,4,-6241.64,6241.64,12361.4
+mod_obs2_5,Porosity ,4,2.31168,3.05348,5.62177
+mod_obs2_5,Min. Vapor Porosity,4,1.15377,1.59704,2.87208
+mod_obs2_5,FOC,4,-5.43839,5.62037,10.9991
+mod_obs2_5,D {air},4,13.3834,13.3834,15.9401
+mod_obs2_5,Pore Size Dist. Coeff. ,4,2.22E-02,2.81E-02,3.09E-02
+mod_obs2_5,Vapor Pressure ,4,-1.21E-03,1.38E-03,2.63E-03
+mod_obs2_5,Soil Source Top Conc. ,4,0.000596935,0.000596935,0.000292639
+mod_obs2_5,Soil Source Bottom Conc. ,4,0.000542221,0.000542221,0.000363255
+mod_obs2_5,Min Soil Moisture,4,-15.1676,15.2088,12.4181
+mod_obs2_5,q air slab,4,-37.857,37.857,74.6867
+mod_obs2_5,q air vims,4,-83.6709,83.6709,156.335
+mod_obs1_2,Porosity ,4,-344.612,353.84,701.443
+mod_obs1_2,Min. Vapor Porosity,4,16.0121,55.074,80.1081
+mod_obs1_2,FOC,4,-156.317,231.823,286.784
+mod_obs1_2,D {air},4,8671.88,8671.88,17066.9
+mod_obs1_2,Pore Size Dist. Coeff. ,4,4.94681,5.00089,8.0696
+mod_obs1_2,Vapor Pressure ,4,-1.12E+00,1.12E+00,2.25E+00
+mod_obs1_2,Soil Source Top Conc. ,4,3.55E+00,3.55E+00,6.19E+00
+mod_obs1_2,Soil Source Bottom Conc. ,4,1.32989,1.32989,2.61547
+mod_obs1_2,Min Soil Moisture,4,-3087.48,3087.6,6025.59
+mod_obs1_2,q air slab,4,-75658.9,75658.9,151311
+mod_obs1_2,q air vims,4,-17808.3,17808.3,34523
+mod_obs2_4,Porosity ,4,-0.167334,0.167334,0.334668
+mod_obs2_4,Min. Vapor Porosity,4,0.00453786,0.00453786,0.00906909
+mod_obs2_4,FOC,4,-0.11658,0.11658,0.233155
+mod_obs2_4,D {air},4,0.0960931,0.0960931,0.191156
+mod_obs2_4,Pore Size Dist. Coeff. ,4,0.000128962,0.000128962,0.000256191
+mod_obs2_4,Vapor Pressure ,4,-3.34E-05,3.34E-05,6.67E-05
+mod_obs2_4,Soil Source Top Conc. ,4,1.89E-06,1.89E-06,3.79E-06
+mod_obs2_4,Soil Source Bottom Conc. ,4,-8.96E-06,8.96E-06,1.79E-05
+mod_obs2_4,Min Soil Moisture,4,-0.292171,0.292171,0.581754
+mod_obs2_4,q air slab,4,-0.630567,0.630567,1.26112
+mod_obs2_4,q air vims,4,-0.0885596,0.0885596,0.176853
+mod_obs1_3,Porosity ,4,-176.507,176.507,338.523
+mod_obs1_3,Min. Vapor Porosity,4,-11.3224,13.8462,16.4574
+mod_obs1_3,FOC,4,-215.786,237.991,367.644
+mod_obs1_3,D {air},4,228.13,228.13,381.7
+mod_obs1_3,Pore Size Dist. Coeff. ,4,0.0737453,0.174955,0.185875
+mod_obs1_3,Vapor Pressure ,4,-0.0111212,0.0124453,0.0239964
+mod_obs1_3,Soil Source Top Conc. ,4,2.12E-01,2.12E-01,2.23E-01
+mod_obs1_3,Soil Source Bottom Conc. ,4,6.83E-02,6.83E-02,1.25E-01
+mod_obs1_3,Min Soil Moisture,4,-5.90E+02,5.90E+02,1.13E+03
+mod_obs1_3,q air slab,4,-3859.6,3859.6,7707.52
+mod_obs1_3,q air vims,4,-4.35E+03,4.35E+03,8.34E+03
+mod_obs2_3,Porosity ,4,-206.512,206.512,410.346
+mod_obs2_3,Min. Vapor Porosity,4,-4.6346,7.35939,13.0738
+mod_obs2_3,FOC,4,-131.194,150.743,269.174
+mod_obs2_3,D {air},4,195.977,195.977,321.644
+mod_obs2_3,Pore Size Dist. Coeff. ,4,0.130806,0.229881,0.263472
+mod_obs2_3,Vapor Pressure ,4,-0.0281712,0.0294788,0.0580584
+mod_obs2_3,Soil Source Top Conc. ,4,0.0969136,0.0969136,0.0539774
+mod_obs2_3,Soil Source Bottom Conc. ,4,0.041884,0.041884,0.0726321
+mod_obs2_3,Min Soil Moisture,4,-3.35E+02,3.35E+02,6.21E+02
+mod_obs2_3,q air slab,4,-1140.49,1140.49,2272.42
+mod_obs2_3,q air vims,4,-4238.42,4238.42,8190.27
+mod_obs1_4,Porosity ,4,-0.172529,0.172529,0.345058
+mod_obs1_4,Min. Vapor Porosity,4,-0.00387909,0.00388192,0.00776195
+mod_obs1_4,FOC,4,-0.165731,0.165731,0.33146
+mod_obs1_4,D {air},4,0.0645568,0.0645568,0.128335
+mod_obs1_4,Pore Size Dist. Coeff. ,4,0.000122066,0.000122066,0.000243081
+mod_obs1_4,Vapor Pressure ,4,-3.08E-05,3.08E-05,6.17E-05
+mod_obs1_4,Soil Source Top Conc. ,4,-3.47E-06,3.47E-06,6.94E-06
+mod_obs1_4,Soil Source Bottom Conc. ,4,-1.25E-05,1.25E-05,2.50E-05
+mod_obs1_4,Min Soil Moisture,4,-5.62E-01,5.62E-01,1.12E+00
+mod_obs1_4,q air slab,4,-3.09E+00,3.09E+00,6.17E+00
+mod_obs1_4,q air vims,4,-1.15E-01,1.15E-01,2.30E-01
+mod_obs2_2,Porosity ,4,-211.153,220.373,434.397
+mod_obs2_2,Min. Vapor Porosity,4,8.84E+00,6.17E+01,9.13E+01
+mod_obs2_2,FOC,4,-54.0903,118.14,141.519
+mod_obs2_2,D {air},4,4482.46,4482.46,8708.95
+mod_obs2_2,Pore Size Dist. Coeff. ,4,-1.94955,3.33116,5.75334
+mod_obs2_2,Vapor Pressure ,4,0.683293,0.683505,1.3659
+mod_obs2_2,Soil Source Top Conc. ,4,2.02992,2.02992,3.34664
+mod_obs2_2,Soil Source Bottom Conc. ,4,1.68062,1.68062,3.31731
+mod_obs2_2,Min Soil Moisture,4,1100.57,1204.61,2340.9
+mod_obs2_2,q air slab,4,-16363.7,16363.7,32722.3
+mod_obs2_2,q air vims,4,-17292.8,17292.8,3.40E+04
+mod_obs1_5,Porosity ,4,-0.249307,0.654899,0.847449
+mod_obs1_5,Min. Vapor Porosity,4,0.26365,0.934123,1.50953
+mod_obs1_5,FOC,4,-6.04295,6.56771,12.7885
+mod_obs1_5,D {air},4,14.6805,14.6805,19.1974
+mod_obs1_5,Pore Size Dist. Coeff. ,4,0.0141392,0.0282561,0.0307189
+mod_obs1_5,Vapor Pressure ,4,-0.00182039,0.00216583,0.00410487
+mod_obs1_5,Soil Source Top Conc. ,4,0.00116109,0.00116109,0.000606675
+mod_obs1_5,Soil Source Bottom Conc. ,4,0.000768263,0.000768263,0.000630978
+mod_obs1_5,Min Soil Moisture,4,-22.0791,22.1557,26.3421
+mod_obs1_5,q air slab,4,-111.573,111.573,219.636
+mod_obs1_5,q air vims,4,-89.3819,89.3819,165.241
+mod_obs2_1,Porosity ,4,-24.4508,25.6075,50.1319
+mod_obs2_1,Min. Vapor Porosity,4,5.2066,11.1813,15.3205
+mod_obs2_1,FOC,4,1.73713,27.3782,39.3621
+mod_obs2_1,D {air},4,461.627,461.627,831.374
+mod_obs2_1,Pore Size Dist. Coeff. ,4,0.0842776,0.29759,0.386694
+mod_obs2_1,Vapor Pressure ,4,0.0196043,0.019667,0.0382139
+mod_obs2_1,Soil Source Top Conc. ,4,0.249341,0.249341,0.26004
+mod_obs2_1,Soil Source Bottom Conc. ,4,0.177824,0.177824,0.339756
+mod_obs2_1,Min Soil Moisture,4,84.9543,121.439,220.056
+mod_obs2_1,q air slab,4,-2000.1,2000.1,3994.81
+mod_obs2_1,q air vims,4,-6105.4,6105.4,12143.4
+mod_obs1_6,Porosity ,4,-1.92379,1.92379,3.84759
+mod_obs1_6,Min. Vapor Porosity,4,4.83E-02,4.83E-02,9.65E-02
+mod_obs1_6,FOC,4,-1.88E+00,1.88E+00,3.75E+00
+mod_obs1_6,D {air},4,0.88782,0.88782,1.77034
+mod_obs1_6,Pore Size Dist. Coeff. ,4,0.00187622,0.00187622,0.00374531
+mod_obs1_6,Vapor Pressure ,4,-0.000469574,0.000469574,0.000939146
+mod_obs1_6,Soil Source Top Conc. ,4,-0.000238891,0.000238891,0.000477781
+mod_obs1_6,Soil Source Bottom Conc. ,4,-0.000485111,0.000485111,0.000970221
+mod_obs1_6,Min Soil Moisture,4,-8.5831,8.5831,17.1527
+mod_obs1_6,q air slab,4,-63.4405,63.4405,126.881
+mod_obs1_6,q air vims,4,-1.37191,1.37191,2.74244
+mod_obs1_7,Porosity ,4,-0.56962,0.56962,1.13924
+mod_obs1_7,Min. Vapor Porosity,4,-0.00700078,0.00700505,0.0140072
+mod_obs1_7,FOC,4,-5.82E-01,5.82E-01,1.16E+00
+mod_obs1_7,D {air},4,2.06E-01,2.06E-01,4.11E-01
+mod_obs1_7,Pore Size Dist. Coeff. ,4,4.36E-04,0.000435821,0.000870073
+mod_obs1_7,Vapor Pressure ,4,-0.000109288,0.000109288,0.000218575
+mod_obs1_7,Soil Source Top Conc. ,4,-3.97E-05,3.97E-05,7.94E-05
+mod_obs1_7,Soil Source Bottom Conc. ,4,-9.01E-05,9.01E-05,0.000180109
+mod_obs1_7,Min Soil Moisture,4,-2.40357,2.40357,4.80417
+mod_obs1_7,q air slab,4,-16.3872,16.3872,32.7745
+mod_obs1_7,q air vims,4,-0.411094,0.411094,0.821884
+mod_obs2_7,Porosity ,4,-0.547468,0.547468,1.09494
+mod_obs2_7,Min. Vapor Porosity,4,0.0276705,0.0276705,0.0553309
+mod_obs2_7,FOC,4,-4.17E-01,4.17E-01,8.33E-01
+mod_obs2_7,D {air},4,3.95E-01,3.95E-01,7.88E-01
+mod_obs2_7,Pore Size Dist. Coeff. ,4,5.07E-04,5.07E-04,1.01E-03
+mod_obs2_7,Vapor Pressure ,4,-0.000133397,0.000133397,0.000266793
+mod_obs2_7,Soil Source Top Conc. ,4,1.90E-05,1.90E-05,3.79E-05
+mod_obs2_7,Soil Source Bottom Conc. ,4,-8.07E-05,8.07E-05,1.61E-04
+mod_obs2_7,Min Soil Moisture,4,-1.08082,1.08082,2.15778
+mod_obs2_7,q air slab,4,-2.3069,2.3069,4.61379
+mod_obs2_7,q air vims,4,-0.314676,0.314676,0.628954
+mod_obs3_1,Porosity ,4,-14.9141,16.007,30.7797
+mod_obs3_1,Min. Vapor Porosity,4,5.2356,10.9796,15.1086
+mod_obs3_1,FOC,4,6.26741,31.2695,39.8783
+mod_obs3_1,D {air},4,273.548,273.548,455.793
+mod_obs3_1,Pore Size Dist. Coeff. ,4,6.05E-02,2.80E-01,3.53E-01
+mod_obs3_1,Vapor Pressure ,4,0.0195979,0.0196555,0.0379417
+mod_obs3_1,Soil Source Top Conc. ,4,0.172088,0.172088,0.119632
+mod_obs3_1,Soil Source Bottom Conc. ,4,0.134007,0.134007,0.252151
+mod_obs3_1,Min Soil Moisture,4,89.9169,125.769,229.009
+mod_obs3_1,q air slab,4,-1032.65,1032.65,2060.05
+mod_obs3_1,q air vims,4,-6092.46,6092.46,12139.5
+mod_obs3_2,Porosity ,4,-103.568,112.73,219.023
+mod_obs3_2,Min. Vapor Porosity,4,19.5507,50.8925,74.2027
+mod_obs3_2,FOC,4,-16.3253,79.9755,107.852
+mod_obs3_2,D {air},4,2090.86,2090.86,3926.26
+mod_obs3_2,Pore Size Dist. Coeff. ,4,-5.59E-01,1.90E+00,2.97E+00
+mod_obs3_2,Vapor Pressure ,4,3.34E-01,3.34E-01,6.67E-01
+mod_obs3_2,Soil Source Top Conc. ,4,9.47E-01,9.47E-01,1.20E+00
+mod_obs3_2,Soil Source Bottom Conc. ,4,1.65142,1.65142,3.25892
+mod_obs3_2,Min Soil Moisture,4,1.55E+03,1.65E+03,3.23E+03
+mod_obs3_2,q air slab,4,-7934.56,7934.56,15864.1
+mod_obs3_2,q air vims,4,-17207.4,17207.4,34058.8
+mod_obs3_3,Porosity ,4,-174.396,174.396,347.384
+mod_obs3_3,Min. Vapor Porosity,4,4.95477,4.95477,4.5783
+mod_obs3_3,FOC,4,-91.9023,111.678,192.504
+mod_obs3_3,D {air},4,176.101,176.101,282.503
+mod_obs3_3,Pore Size Dist. Coeff. ,4,0.0884705,0.208365,0.271455
+mod_obs3_3,Vapor Pressure ,4,-0.0266142,0.0282088,0.0553423
+mod_obs3_3,Soil Source Top Conc. ,4,0.0785233,0.0785233,3.59E-02
+mod_obs3_3,Soil Source Bottom Conc. ,4,0.0336397,0.0336397,0.0561977
+mod_obs3_3,Min Soil Moisture,4,-227.18,227.453,405.814
+mod_obs3_3,q air slab,4,-561.775,561.775,1115.55
+mod_obs3_3,q air vims,4,-4208.12,4208.12,8188.69
+mod_obs3_4,Porosity ,4,-0.11313,0.11313,0.226261
+mod_obs3_4,Min. Vapor Porosity,4,0.020666,0.020666,0.0413252
+mod_obs3_4,FOC,4,-0.0872944,0.0872944,0.174584
+mod_obs3_4,D {air},4,0.107429,0.107429,0.213817
+mod_obs3_4,Pore Size Dist. Coeff. ,4,0.000117238,0.000117238,0.000232707
+mod_obs3_4,Vapor Pressure ,4,-3.03E-05,3.03E-05,6.07E-05
+mod_obs3_4,Soil Source Top Conc. ,4,1.04E-06,1.04E-06,2.08E-06
+mod_obs3_4,Soil Source Bottom Conc. ,4,-2.00E-06,2.00E-06,4.00E-06
+mod_obs3_4,Min Soil Moisture,4,-0.188744,0.188744,0.374863
+mod_obs3_4,q air slab,4,-0.279531,0.279531,0.559053
+mod_obs3_4,q air vims,4,-0.0697587,0.0697587,0.139247
+mod_obs3_5,Porosity ,4,3.85597,4.51493,8.59537
+mod_obs3_5,Min. Vapor Porosity,4,1.66482,2.05944,3.81646
+mod_obs3_5,FOC,4,-5.25151,5.32685,10.3895
+mod_obs3_5,D {air},4,12.6551,12.6551,13.9473
+mod_obs3_5,Pore Size Dist. Coeff. ,4,0.0272219,0.0300665,0.0372827
+mod_obs3_5,Vapor Pressure ,4,-0.000844941,0.000944854,0.00180729
+mod_obs3_5,Soil Source Top Conc. ,4,0.000390528,0.000390528,0.000223566
+mod_obs3_5,Soil Source Bottom Conc. ,4,0.000440957,0.000440957,0.000302156
+mod_obs3_5,Min Soil Moisture,4,-1.22E+01,1.23E+01,8.35E+00
+mod_obs3_5,q air slab,4,-1.89E+01,1.89E+01,3.72E+01
+mod_obs3_5,q air vims,4,-79.4164,79.4164,149.532
+mod_obs3_6,Porosity ,4,-0.642317,0.642317,1.28463
+mod_obs3_6,Min. Vapor Porosity,4,0.508279,0.508279,1.01651
+mod_obs3_6,FOC,4,-1.10313,1.10313,2.20623
+mod_obs3_6,D {air},4,1.74339,1.74339,3.47973
+mod_obs3_6,Pore Size Dist. Coeff. ,4,0.00135057,0.00135057,0.00268925
+mod_obs3_6,Vapor Pressure ,4,-0.000350372,0.000350372,0.000700741
+mod_obs3_6,Soil Source Top Conc. ,4,6.14E-05,6.14E-05,0.000122824
+mod_obs3_6,Soil Source Bottom Conc. ,4,-1.05E-04,1.05E-04,2.11E-04
+mod_obs3_6,Min Soil Moisture,4,-1.95724,1.95724,3.89677
+mod_obs3_6,q air slab,4,-2.96E+00,2.96E+00,5.92E+00
+mod_obs3_6,q air vims,4,-7.99E-01,7.99E-01,1.60E+00
+mod_obs3_7,Porosity ,4,-0.359,0.359,0.718
+mod_obs3_7,Min. Vapor Porosity,4,0.086078,0.086078,0.172146
+mod_obs3_7,FOC,4,-0.318201,0.318201,0.636396
+mod_obs3_7,D {air},4,0.419305,0.419305,0.837057
+mod_obs3_7,Pore Size Dist. Coeff. ,4,0.000414299,0.000414299,0.000825999
+mod_obs3_7,Vapor Pressure ,4,-0.000107684,0.000107684,0.000215367
+mod_obs3_7,Soil Source Top Conc. ,4,1.06E-05,1.06E-05,2.12E-05
+mod_obs3_7,Soil Source Bottom Conc. ,4,-2.83E-05,2.83E-05,5.65E-05
+mod_obs3_7,Min Soil Moisture,4,-0.668706,0.668706,1.33353
+mod_obs3_7,q air slab,4,-8.74E-01,8.74E-01,1.75E+00
+mod_obs3_7,q air vims,4,-2.48E-01,2.48E-01,4.95E-01
+mod_obs4_1,Porosity ,4,-9.22E+00,1.03E+01,1.92E+01
+mod_obs4_1,Min. Vapor Porosity,4,5.88551,10.1862,14.0457
+mod_obs4_1,FOC,4,7.87E+00,3.24E+01,4.01E+01
+mod_obs4_1,D {air},4,202.98,202.98,315.142
+mod_obs4_1,Pore Size Dist. Coeff. ,4,0.0524759,0.255078,0.314798
+mod_obs4_1,Vapor Pressure ,4,0.0159032,0.0159569,0.0303479
+mod_obs4_1,Soil Source Top Conc. ,4,0.144464,0.144464,0.0790055
+mod_obs4_1,Soil Source Bottom Conc. ,4,0.105379,0.105379,0.194923
+mod_obs4_1,Min Soil Moisture,4,73.042,108.38,194.802
+mod_obs4_1,q air slab,4,-711.625,711.625,1418.12
+mod_obs4_1,q air vims,4,-6085,6085,12134.2
+mod_obs4_2,Porosity ,4,-4.90E+01,5.81E+01,1.10E+02
+mod_obs4_2,Min. Vapor Porosity,4,29.6021,40.7424,60.8375
+mod_obs4_2,FOC,4,-4.54422,70.3197,106.035
+mod_obs4_2,D {air},4,1413.6,1413.6,2572.2
+mod_obs4_2,Pore Size Dist. Coeff. ,4,-0.11341,1.41807,2.08067
+mod_obs4_2,Vapor Pressure ,4,0.200819,0.201021,0.400493
+mod_obs4_2,Soil Source Top Conc. ,4,0.677252,0.677252,0.67117
+mod_obs4_2,Soil Source Bottom Conc. ,4,1.37377,1.37377,2.70364
+mod_obs4_2,Min Soil Moisture,4,1370.13,1473.11,2878.3
+mod_obs4_2,q air slab,4,-5224.52,5224.52,10444
+mod_obs4_2,q air vims,4,-17166.8,17166.8,34076.2
+mod_obs4_3,Porosity ,4,-133.615,133.68,2.66E+02
+mod_obs4_3,Min. Vapor Porosity,4,1.52E+01,1.52E+01,2.46E+01
+mod_obs4_3,FOC,4,-7.31E+01,9.24E+01,1.55E+02
+mod_obs4_3,D {air},4,167.264,167.264,265.317
+mod_obs4_3,Pore Size Dist. Coeff. ,4,5.63E-02,1.98E-01,2.80E-01
+mod_obs4_3,Vapor Pressure ,4,-0.0252169,0.0270349,0.0528586
+mod_obs4_3,Soil Source Top Conc. ,4,0.0700092,0.0700092,0.0326112
+mod_obs4_3,Soil Source Bottom Conc. ,4,0.0286587,0.0286587,0.0462842
+mod_obs4_3,Min Soil Moisture,4,-177.219,177.532,306.39
+mod_obs4_3,q air slab,4,-379.517,379.517,751.461
+mod_obs4_3,q air vims,4,-4189.15,4189.15,8183.71
+mod_obs4_4,Porosity ,4,-0.0691187,0.0691187,0.138237
+mod_obs4_4,Min. Vapor Porosity,4,0.0332466,0.0332466,0.0664864
+mod_obs4_4,FOC,4,-0.0747864,0.0747864,1.50E-01
+mod_obs4_4,D {air},4,0.111426,0.111426,0.221803
+mod_obs4_4,Pore Size Dist. Coeff. ,4,0.000108901,0.000108901,0.000216005
+mod_obs4_4,Vapor Pressure ,4,-2.82E-05,2.82E-05,5.65E-05
+mod_obs4_4,Soil Source Top Conc. ,4,5.91E-07,5.92E-07,1.18E-06
+mod_obs4_4,Soil Source Bottom Conc. ,4,1.53E-06,1.53E-06,3.06E-06
+mod_obs4_4,Min Soil Moisture,4,-0.138279,0.138279,0.273903
+mod_obs4_4,q air slab,4,-0.182654,0.182654,0.365299
+mod_obs4_4,q air vims,4,-0.0588799,0.0588799,0.117486
+mod_obs4_5,Porosity ,4,4.41733,4.99633,9.61053
+mod_obs4_5,Min. Vapor Porosity,4,1.87432,2.2111,4.15241
+mod_obs4_5,FOC,4,-5.23553,5.27018,10.227
+mod_obs4_5,D {air},4,12.1812,12.1812,12.6305
+mod_obs4_5,Pore Size Dist. Coeff. ,4,0.0307165,0.0322174,0.0434978
+mod_obs4_5,Vapor Pressure ,4,-0.00059879,0.000660893,0.00126062
+mod_obs4_5,Soil Source Top Conc. ,4,0.000299727,0.000299727,0.000192055
+mod_obs4_5,Soil Source Bottom Conc. ,4,0.000388485,0.000388485,0.000279717
+mod_obs4_5,Min Soil Moisture,4,-10.8855,10.9032,7.29372
+mod_obs4_5,q air slab,4,-11.2154,11.2154,22.1442
+mod_obs4_5,q air vims,4,-76.25,76.25,144.033
+mod_obs4_6,Porosity ,4,-0.157736,0.157736,0.315471
+mod_obs4_6,Min. Vapor Porosity,4,0.658048,0.658048,1.31605
+mod_obs4_6,FOC,4,-1.00575,1.00575,2.01146
+mod_obs4_6,D {air},4,1.69077,1.69077,3.37445
+mod_obs4_6,Pore Size Dist. Coeff. ,4,1.22E-03,1.22E-03,2.43E-03
+mod_obs4_6,Vapor Pressure ,4,-3.21E-04,3.21E-04,6.42E-04
+mod_obs4_6,Soil Source Top Conc. ,4,3.02E-05,3.02E-05,6.04E-05
+mod_obs4_6,Soil Source Bottom Conc. ,4,6.67E-05,6.67E-05,1.33E-04
+mod_obs4_6,Min Soil Moisture,4,-1.22394,1.22394,2.43003
+mod_obs4_6,q air slab,4,-1.83128,1.83128,3.66251
+mod_obs4_6,q air vims,4,-0.665205,0.665205,1.32857
+mod_obs4_7,Porosity ,4,-0.207975,0.207975,0.415949
+mod_obs4_7,Min. Vapor Porosity,4,0.130024,0.130024,0.260038
+mod_obs4_7,FOC,4,-0.276351,0.276351,0.552694
+mod_obs4_7,D {air},4,0.424653,0.424653,0.847747
+mod_obs4_7,Pore Size Dist. Coeff. ,4,0.000378687,0.000378687,0.000754755
+mod_obs4_7,Vapor Pressure ,4,-9.86E-05,9.86E-05,1.97E-04
+mod_obs4_7,Soil Source Top Conc. ,4,5.90E-06,5.91E-06,1.18E-05
+mod_obs4_7,Soil Source Bottom Conc. ,4,4.47E-06,4.47E-06,8.94E-06
+mod_obs4_7,Min Soil Moisture,4,-0.467252,0.467252,0.930601
+mod_obs4_7,q air slab,4,-0.53634,0.53634,1.07267
+mod_obs4_7,q air vims,4,-0.208916,0.208916,0.417429
+mod_obs5_5,Porosity ,4,4.7158,5.2076,10.0905
+mod_obs5_5,Min. Vapor Porosity,4,2.01002,2.26366,4.30767
+mod_obs5_5,FOC,4,-5.25949,5.27431,10.1576
+mod_obs5_5,D {air},4,11.6741,11.6741,11.2273
+mod_obs5_5,Pore Size Dist. Coeff. ,4,0.0346005,0.0352124,0.0513278
+mod_obs5_5,Vapor Pressure ,4,-0.000322898,3.56E-04,6.66E-04
+mod_obs5_5,Soil Source Top Conc. ,4,2.28E-04,2.28E-04,1.61E-04
+mod_obs5_5,Soil Source Bottom Conc. ,4,3.35E-04,3.35E-04,2.59E-04
+mod_obs5_5,Min Soil Moisture,4,-9.82674,9.83715,6.70986
+mod_obs5_5,q air slab,4,-5.85E+00,5.85E+00,1.15E+01
+mod_obs5_5,q air vims,4,-72.5527,72.5527,137.28
+mod_obs6_1,Porosity ,4,-2.65925,3.57307,5.65832
+mod_obs6_1,Min. Vapor Porosity,4,7.12069,8.62431,12.2371
+mod_obs6_1,FOC,4,9.0194,32.3489,39.3524
+mod_obs6_1,D {air},4,127.879,127.879,166.081
+mod_obs6_1,Pore Size Dist. Coeff. ,4,0.0240163,0.212635,0.254762
+mod_obs6_1,Vapor Pressure ,4,0.0106944,0.0107396,0.0194901
+mod_obs6_1,Soil Source Top Conc. ,4,0.115405,0.115405,0.0569112
+mod_obs6_1,Soil Source Bottom Conc. ,4,6.46E-02,6.46E-02,1.14E-01
+mod_obs6_1,Min Soil Moisture,4,43.8505,78.0316,135.561
+mod_obs6_1,q air slab,4,-357.745,357.745,710.619
+mod_obs6_1,q air vims,4,-6071.51,6071.51,12119.6
+mod_obs6_2,Porosity ,4,2.23909,6.76909,9.98674
+mod_obs6_2,Min. Vapor Porosity,4,42.3306,42.3306,50.9202
+mod_obs6_2,FOC,4,2.83871,76.562,106.365
+mod_obs6_2,D {air},4,789.652,789.652,1325.35
+mod_obs6_2,Pore Size Dist. Coeff. ,4,0.187616,1.03901,1.42755
+mod_obs6_2,Vapor Pressure ,4,0.100343,0.100536,0.199072
+mod_obs6_2,Soil Source Top Conc. ,4,0.457639,0.457639,0.282473
+mod_obs6_2,Soil Source Bottom Conc. ,4,7.17E-01,7.17E-01,1.39E+00
+mod_obs6_2,Min Soil Moisture,4,7.65E+02,8.67E+02,1.67E+03
+mod_obs6_2,q air slab,4,-2.22E+03,2.22E+03,4.44E+03
+mod_obs6_2,q air vims,4,-17112.9,17112.9,34090.5
+mod_obs6_3,Porosity ,4,-5.36E+01,5.37E+01,1.05E+02
+mod_obs6_3,Min. Vapor Porosity,4,36.5899,36.5899,67.8124
+mod_obs6_3,FOC,4,-52.8142,70.8427,115.545
+mod_obs6_3,D {air},4,154.758,154.758,241.386
+mod_obs6_3,Pore Size Dist. Coeff. ,4,-0.00793738,0.23404,0.301009
+mod_obs6_3,Vapor Pressure ,4,-0.0221635,0.0244514,0.0474106
+mod_obs6_3,Soil Source Top Conc. ,4,0.0582742,0.0582742,0.0313619
+mod_obs6_3,Soil Source Bottom Conc. ,4,0.0208943,0.0208943,0.0308826
+mod_obs6_3,Min Soil Moisture,4,-110.876,111.272,174.904
+mod_obs6_3,q air slab,4,-205.585,205.585,4.04E+02
+mod_obs6_3,q air vims,4,-4155.4,4155.4,8166.16
+mod_obs6_4,Porosity ,4,-0.00405194,0.00405194,0.00810389
+mod_obs6_4,Min. Vapor Porosity,4,0.0528795,0.0528795,0.105752
+mod_obs6_4,FOC,4,-0.0632454,0.0632454,0.126486
+mod_obs6_4,D {air},4,0.11226,0.11226,0.223453
+mod_obs6_4,Pore Size Dist. Coeff. ,4,9.14E-05,9.14E-05,0.000181004
+mod_obs6_4,Vapor Pressure ,4,-2.40E-05,2.40E-05,4.80E-05
+mod_obs6_4,Soil Source Top Conc. ,4,1.97E-07,1.97E-07,3.94E-07
+mod_obs6_4,Soil Source Bottom Conc. ,4,3.66E-06,3.66E-06,7.32E-06
+mod_obs6_4,Min Soil Moisture,4,-0.072537,0.072537,0.142352
+mod_obs6_4,q air slab,4,-0.0942523,0.0942523,0.188495
+mod_obs6_4,q air vims,4,-0.0421903,0.0421903,0.0840997
+mod_obs6_5,Porosity ,4,4.81812,5.2515,10.2166
+mod_obs6_5,Min. Vapor Porosity,4,2.07369,2.25733,4.33872
+mod_obs6_5,FOC,4,-5.2876,5.29426,10.1426
+mod_obs6_5,D {air},4,11.3188,11.3188,10.2528
+mod_obs6_5,Pore Size Dist. Coeff. ,4,0.03745,0.0376994,0.0571768
+mod_obs6_5,Vapor Pressure ,4,-0.000130353,0.00014933,0.000261542
+mod_obs6_5,Soil Source Top Conc. ,4,0.000188501,0.000188501,0.000139589
+mod_obs6_5,Soil Source Bottom Conc. ,4,0.000299686,0.000299686,0.000244423
+mod_obs6_5,Min Soil Moisture,4,-9.27294,9.27952,6.36268
+mod_obs6_5,q air slab,4,-3.44454,3.44454,6.76388
+mod_obs6_5,q air vims,4,-69.7267,69.7267,131.951
+mod_obs6_6,Porosity ,4,4.04E-01,4.04E-01,8.09E-01
+mod_obs6_6,Min. Vapor Porosity,4,8.42E-01,8.42E-01,1.68E+00
+mod_obs6_6,FOC,4,-0.930638,0.930638,1.86124
+mod_obs6_6,D {air},4,1.57541,1.57541,3.14364
+mod_obs6_6,Pore Size Dist. Coeff. ,4,0.000926936,0.000926936,0.00184155
+mod_obs6_6,Vapor Pressure ,4,-0.000263971,0.000263971,0.000527938
+mod_obs6_6,Soil Source Top Conc. ,4,8.82E-06,8.82E-06,1.76E-05
+mod_obs6_6,Soil Source Bottom Conc. ,4,1.82E-04,1.82E-04,3.65E-04
+mod_obs6_6,Min Soil Moisture,4,-0.419587,0.419587,0.821036
+mod_obs6_6,q air slab,4,-0.859363,0.859363,1.71868
+mod_obs6_6,q air vims,4,-0.472637,0.472637,0.943403
+mod_obs6_7,Porosity ,4,0.0126056,0.0126056,0.0252113
+mod_obs6_7,Min. Vapor Porosity,4,1.97E-01,1.97E-01,3.94E-01
+mod_obs6_7,FOC,4,-2.38E-01,2.38E-01,4.76E-01
+mod_obs6_7,D {air},4,0.417068,0.417068,0.832564
+mod_obs6_7,Pore Size Dist. Coeff. ,4,0.000312824,0.000312824,0.000622983
+mod_obs6_7,Vapor Pressure ,4,-8.32E-05,8.32E-05,0.000166347
+mod_obs6_7,Soil Source Top Conc. ,4,1.93E-06,1.93E-06,3.86E-06
+mod_obs6_7,Soil Source Bottom Conc. ,4,3.38E-05,3.38E-05,6.76E-05
+mod_obs6_7,Min Soil Moisture,4,-0.214405,0.214405,0.424863
+mod_obs6_7,q air slab,4,-0.260401,0.260401,0.520795
+mod_obs6_7,q air vims,4,-0.149778,0.149778,0.299149
+mod_obs7_1,Porosity ,4,-1.3652,2.26984,3.02274
+mod_obs7_1,Min. Vapor Porosity,4,7.42367,8.15E+00,1.18E+01
+mod_obs7_1,FOC,4,9.14E+00,3.19E+01,3.86E+01
+mod_obs7_1,D {air},4,1.08E+02,1.08E+02,1.26E+02
+mod_obs7_1,Pore Size Dist. Coeff. ,4,0.00607016,0.195493,0.234679
+mod_obs7_1,Vapor Pressure ,4,9.11E-03,9.15E-03,1.61E-02
+mod_obs7_1,Soil Source Top Conc. ,4,0.107231,0.107231,0.0561096
+mod_obs7_1,Soil Source Bottom Conc. ,4,0.0519464,0.0519464,0.08819
+mod_obs7_1,Min Soil Moisture,4,34.7088,68.2906,116.83
+mod_obs7_1,q air slab,4,-254.616,254.616,504.495
+mod_obs7_1,q air vims,4,-6065.36,6065.36,12111.2
+mod_obs7_2,Porosity ,4,10.3446,11.1956,12.4817
+mod_obs7_2,Min. Vapor Porosity,4,44.8505,44.8505,50.3335
+mod_obs7_2,FOC,4,3.57445,76.6983,105.838
+mod_obs7_2,D {air},4,6.36E+02,6.36E+02,1.02E+03
+mod_obs7_2,Pore Size Dist. Coeff. ,4,0.230878,0.955195,1.29108
+mod_obs7_2,Vapor Pressure ,4,0.0794094,0.0795973,0.156961
+mod_obs7_2,Soil Source Top Conc. ,4,0.408267,0.408267,0.218513
+mod_obs7_2,Soil Source Bottom Conc. ,4,0.511059,0.511059,0.978329
+mod_obs7_2,Min Soil Moisture,4,564.309,665.614,1265.52
+mod_obs7_2,q air slab,4,-1425.84,1425.84,2846.8
+mod_obs7_2,q air vims,4,-17096.2,17096.2,34090.3
+mod_obs7_3,Porosity ,4,-25.768,25.8907,48.937
+mod_obs7_3,Min. Vapor Porosity,4,44.6993,44.6993,84.3247
+mod_obs7_3,FOC,4,-48.4127,65.8275,106.91
+mod_obs7_3,D {air},4,1.50E+02,1.50E+02,2.32E+02
+mod_obs7_3,Pore Size Dist. Coeff. ,4,-3.68E-02,2.49E-01,3.12E-01
+mod_obs7_3,Vapor Pressure ,4,-2.07E-02,2.32E-02,4.48E-02
+mod_obs7_3,Soil Source Top Conc. ,4,0.0540935,0.0540935,0.0307949
+mod_obs7_3,Soil Source Bottom Conc. ,4,1.81E-02,1.81E-02,2.53E-02
+mod_obs7_3,Min Soil Moisture,4,-88.9212,89.358,131.721
+mod_obs7_3,q air slab,4,-161.065,161.065,315.867
+mod_obs7_3,q air vims,4,-4140.64,4140.64,8154.91
+mod_obs7_4,Porosity ,4,0.0134765,0.0134765,0.026953
+mod_obs7_4,Min. Vapor Porosity,4,0.0586244,0.0586244,0.117242
+mod_obs7_4,FOC,4,-0.0612008,0.0612008,0.122396
+mod_obs7_4,D {air},4,0.110501,0.110501,0.219925
+mod_obs7_4,Pore Size Dist. Coeff. ,4,8.29E-05,8.29E-05,0.00016387
+mod_obs7_4,Vapor Pressure ,4,-2.21E-05,2.21E-05,4.42E-05
+mod_obs7_4,Soil Source Top Conc. ,4,1.24E-07,1.24E-07,2.47E-07
+mod_obs7_4,Soil Source Bottom Conc. ,4,2.74E-06,2.74E-06,5.48E-06
+mod_obs7_4,Min Soil Moisture,4,-0.053187,0.053187,0.103616
+mod_obs7_4,q air slab,4,-0.0711068,0.0711068,0.142205
+mod_obs7_4,q air vims,4,-0.0362793,0.0362793,0.072274
+mod_obs7_5,Porosity ,4,4.87798,5.25362,10.2584
+mod_obs7_5,Min. Vapor Porosity,4,2.12648,2.22983,4.33518
+mod_obs7_5,FOC,4,-5.32122,5.32293,10.1441
+mod_obs7_5,D {air},4,10.9554,10.9554,9.26833
+mod_obs7_5,Pore Size Dist. Coeff. ,4,0.0405019,0.0410094,0.0631269
+mod_obs7_5,Vapor Pressure ,4,4.94E-05,7.01E-05,0.000115822
+mod_obs7_5,Soil Source Top Conc. ,4,0.000154902,0.000154902,0.000119016
+mod_obs7_5,Soil Source Bottom Conc. ,4,0.000267073,0.000267073,0.000226898
+mod_obs7_5,Min Soil Moisture,4,-8.82128,8.825,6.00132
+mod_obs7_5,q air slab,4,-1.84528,1.84528,3.60014
+mod_obs7_5,q air vims,4,-66.5797,66.5797,125.909
+mod_obs7_6,Porosity ,4,0.52137,0.52137,1.04274
+mod_obs7_6,Min. Vapor Porosity,4,0.883237,0.883237,1.76643
+mod_obs7_6,FOC,4,-0.920236,0.920236,1.84044
+mod_obs7_6,D {air},4,1.51236,1.51236,3.0175
+mod_obs7_6,Pore Size Dist. Coeff. ,4,0.000756377,0.000756377,0.00150026
+mod_obs7_6,Vapor Pressure ,4,-0.000234454,0.000234454,0.000468905
+mod_obs7_6,Soil Source Top Conc. ,4,5.39E-06,5.39E-06,1.08E-05
+mod_obs7_6,Soil Source Bottom Conc. ,4,1.18E-04,1.18E-04,2.36E-04
+mod_obs7_6,Min Soil Moisture,4,-3.07E-01,3.07E-01,5.96E-01
+mod_obs7_6,q air slab,4,-0.606681,0.606681,1.21332
+mod_obs7_6,q air vims,4,-0.411044,0.411044,0.820199
+mod_obs7_7,Porosity ,4,0.0712718,0.0712718,0.142544
+mod_obs7_7,Min. Vapor Porosity,4,0.216212,0.216212,0.432415
+mod_obs7_7,FOC,4,-0.231185,0.231185,0.462363
+mod_obs7_7,D {air},4,0.407596,0.407596,0.813615
+mod_obs7_7,Pore Size Dist. Coeff. ,4,0.000279746,0.000279746,0.000556803
+mod_obs7_7,Vapor Pressure ,4,-7.64E-05,7.64E-05,0.000152739
+mod_obs7_7,Soil Source Top Conc. ,4,1.21E-06,1.21E-06,2.43E-06
+mod_obs7_7,Soil Source Bottom Conc. ,4,2.47E-05,2.47E-05,4.94E-05
+mod_obs7_7,Min Soil Moisture,4,-1.56E-01,1.56E-01,3.08E-01
+mod_obs7_7,q air slab,4,-1.93E-01,1.93E-01,3.87E-01
+mod_obs7_7,q air vims,4,-0.12908,0.12908,0.25775
+mod_obs8_1,Porosity ,4,-0.806201,1.70007,2.02275
+mod_obs8_1,Min. Vapor Porosity,4,7.55137,7.87055,11.585
+mod_obs8_1,FOC,4,9.16449,31.3804,37.935
+mod_obs8_1,D {air},4,94.8881,94.8881,101.294
+mod_obs8_1,Pore Size Dist. Coeff. ,4,-0.0105061,0.182154,0.22205
+mod_obs8_1,Vapor Pressure ,4,0.00807371,0.00811121,0.0138543
+mod_obs8_1,Soil Source Top Conc. ,4,0.101762,0.101762,0.0563897
+mod_obs8_1,Soil Source Bottom Conc. ,4,0.0440126,0.0440126,0.0723722
+mod_obs8_1,Min Soil Moisture,4,2.91E+01,6.22E+01,1.05E+02
+mod_obs8_1,q air slab,4,-1.89E+02,1.89E+02,3.72E+02
+mod_obs8_1,q air vims,4,-6.06E+03,6.06E+03,1.21E+04
+mod_obs8_2,Porosity ,4,13.479,14.4517,18.2634
+mod_obs8_2,Min. Vapor Porosity,4,4.59E+01,4.59E+01,5.03E+01
+mod_obs8_2,FOC,4,3.78974,76.3816,105.199
+mod_obs8_2,D {air},4,540.926,540.926,828.987
+mod_obs8_2,Pore Size Dist. Coeff. ,4,0.24264,0.907712,1.21349
+mod_obs8_2,Vapor Pressure ,4,0.0675887,0.0677722,0.133103
+mod_obs8_2,Soil Source Top Conc. ,4,0.378701,0.378701,0.19245
+mod_obs8_2,Soil Source Bottom Conc. ,4,0.400074,0.400074,0.756403
+mod_obs8_2,Min Soil Moisture,4,455.749,556.541,1048.13
+mod_obs8_2,q air slab,4,-959.438,959.438,1914.03
+mod_obs8_2,q air vims,4,-1.71E+04,1.71E+04,3.41E+04
+mod_obs8_3,Porosity ,4,-8.29725,8.41973,13.7218
+mod_obs8_3,Min. Vapor Porosity,4,50.0705,50.0705,95.3278
+mod_obs8_3,FOC,4,-46.2048,63.088,102.564
+mod_obs8_3,D {air},4,145.643,145.643,224.19
+mod_obs8_3,Pore Size Dist. Coeff. ,4,-0.0598448,0.260204,0.320699
+mod_obs8_3,Vapor Pressure ,4,-0.0194923,0.0221941,0.042655
+mod_obs8_3,Soil Source Top Conc. ,4,0.050977,0.050977,0.03011
+mod_obs8_3,Soil Source Bottom Conc. ,4,0.0161196,0.0161196,0.0214874
+mod_obs8_3,Min Soil Moisture,4,-73.5861,74.0571,101.811
+mod_obs8_3,q air slab,4,-132.391,132.391,258.867
+mod_obs8_3,q air vims,4,-4.13E+03,4.13E+03,8.14E+03
+mod_obs8_4,Porosity ,4,2.31E-02,2.31E-02,4.61E-02
+mod_obs8_4,Min. Vapor Porosity,4,6.19E-02,6.19E-02,1.24E-01
+mod_obs8_4,FOC,4,-0.0602841,0.0602841,0.120563
+mod_obs8_4,D {air},4,1.08E-01,1.08E-01,2.16E-01
+mod_obs8_4,Pore Size Dist. Coeff. ,4,7.53E-05,7.53E-05,0.000148757
+mod_obs8_4,Vapor Pressure ,4,-2.06E-05,2.06E-05,4.12E-05
+mod_obs8_4,Soil Source Top Conc. ,4,8.60E-08,8.62E-08,1.72E-07
+mod_obs8_4,Soil Source Bottom Conc. ,4,2.06E-06,2.07E-06,4.13E-06
+mod_obs8_4,Min Soil Moisture,4,-0.0403823,0.0403823,0.0779761
+mod_obs8_4,q air slab,4,-0.0560044,0.0560044,0.112
+mod_obs8_4,q air vims,4,-0.032161,0.032161,0.0640339
+mod_obs8_5,Porosity ,4,4.9095,5.24071,10.2613
+mod_obs8_5,Min. Vapor Porosity,4,2.16411,2.19989,4.32E+00
+mod_obs8_5,FOC,4,-5.34967,5.34967,10.154
+mod_obs8_5,D {air},4,10.6729,10.6729,8.5171
+mod_obs8_5,Pore Size Dist. Coeff. ,4,0.0429735,0.0435029,0.067497
+mod_obs8_5,Vapor Pressure ,4,0.000160842,0.000182085,0.000344058
+mod_obs8_5,Soil Source Top Conc. ,4,1.32E-04,1.32E-04,1.04E-04
+mod_obs8_5,Soil Source Bottom Conc. ,4,0.000242879,0.000242879,0.000211641
+mod_obs8_5,Min Soil Moisture,4,-8.52793,8.53011,5.73564
+mod_obs8_5,q air slab,4,-1.05891,1.05891,2.04708
+mod_obs8_5,q air vims,4,-63.9148,63.9148,120.735
+mod_obs8_6,Porosity ,4,0.576681,0.576681,1.15336
+mod_obs8_6,Min. Vapor Porosity,4,0.90389,0.90389,1.80773
+mod_obs8_6,FOC,4,-0.916212,0.916212,1.83239
+mod_obs8_6,D {air},4,1.45676,1.45676,2.90626
+mod_obs8_6,Pore Size Dist. Coeff. ,4,0.000598421,0.000598421,0.00118421
+mod_obs8_6,Vapor Pressure ,4,-0.000207806,0.000207806,0.000415608
+mod_obs8_6,Soil Source Top Conc. ,4,3.69E-06,3.69E-06,7.37E-06
+mod_obs8_6,Soil Source Bottom Conc. ,4,8.20E-05,8.20E-05,1.64E-04
+mod_obs8_6,Min Soil Moisture,4,-0.236741,0.236741,0.45505
+mod_obs8_6,q air slab,4,-0.447194,0.447194,0.894346
+mod_obs8_6,q air vims,4,-0.371168,0.371168,0.740431
+mod_obs8_7,Porosity ,4,0.103146,0.103146,0.206293
+mod_obs8_7,Min. Vapor Porosity,4,0.227189,0.227189,0.454367
+mod_obs8_7,FOC,4,-0.22817,0.22817,0.456332
+mod_obs8_7,D {air},4,3.98E-01,3.98E-01,7.94E-01
+mod_obs8_7,Pore Size Dist. Coeff. ,4,2.50E-04,2.50E-04,4.97E-04
+mod_obs8_7,Vapor Pressure ,4,-7.08E-05,7.08E-05,0.000141527
+mod_obs8_7,Soil Source Top Conc. ,4,8.46E-07,8.46E-07,1.69E-06
+mod_obs8_7,Soil Source Bottom Conc. ,4,1.82E-05,1.82E-05,3.65E-05
+mod_obs8_7,Min Soil Moisture,4,-0.118545,0.118545,0.233098
+mod_obs8_7,q air slab,4,-0.150621,0.150621,0.301235
+mod_obs8_7,q air vims,4,-0.114798,0.114798,0.229183
+mod_obs9_1,Porosity ,4,-0.544546,1.43949,1.75433
+mod_obs9_1,Min. Vapor Porosity,4,7.59444,7.67859,11.46
+mod_obs9_1,FOC,4,9.15269,30.8652,37.2341
+mod_obs9_1,D {air},4,85.3318,85.3318,82.761
+mod_obs9_1,Pore Size Dist. Coeff. ,4,-2.70E-02,1.70E-01,2.14E-01
+mod_obs9_1,Vapor Pressure ,4,7.29E-03,7.33E-03,1.21E-02
+mod_obs9_1,Soil Source Top Conc. ,4,0.0974182,0.0974182,0.0567632
+mod_obs9_1,Soil Source Bottom Conc. ,4,0.0381892,0.0381892,0.0607776
+mod_obs9_1,Min Soil Moisture,4,24.9338,57.4759,96.4009
+mod_obs9_1,q air slab,4,-140.278,140.278,276.044
+mod_obs9_1,q air vims,4,-6055.38,6055.38,12095.6
+mod_obs9_2,Porosity ,4,14.9504,16.0425,21.1995
+mod_obs9_2,Min. Vapor Porosity,4,46.4609,46.4609,50.2981
+mod_obs9_2,FOC,4,3.8537,75.923,104.509
+mod_obs9_2,D {air},4,471.362,471.362,690.381
+mod_obs9_2,Pore Size Dist. Coeff. ,4,2.38E-01,8.78E-01,1.16E+00
+mod_obs9_2,Vapor Pressure ,4,5.98E-02,6.00E-02,1.17E-01
+mod_obs9_2,Soil Source Top Conc. ,4,3.57E-01,3.57E-01,1.82E-01
+mod_obs9_2,Soil Source Bottom Conc. ,4,0.326406,0.326406,0.609115
+mod_obs9_2,Min Soil Moisture,4,3.81E+02,4.81E+02,8.99E+02
+mod_obs9_2,q air slab,4,-648.747,648.747,1292.69
+mod_obs9_2,q air vims,4,-17076.4,17076.4,34083.3
+mod_obs9_3,Porosity ,4,3.79544,6.35747,10.949
+mod_obs9_3,Min. Vapor Porosity,4,53.9544,53.9544,103.349
+mod_obs9_3,FOC,4,-44.9488,61.3217,100.072
+mod_obs9_3,D {air},4,141.905,141.905,217.181
+mod_obs9_3,Pore Size Dist. Coeff. ,4,-0.0802988,0.269521,0.328293
+mod_obs9_3,Vapor Pressure ,4,-0.0184119,0.0212901,0.0407441
+mod_obs9_3,Soil Source Top Conc. ,4,4.83E-02,4.83E-02,2.93E-02
+mod_obs9_3,Soil Source Bottom Conc. ,4,0.0145695,0.0145695,0.0184674
+mod_obs9_3,Min Soil Moisture,4,-61.3369,61.8399,78.2329
+mod_obs9_3,q air slab,4,-110.318,110.318,215.044
+mod_obs9_3,q air vims,4,-4117.57,4117.57,8133
+mod_obs9_4,Porosity ,4,0.028951,0.028951,0.0579021
+mod_obs9_4,Min. Vapor Porosity,4,0.0640514,0.0640514,0.128096
+mod_obs9_4,FOC,4,-0.0598075,0.0598075,0.119609
+mod_obs9_4,D {air},4,0.106003,0.106003,0.210912
+mod_obs9_4,Pore Size Dist. Coeff. ,4,6.78E-05,6.78E-05,0.000133644
+mod_obs9_4,Vapor Pressure ,4,-1.92E-05,1.92E-05,3.85E-05
+mod_obs9_4,Soil Source Top Conc. ,4,6.25E-08,6.28E-08,1.25E-07
+mod_obs9_4,Soil Source Bottom Conc. ,4,1.58E-06,1.58E-06,3.15E-06
+mod_obs9_4,Min Soil Moisture,4,-3.07E-02,3.07E-02,5.86E-02
+mod_obs9_4,q air slab,4,-0.044462,0.044462,0.0889153
+mod_obs9_4,q air vims,4,-2.89E-02,2.89E-02,5.76E-02
+mod_obs9_5,Porosity ,4,4.93237,5.22443,10.2541
+mod_obs9_5,Min. Vapor Porosity,4,2.1964,2.1964,4.30178
+mod_obs9_5,FOC,4,-5.37584,5.37584,10.168
+mod_obs9_5,D {air},4,10.4265,10.4265,7.87638
+mod_obs9_5,Pore Size Dist. Coeff. ,4,0.0451942,0.0453116,0.070964
+mod_obs9_5,Vapor Pressure ,4,0.000223067,0.000244611,0.000472193
+mod_obs9_5,Soil Source Top Conc. ,4,1.15E-04,1.15E-04,9.13E-05
+mod_obs9_5,Soil Source Bottom Conc. ,4,0.000222277,0.000222277,0.000197284
+mod_obs9_5,Min Soil Moisture,4,-8.30011,8.30133,5.54E+00
+mod_obs9_5,q air slab,4,-0.613467,0.613467,1.16961
+mod_obs9_5,q air vims,4,-61.4014,61.4014,115.824
+mod_obs9_6,Porosity ,4,0.606414,0.606414,1.21283
+mod_obs9_6,Min. Vapor Porosity,4,0.91547,0.91547,1.83089
+mod_obs9_6,FOC,4,-0.914386,0.914386,1.82874
+mod_obs9_6,D {air},4,1.40334,1.40334,2.79939
+mod_obs9_6,Pore Size Dist. Coeff. ,4,0.000440158,0.000440158,0.000867537
+mod_obs9_6,Vapor Pressure ,4,-0.000180823,0.000180823,0.000361641
+mod_obs9_6,Soil Source Top Conc. ,4,2.64E-06,2.64E-06,5.28E-06
+mod_obs9_6,Soil Source Bottom Conc. ,4,5.93E-05,5.93E-05,1.19E-04
+mod_obs9_6,Min Soil Moisture,4,-0.188143,0.188143,0.357723
+mod_obs9_6,q air slab,4,-0.331364,0.331364,0.662686
+mod_obs9_6,q air vims,4,-0.341987,0.341987,0.682054
+mod_obs9_7,Porosity ,4,0.122557,0.122557,0.245114
+mod_obs9_7,Min. Vapor Porosity,4,0.234169,0.234169,0.468328
+mod_obs9_7,FOC,4,-0.226609,0.226609,0.453211
+mod_obs9_7,D {air},4,0.387578,0.387578,0.773567
+mod_obs9_7,Pore Size Dist. Coeff. ,4,0.000219744,0.000219744,0.000436756
+mod_obs9_7,Vapor Pressure ,4,-6.55E-05,6.55E-05,0.000130921
+mod_obs9_7,Soil Source Top Conc. ,4,6.16E-07,6.16E-07,1.23E-06
+mod_obs9_7,Soil Source Bottom Conc. ,4,1.37E-05,1.37E-05,2.74E-05
+mod_obs9_7,Min Soil Moisture,4,-0.0903527,0.0903527,0.176692
+mod_obs9_7,q air slab,4,-0.118322,0.118322,0.236637
+mod_obs9_7,q air vims,4,-1.04E-01,1.04E-01,2.07E-01
+mod_obs10_1,Porosity ,4,-4.38E-01,1.34E+00,1.78E+00
+mod_obs10_1,Min. Vapor Porosity,4,7.58541,7.58541,11.3804
+mod_obs10_1,FOC,4,9.12243,30.2967,36.4701
+mod_obs10_1,D {air},4,77.2825,77.2825,67.316
+mod_obs10_1,Pore Size Dist. Coeff. ,4,-0.0450003,0.158872,0.20921
+mod_obs10_1,Vapor Pressure ,4,0.00663851,0.00666919,0.0106499
+mod_obs10_1,Soil Source Top Conc. ,4,0.0934862,0.0934862,0.0570134
+mod_obs10_1,Soil Source Bottom Conc. ,4,0.0333649,0.0333649,0.0511892
+mod_obs10_1,Min Soil Moisture,4,21.3145,53.3054,88.6677
+mod_obs10_1,q air slab,4,-101.714,101.714,199.035
+mod_obs10_1,q air vims,4,-6.05E+03,6.05E+03,1.21E+04
+mod_obs10_2,Porosity ,4,1.57E+01,1.69E+01,2.27E+01
+mod_obs10_2,Min. Vapor Porosity,4,4.67E+01,4.67E+01,5.04E+01
+mod_obs10_2,FOC,4,3.87059,75.3732,103.737
+mod_obs10_2,D {air},4,4.14E+02,4.14E+02,5.75E+02
+mod_obs10_2,Pore Size Dist. Coeff. ,4,0.217534,0.860439,1.12929
+mod_obs10_2,Vapor Pressure ,4,0.0545417,0.0547165,0.106568
+mod_obs10_2,Soil Source Top Conc. ,4,0.339798,0.339798,0.178187
+mod_obs10_2,Soil Source Bottom Conc. ,4,0.269965,0.269965,0.496287
+mod_obs10_2,Min Soil Moisture,4,320.643,420.386,777.341
+mod_obs10_2,q air slab,4,-423.37,423.37,841.976
+mod_obs10_2,q air vims,4,-17068.7,17068.7,34077.5
+mod_obs10_3,Porosity ,4,12.7433,15.5449,29.1045
+mod_obs10_3,Min. Vapor Porosity,4,5.69E+01,5.69E+01,1.10E+02
+mod_obs10_3,FOC,4,-44.1949,60.0272,98.5511
+mod_obs10_3,D {air},4,138.089,138.089,210.046
+mod_obs10_3,Pore Size Dist. Coeff. ,4,-0.100312,0.277713,0.335047
+mod_obs10_3,Vapor Pressure ,4,-0.017331,0.0203888,0.0388386
+mod_obs10_3,Soil Source Top Conc. ,4,0.0456942,0.0456942,0.0283494
+mod_obs10_3,Soil Source Bottom Conc. ,4,0.0132098,0.0132098,0.0158412
+mod_obs10_3,Min Soil Moisture,4,-50.5344,51.0704,57.946
+mod_obs10_3,q air slab,4,-91.0602,91.0602,176.855
+mod_obs10_3,q air vims,4,-4106.28,4106.28,8120.37
+mod_obs10_4,Porosity ,4,0.0328129,0.0328129,0.0656257
+mod_obs10_4,Min. Vapor Porosity,4,6.55E-02,6.55E-02,1.31E-01
+mod_obs10_4,FOC,4,-5.95E-02,5.95E-02,1.19E-01
+mod_obs10_4,D {air},4,1.03E-01,1.03E-01,2.05E-01
+mod_obs10_4,Pore Size Dist. Coeff. ,4,5.94E-05,5.94E-05,0.000116747
+mod_obs10_4,Vapor Pressure ,4,-1.78E-05,1.78E-05,3.55E-05
+mod_obs10_4,Soil Source Top Conc. ,4,4.57E-08,4.60E-08,9.18E-08
+mod_obs10_4,Soil Source Bottom Conc. ,4,1.20E-06,1.20E-06,2.40E-06
+mod_obs10_4,Min Soil Moisture,4,-0.022786,0.022786,0.0427228
+mod_obs10_4,q air slab,4,-0.0346478,0.0346478,0.0692869
+mod_obs10_4,q air vims,4,-0.0261409,0.0261409,0.0519869
+mod_obs10_5,Porosity ,4,4.95285,5.20643,10.243
+mod_obs10_5,Min. Vapor Porosity,4,2.22772,2.22772,4.28292
+mod_obs10_5,FOC,4,-5.4021,5.4021,10.1859
+mod_obs10_5,D {air},4,10.1886,10.1886,7.28E+00
+mod_obs10_5,Pore Size Dist. Coeff. ,4,0.0473765,0.0473765,0.0738663
+mod_obs10_5,Vapor Pressure ,4,0.000237107,0.000258736,0.000502436
+mod_obs10_5,Soil Source Top Conc. ,4,1.00E-04,1.00E-04,7.99E-05
+mod_obs10_5,Soil Source Bottom Conc. ,4,0.000202732,0.000202732,0.000182647
+mod_obs10_5,Min Soil Moisture,4,-8.09681,8.0974,5.41306
+mod_obs10_5,q air slab,4,-0.339961,0.339961,0.633008
+mod_obs10_5,q air vims,4,-58.783,58.783,110.688
+mod_obs10_6,Porosity ,4,0.623528,0.623528,1.24706
+mod_obs10_6,Min. Vapor Porosity,4,0.922402,0.922402,1.84476
+mod_obs10_6,FOC,4,-0.913495,0.913495,1.82695
+mod_obs10_6,D {air},4,1.34733,1.34733,2.68732
+mod_obs10_6,Pore Size Dist. Coeff. ,4,0.000268864,0.000268864,0.000524797
+mod_obs10_6,Vapor Pressure ,4,-0.000150513,0.000150513,0.000301022
+mod_obs10_6,Soil Source Top Conc. ,4,1.90E-06,1.90E-06,3.80E-06
+mod_obs10_6,Soil Source Bottom Conc. ,4,4.33E-05,4.33E-05,8.66E-05
+mod_obs10_6,Min Soil Moisture,4,-0.154251,0.154251,0.289796
+mod_obs10_6,q air slab,4,-0.239013,0.239013,0.477985
+mod_obs10_6,q air vims,4,-0.318663,0.318663,0.635388
+mod_obs10_7,Porosity ,4,0.13522,0.13522,0.270441
+mod_obs10_7,Min. Vapor Porosity,4,0.238916,0.238916,0.477822
+mod_obs10_7,FOC,4,-0.225737,0.225737,0.451466
+mod_obs10_7,D {air},4,0.376171,0.376171,0.750747
+mod_obs10_7,Pore Size Dist. Coeff. ,4,0.000185915,0.000185915,0.000369075
+mod_obs10_7,Vapor Pressure ,4,-5.98E-05,5.98E-05,1.20E-04
+mod_obs10_7,Soil Source Top Conc. ,4,4.51E-07,4.52E-07,9.03E-07
+mod_obs10_7,Soil Source Bottom Conc. ,4,1.03E-05,1.03E-05,2.06E-05
+mod_obs10_7,Min Soil Moisture,4,-0.0674069,0.0674069,0.130779
+mod_obs10_7,q air slab,4,-0.0911689,0.0911689,0.182332
+mod_obs10_7,q air vims,4,-0.0942205,0.0942205,0.188024
+mod_obs11_1,Porosity ,4,-0.429078,1.32689,1.89002
+mod_obs11_1,Min. Vapor Porosity,4,7.54434,7.54434,11.3339
+mod_obs11_1,FOC,4,9.08323,29.739,35.7269
+mod_obs11_1,D {air},4,71.0555,71.0555,55.5313
+mod_obs11_1,Pore Size Dist. Coeff. ,4,-0.0624683,0.148708,0.208325
+mod_obs11_1,Vapor Pressure ,4,0.006146,0.00617344,0.00951373
+mod_obs11_1,Soil Source Top Conc. ,4,9.02E-02,9.02E-02,5.70E-02
+mod_obs11_1,Soil Source Bottom Conc. ,4,2.97E-02,2.97E-02,4.39E-02
+mod_obs11_1,Min Soil Moisture,4,18.3675,49.8248,82.2887
+mod_obs11_1,q air slab,4,-74.2393,74.2393,144.197
+mod_obs11_1,q air vims,4,-6045.42,6045.42,12078.4
+mod_obs11_2,Porosity ,4,15.9004,17.2477,23.4422
+mod_obs11_2,Min. Vapor Porosity,4,46.7863,46.7863,50.4083
+mod_obs11_2,FOC,4,3.84772,74.7963,102.967
+mod_obs11_2,D {air},4,369.099,369.099,487.022
+mod_obs11_2,Pore Size Dist. Coeff. ,4,0.186333,0.855232,1.1136
+mod_obs11_2,Vapor Pressure ,4,0.0518668,0.0520372,0.100995
+mod_obs11_2,Soil Source Top Conc. ,4,3.26E-01,3.26E-01,1.79E-01
+mod_obs11_2,Soil Source Bottom Conc. ,4,2.30E-01,2.30E-01,4.16E-01
+mod_obs11_2,Min Soil Moisture,4,2.74E+02,3.74E+02,6.85E+02
+mod_obs11_2,q air slab,4,-278.363,278.363,552.002
+mod_obs11_2,q air vims,4,-1.71E+04,1.71E+04,3.41E+04
+mod_obs11_3,Porosity ,4,18.53,21.5546,40.9665
+mod_obs11_3,Min. Vapor Porosity,4,58.947,58.947,113.868
+mod_obs11_3,FOC,4,-43.8184,59.1351,97.7621
+mod_obs11_3,D {air},4,134.562,134.562,203.47
+mod_obs11_3,Pore Size Dist. Coeff. ,4,-0.117931,0.283832,0.339977
+mod_obs11_3,Vapor Pressure ,4,-0.0163449,0.0195666,0.0371027
+mod_obs11_3,Soil Source Top Conc. ,4,0.0433982,0.0433982,0.0273588
+mod_obs11_3,Soil Source Bottom Conc. ,4,0.0121278,0.0121278,0.0137744
+mod_obs11_3,Min Soil Moisture,4,-4.20E+01,4.26E+01,4.27E+01
+mod_obs11_3,q air slab,4,-75.7084,75.7084,146.451
+mod_obs11_3,q air vims,4,-4095.82,4095.82,8107.56
+mod_obs11_4,Porosity ,4,0.0350302,0.0350302,0.0700603
+mod_obs11_4,Min. Vapor Porosity,4,0.0663697,0.0663697,0.132732
+mod_obs11_4,FOC,4,-0.0594078,0.0594078,0.11881
+mod_obs11_4,D {air},4,0.100495,0.100495,0.199878
+mod_obs11_4,Pore Size Dist. Coeff. ,4,5.09E-05,5.09E-05,9.97E-05
+mod_obs11_4,Vapor Pressure ,4,-1.64E-05,1.64E-05,3.27E-05
+mod_obs11_4,Soil Source Top Conc. ,4,3.46E-08,3.49E-08,6.96E-08
+mod_obs11_4,Soil Source Bottom Conc. ,4,9.36E-07,9.36E-07,1.87E-06
+mod_obs11_4,Min Soil Moisture,4,-1.70E-02,1.70E-02,3.12E-02
+mod_obs11_4,q air slab,4,-2.71E-02,2.71E-02,5.43E-02
+mod_obs11_4,q air vims,4,-2.40E-02,2.40E-02,4.77E-02
+mod_obs11_5,Porosity ,4,4.97032,5.18974,10.2317
+mod_obs11_5,Min. Vapor Porosity,4,2.26E+00,2.26E+00,4.27E+00
+mod_obs11_5,FOC,4,-5.42563,5.42563,10.2051
+mod_obs11_5,D {air},4,9.98132,9.98132,6.77539
+mod_obs11_5,Pore Size Dist. Coeff. ,4,0.0492869,0.0492869,0.0759356
+mod_obs11_5,Vapor Pressure ,4,0.000199092,0.00022076,0.000427394
+mod_obs11_5,Soil Source Top Conc. ,4,8.80E-05,8.80E-05,7.06E-05
+mod_obs11_5,Soil Source Bottom Conc. ,4,0.000185935,0.000185935,0.000169392
+mod_obs11_5,Min Soil Moisture,4,-7.928,7.92823,5.36407
+mod_obs11_5,q air slab,4,-0.19194,0.19194,0.344476
+mod_obs11_5,q air vims,4,-56.3256,56.3256,1.06E+02
+mod_obs11_6,Porosity ,4,0.632112,0.632112,1.26422
+mod_obs11_6,Min. Vapor Porosity,4,0.926009,0.926009,1.85197
+mod_obs11_6,FOC,4,-0.913115,0.913115,1.82619
+mod_obs11_6,D {air},4,1.29486,1.29486,2.58233
+mod_obs11_6,Pore Size Dist. Coeff. ,4,0.000105699,0.000105699,0.000198343
+mod_obs11_6,Vapor Pressure ,4,-0.00011994,0.00011994,0.000239876
+mod_obs11_6,Soil Source Top Conc. ,4,1.42E-06,1.42E-06,2.83E-06
+mod_obs11_6,Soil Source Bottom Conc. ,4,3.28E-05,3.28E-05,6.56E-05
+mod_obs11_6,Min Soil Moisture,4,-0.13596,0.13596,0.253069
+mod_obs11_6,q air slab,4,-0.173326,0.173326,0.346612
+mod_obs11_6,q air vims,4,-0.302059,0.302059,0.602165
+mod_obs11_7,Porosity ,4,0.142443,0.142443,0.284885
+mod_obs11_7,Min. Vapor Porosity,4,0.241733,0.241733,0.483455
+mod_obs11_7,FOC,4,-0.225309,0.225309,0.45061
+mod_obs11_7,D {air},4,0.36498,0.36498,0.728357
+mod_obs11_7,Pore Size Dist. Coeff. ,4,0.000151909,0.000151909,0.000301042
+mod_obs11_7,Vapor Pressure ,4,-5.41E-05,5.41E-05,0.00010829
+mod_obs11_7,Soil Source Top Conc. ,4,3.42E-07,3.43E-07,6.85E-07
+mod_obs11_7,Soil Source Bottom Conc. ,4,7.95E-06,7.95E-06,1.59E-05
+mod_obs11_7,Min Soil Moisture,4,-0.0510608,0.0510608,0.0980665
+mod_obs11_7,q air slab,4,-0.0706211,0.0706211,0.141236
+mod_obs11_7,q air vims,4,-0.0870144,0.0870144,0.17361
+mod_obs12_1,Porosity ,4,-0.456862,1.40865,2.01617
+mod_obs12_1,Min. Vapor Porosity,4,7.49E+00,7.49E+00,1.13E+01
+mod_obs12_1,FOC,4,9.04E+00,2.92E+01,3.50E+01
+mod_obs12_1,D {air},4,66.1348,66.1348,46.3754
+mod_obs12_1,Pore Size Dist. Coeff. ,4,-0.0792822,0.147875,0.210347
+mod_obs12_1,Vapor Pressure ,4,0.00577609,0.00580053,0.00863901
+mod_obs12_1,Soil Source Top Conc. ,4,0.0873761,0.0873761,0.0568702
+mod_obs12_1,Soil Source Bottom Conc. ,4,0.0268411,0.0268411,0.0382685
+mod_obs12_1,Min Soil Moisture,4,15.8965,46.8398,76.8792
+mod_obs12_1,q air slab,4,-54.6507,54.6507,105.127
+mod_obs12_1,q air vims,4,-6040.76,6040.76,12069.9
+mod_obs12_2,Porosity ,4,16.1227,17.5924,23.8006
+mod_obs12_2,Min. Vapor Porosity,4,46.7936,46.7936,50.4616
+mod_obs12_2,FOC,4,3.82E+00,7.42E+01,1.02E+02
+mod_obs12_2,D {air},4,3.34E+02,3.34E+02,4.18E+02
+mod_obs12_2,Pore Size Dist. Coeff. ,4,0.147246,0.859192,1.11176
+mod_obs12_2,Vapor Pressure ,4,0.0513062,0.0514723,0.099656
+mod_obs12_2,Soil Source Top Conc. ,4,0.315843,0.315843,0.180517
+mod_obs12_2,Soil Source Bottom Conc. ,4,0.199871,0.199871,0.356213
+mod_obs12_2,Min Soil Moisture,4,237.936,336.622,611.375
+mod_obs12_2,q air slab,4,-184.861,184.861,365.039
+mod_obs12_2,q air vims,4,-17056.9,17056.9,34064.1
+mod_obs12_3,Porosity ,4,22.2338,25.4651,48.6467
+mod_obs12_3,Min. Vapor Porosity,4,60.2626,60.2626,116.75
+mod_obs12_3,FOC,4,-4.37E+01,5.85E+01,9.74E+01
+mod_obs12_3,D {air},4,1.31E+02,1.31E+02,1.97E+02
+mod_obs12_3,Pore Size Dist. Coeff. ,4,-1.33E-01,2.88E-01,3.43E-01
+mod_obs12_3,Vapor Pressure ,4,-0.015433,0.0188035,0.0354954
+mod_obs12_3,Soil Source Top Conc. ,4,4.14E-02,4.14E-02,2.64E-02
+mod_obs12_3,Soil Source Bottom Conc. ,4,0.0112559,0.0112559,0.0121313
+mod_obs12_3,Min Soil Moisture,4,-35.2773,35.8716,31.8884
+mod_obs12_3,q air slab,4,-63.3404,63.3404,121.988
+mod_obs12_3,q air vims,4,-4086.08,4086.08,8094.72
+mod_obs12_4,Porosity ,4,0.0362999,0.0362999,0.0725998
+mod_obs12_4,Min. Vapor Porosity,4,0.066884,0.066884,0.133761
+mod_obs12_4,FOC,4,-0.0593421,0.0593421,0.118678
+mod_obs12_4,D {air},4,0.0977927,0.0977927,0.194465
+mod_obs12_4,Pore Size Dist. Coeff. ,4,4.24E-05,4.24E-05,8.26E-05
+mod_obs12_4,Vapor Pressure ,4,-1.50E-05,1.50E-05,3.00E-05
+mod_obs12_4,Soil Source Top Conc. ,4,2.70E-08,2.73E-08,5.44E-08
+mod_obs12_4,Soil Source Bottom Conc. ,4,7.49E-07,7.49E-07,1.50E-06
+mod_obs12_4,Min Soil Moisture,4,-0.0128967,0.0128967,0.0228897
+mod_obs12_4,q air slab,4,-0.021376,0.021376,0.0427436
+mod_obs12_4,q air vims,4,-0.0223501,0.0223501,0.0443982
+mod_obs12_5,Porosity ,4,4.98553,5.17477,10.2214
+mod_obs12_5,Min. Vapor Porosity,4,2.27949,2.27949,4.25168
+mod_obs12_5,FOC,4,-5.44653,5.44653,10.2245
+mod_obs12_5,D {air},4,9.80014,9.80014,6.35797
+mod_obs12_5,Pore Size Dist. Coeff. ,4,5.09E-02,5.09E-02,7.73E-02
+mod_obs12_5,Vapor Pressure ,4,1.17E-04,1.39E-04,2.63E-04
+mod_obs12_5,Soil Source Top Conc. ,4,7.83E-05,7.83E-05,6.29E-05
+mod_obs12_5,Soil Source Bottom Conc. ,4,1.71E-04,1.71E-04,0.000157529
+mod_obs12_5,Min Soil Moisture,4,-7.78E+00,7.78E+00,5.38E+00
+mod_obs12_5,q air slab,4,-0.111249,0.111249,0.188736
+mod_obs12_5,q air vims,4,-54.0288,54.0288,101.331
+mod_obs12_6,Porosity ,4,0.636425,0.636425,1.27285
+mod_obs12_6,Min. Vapor Porosity,4,0.927878,0.927878,1.85571
+mod_obs12_6,FOC,4,-0.91295,0.91295,1.82586
+mod_obs12_6,D {air},4,1.24617,1.24617,2.48491
+mod_obs12_6,Pore Size Dist. Coeff. ,4,-4.55E-05,5.55E-05,0.000104449
+mod_obs12_6,Vapor Pressure ,4,-8.96E-05,8.96E-05,0.00017915
+mod_obs12_6,Soil Source Top Conc. ,4,1.09E-06,1.09E-06,2.17E-06
+mod_obs12_6,Soil Source Bottom Conc. ,4,2.56E-05,2.57E-05,5.13E-05
+mod_obs12_6,Min Soil Moisture,4,-0.128755,0.128755,0.238512
+mod_obs12_6,q air slab,4,-0.126563,0.126563,0.253086
+mod_obs12_6,q air vims,4,-0.290236,0.290236,0.578503
+mod_obs12_7,Porosity ,4,0.146552,0.146552,0.293104
+mod_obs12_7,Min. Vapor Porosity,4,0.243393,0.243393,0.486775
+mod_obs12_7,FOC,4,-0.225098,0.225098,0.450188
+mod_obs12_7,D {air},4,0.354215,0.354215,0.706823
+mod_obs12_7,Pore Size Dist. Coeff. ,4,0.000118298,0.000118298,0.000233796
+mod_obs12_7,Vapor Pressure ,4,-4.86E-05,4.86E-05,9.71E-05
+mod_obs12_7,Soil Source Top Conc. ,4,2.67E-07,2.68E-07,5.35E-07
+mod_obs12_7,Soil Source Bottom Conc. ,4,6.31E-06,6.31E-06,1.26E-05
+mod_obs12_7,Min Soil Moisture,4,-0.0397206,0.0397206,0.0753672
+mod_obs12_7,q air slab,4,-0.0550285,0.0550285,0.110051
+mod_obs12_7,q air vims,4,-0.0815337,0.0815337,0.162646
+mod_obs13_1,Porosity ,4,-0.52295,1.50761,2.11089
+mod_obs13_1,Min. Vapor Porosity,4,7.42295,7.42295,11.2858
+mod_obs13_1,FOC,4,8.99665,28.6746,34.3148
+mod_obs13_1,D {air},4,62.1151,62.1151,39.0506
+mod_obs13_1,Pore Size Dist. Coeff. ,4,-0.0956045,0.16217,0.214527
+mod_obs13_1,Vapor Pressure ,4,0.00549875,0.00552037,0.00796256
+mod_obs13_1,Soil Source Top Conc. ,4,0.0848833,0.0848833,0.0565396
+mod_obs13_1,Soil Source Bottom Conc. ,4,0.0245448,0.0245448,0.0337425
+mod_obs13_1,Min Soil Moisture,4,1.38E+01,4.42E+01,7.22E+01
+mod_obs13_1,q air slab,4,-4.05E+01,4.05E+01,7.68E+01
+mod_obs13_1,q air vims,4,-6036.23,6036.23,12061.4
+mod_obs13_2,Porosity ,4,15.9585,17.5481,24.005
+mod_obs13_2,Min. Vapor Porosity,4,46.7682,46.7682,50.5137
+mod_obs13_2,FOC,4,3.7851,73.6663,101.476
+mod_obs13_2,D {air},4,305.493,305.493,360.998
+mod_obs13_2,Pore Size Dist. Coeff. ,4,0.10253,0.869649,1.12044
+mod_obs13_2,Vapor Pressure ,4,0.0525063,0.0526683,0.101842
+mod_obs13_2,Soil Source Top Conc. ,4,0.307221,0.307221,0.182766
+mod_obs13_2,Soil Source Bottom Conc. ,4,0.176852,0.176852,0.310235
+mod_obs13_2,Min Soil Moisture,4,207.99,306.163,551.236
+mod_obs13_2,q air slab,4,-1.24E+02,1.24E+02,2.42E+02
+mod_obs13_2,q air vims,4,-1.71E+04,1.71E+04,3.41E+04
+mod_obs13_3,Porosity ,4,24.6201,28.0449,53.678
+mod_obs13_3,Min. Vapor Porosity,4,61.1241,61.1241,118.715
+mod_obs13_3,FOC,4,-43.6002,57.9581,97.2166
+mod_obs13_3,D {air},4,128.244,128.244,191.733
+mod_obs13_3,Pore Size Dist. Coeff. ,4,-0.147238,0.290568,0.344561
+mod_obs13_3,Vapor Pressure ,4,-0.0145647,0.0180716,0.0339597
+mod_obs13_3,Soil Source Top Conc. ,4,0.0394885,0.0394885,0.0254113
+mod_obs13_3,Soil Source Bottom Conc. ,4,0.0105345,0.0105345,0.0107932
+mod_obs13_3,Min Soil Moisture,4,-29.933,30.5532,25.044
+mod_obs13_3,q air slab,4,-5.32E+01,5.32E+01,1.02E+02
+mod_obs13_3,q air vims,4,-4.08E+03,4.08E+03,8.08E+03
+mod_obs13_4,Porosity ,4,3.70E-02,3.70E-02,7.41E-02
+mod_obs13_4,Min. Vapor Porosity,4,0.0671924,0.0671924,0.134378
+mod_obs13_4,FOC,4,-5.93E-02,5.93E-02,1.19E-01
+mod_obs13_4,D {air},4,0.095155,0.095155,0.18918
+mod_obs13_4,Pore Size Dist. Coeff. ,4,3.38E-05,3.38E-05,6.56E-05
+mod_obs13_4,Vapor Pressure ,4,-1.36E-05,1.36E-05,2.72E-05
+mod_obs13_4,Soil Source Top Conc. ,4,2.16E-08,2.18E-08,4.35E-08
+mod_obs13_4,Soil Source Bottom Conc. ,4,6.11E-07,6.11E-07,1.22E-06
+mod_obs13_4,Min Soil Moisture,4,-0.00996557,0.00996557,0.0170047
+mod_obs13_4,q air slab,4,-0.016885,0.016885,0.0337617
+mod_obs13_4,q air vims,4,-0.0210648,0.0210648,0.0418243
+mod_obs13_5,Porosity ,4,5.00E+00,5.16E+00,1.02E+01
+mod_obs13_5,Min. Vapor Porosity,4,2.30107,2.30107,4.23913
+mod_obs13_5,FOC,4,-5.46528,5.46528,10.2441
+mod_obs13_5,D {air},4,9.63883,9.63883,6.00707
+mod_obs13_5,Pore Size Dist. Coeff. ,4,0.0523741,0.0523741,0.0781761
+mod_obs13_5,Vapor Pressure ,4,-2.95E-06,1.88E-05,2.79E-05
+mod_obs13_5,Soil Source Top Conc. ,4,7.03E-05,7.03E-05,5.64E-05
+mod_obs13_5,Soil Source Bottom Conc. ,4,1.59E-04,1.59E-04,1.47E-04
+mod_obs13_5,Min Soil Moisture,4,-7.65809,7.65809,5.43852
+mod_obs13_5,q air slab,4,-0.0662263,0.0662263,0.103174
+mod_obs13_5,q air vims,4,-51.8566,51.8566,97.0488
+mod_obs13_6,Porosity ,4,6.39E-01,6.39E-01,1.28E+00
+mod_obs13_6,Min. Vapor Porosity,4,9.29E-01,9.29E-01,1.86E+00
+mod_obs13_6,FOC,4,-9.13E-01,9.13E-01,1.83E+00
+mod_obs13_6,D {air},4,1.20062,1.20062,2.39378
+mod_obs13_6,Pore Size Dist. Coeff. ,4,-1.84E-04,1.95E-04,3.82E-04
+mod_obs13_6,Vapor Pressure ,4,-5.94E-05,5.94E-05,0.000118888
+mod_obs13_6,Soil Source Top Conc. ,4,8.50E-07,8.52E-07,1.70E-06
+mod_obs13_6,Soil Source Bottom Conc. ,4,2.05E-05,2.05E-05,4.11E-05
+mod_obs13_6,Min Soil Moisture,4,-0.129144,0.129144,0.239138
+mod_obs13_6,q air slab,4,-0.0927363,0.0927363,0.185433
+mod_obs13_6,q air vims,4,-0.281685,0.281685,0.561385
+mod_obs13_7,Porosity ,4,0.148926,0.148926,0.297851
+mod_obs13_7,Min. Vapor Porosity,4,0.244382,0.244382,0.488754
+mod_obs13_7,FOC,4,-0.224991,0.224991,4.50E-01
+mod_obs13_7,D {air},4,0.343841,0.343841,0.686067
+mod_obs13_7,Pore Size Dist. Coeff. ,4,8.51E-05,8.51E-05,0.000167446
+mod_obs13_7,Vapor Pressure ,4,-4.29E-05,4.29E-05,8.58E-05
+mod_obs13_7,Soil Source Top Conc. ,4,2.13E-07,2.14E-07,4.27E-07
+mod_obs13_7,Soil Source Bottom Conc. ,4,5.11E-06,5.11E-06,1.02E-05
+mod_obs13_7,Min Soil Moisture,4,-0.032022,0.032022,0.0599517
+mod_obs13_7,q air slab,4,-0.0430034,0.0430034,0.0860008
+mod_obs13_7,q air vims,4,-0.0773034,0.0773034,0.154183
+mod_obs14_1,Porosity ,4,-0.592002,1.59579,2.20571
+mod_obs14_1,Min. Vapor Porosity,4,7.35603,7.35603,11.2721
+mod_obs14_1,FOC,4,8.95221,28.1718,33.6499
+mod_obs14_1,D {air},4,58.8229,58.8229,33.2049
+mod_obs14_1,Pore Size Dist. Coeff. ,4,-0.111165,0.175801,0.220127
+mod_obs14_1,Vapor Pressure ,4,0.00530107,0.00532008,0.00745816
+mod_obs14_1,Soil Source Top Conc. ,4,0.0826786,0.0826786,0.056093
+mod_obs14_1,Soil Source Bottom Conc. ,4,0.0226933,0.0226933,0.0301073
+mod_obs14_1,Min Soil Moisture,4,11.9212,41.8852,68.0447
+mod_obs14_1,q air slab,4,-30.289,30.289,56.6042
+mod_obs14_1,q air vims,4,-6031.87,6031.87,12053.2
+mod_obs14_2,Porosity ,4,15.8585,17.5637,24.141
+mod_obs14_2,Min. Vapor Porosity,4,46.729,46.729,50.5639
+mod_obs14_2,FOC,4,3.75127,73.1213,100.76
+mod_obs14_2,D {air},4,282.001,282.001,314.617
+mod_obs14_2,Pore Size Dist. Coeff. ,4,5.53E-02,8.84E-01,1.14E+00
+mod_obs14_2,Vapor Pressure ,4,5.51E-02,5.53E-02,1.07E-01
+mod_obs14_2,Soil Source Top Conc. ,4,0.300119,0.300119,0.184905
+mod_obs14_2,Soil Source Bottom Conc. ,4,0.158912,0.158912,0.274415
+mod_obs14_2,Min Soil Moisture,4,183.401,281.078,501.835
+mod_obs14_2,q air slab,4,-83.6187,83.6187,162.633
+mod_obs14_2,q air vims,4,-17047.6,17047.6,34049.8
+mod_obs14_3,Porosity ,4,26.1281,29.7312,56.9328
+mod_obs14_3,Min. Vapor Porosity,4,61.6697,61.6697,120.037
+mod_obs14_3,FOC,4,-43.6139,57.5287,97.1785
+mod_obs14_3,D {air},4,125.412,125.412,186.49
+mod_obs14_3,Pore Size Dist. Coeff. ,4,-0.159385,0.291569,0.344504
+mod_obs14_3,Vapor Pressure ,4,-1.37E-02,1.74E-02,3.25E-02
+mod_obs14_3,Soil Source Top Conc. ,4,3.78E-02,3.78E-02,2.45E-02
+mod_obs14_3,Soil Source Bottom Conc. ,4,0.009939,0.009939,0.00970889
+mod_obs14_3,Min Soil Moisture,4,-25.7653,26.4092,21.8452
+mod_obs14_3,q air slab,4,-44.8957,44.8957,85.5804
+mod_obs14_3,q air vims,4,-4068.25,4068.25,8069.02
+mod_obs14_4,Porosity ,4,0.0374623,0.0374623,0.0749246
+mod_obs14_4,Min. Vapor Porosity,4,0.0673747,0.0673747,0.134742
+mod_obs14_4,FOC,4,-0.0592915,0.0592915,0.118577
+mod_obs14_4,D {air},4,0.092643,0.092643,0.184148
+mod_obs14_4,Pore Size Dist. Coeff. ,4,2.56E-05,2.56E-05,4.90E-05
+mod_obs14_4,Vapor Pressure ,4,-1.22E-05,1.22E-05,2.44E-05
+mod_obs14_4,Soil Source Top Conc. ,4,1.76E-08,1.78E-08,3.55E-08
+mod_obs14_4,Soil Source Bottom Conc. ,4,5.08E-07,5.08E-07,1.02E-06
+mod_obs14_4,Min Soil Moisture,4,-0.00796704,0.00796704,0.0129882
+mod_obs14_4,q air slab,4,-1.34E-02,1.34E-02,2.68E-02
+mod_obs14_4,q air vims,4,-0.0200747,0.0200747,0.0398406
+mod_obs14_5,Porosity ,4,5.01078,5.15009,10.204
+mod_obs14_5,Min. Vapor Porosity,4,2.32002,2.32002,4.22842
+mod_obs14_5,FOC,4,-5.48178,5.48178,10.263
+mod_obs14_5,D {air},4,9.49649,9.49649,5.71718
+mod_obs14_5,Pore Size Dist. Coeff. ,4,0.0535901,0.0535901,0.0786042
+mod_obs14_5,Vapor Pressure ,4,-0.000150647,0.000150647,0.000273107
+mod_obs14_5,Soil Source Top Conc. ,4,6.36E-05,6.36E-05,5.11E-05
+mod_obs14_5,Soil Source Bottom Conc. ,4,1.48E-04,1.48E-04,1.37E-04
+mod_obs14_5,Min Soil Moisture,4,-7.54768,7.54768,5.52951
+mod_obs14_5,q air slab,4,-0.041157,0.041157,0.0567195
+mod_obs14_5,q air vims,4,-49.8347,49.8347,93.0603
+mod_obs14_6,Porosity ,4,0.639756,0.639756,1.27951
+mod_obs14_6,Min. Vapor Porosity,4,0.929375,0.929375,1.8587
+mod_obs14_6,FOC,4,-0.912844,0.912844,1.82565
+mod_obs14_6,D {air},4,1.15878,1.15878,2.31005
+mod_obs14_6,Pore Size Dist. Coeff. ,4,-0.000307846,0.000318022,0.000629278
+mod_obs14_6,Vapor Pressure ,4,-3.04E-05,3.04E-05,6.08E-05
+mod_obs14_6,Soil Source Top Conc. ,4,6.80E-07,6.81E-07,1.36E-06
+mod_obs14_6,Soil Source Bottom Conc. ,4,1.68E-05,1.68E-05,3.37E-05
+mod_obs14_6,Min Soil Moisture,4,-1.35E-01,1.35E-01,2.50E-01
+mod_obs14_6,q air slab,4,-6.85E-02,6.85E-02,1.37E-01
+mod_obs14_6,q air vims,4,-0.275568,0.275568,0.549134
+mod_obs14_7,Porosity ,4,1.50E-01,1.50E-01,3.01E-01
+mod_obs14_7,Min. Vapor Porosity,4,0.244963,0.244963,0.489916
+mod_obs14_7,FOC,4,-0.224937,0.224937,0.449867
+mod_obs14_7,D {air},4,0.33406,0.33406,0.666499
+mod_obs14_7,Pore Size Dist. Coeff. ,4,5.33E-05,5.33E-05,0.000103857
+mod_obs14_7,Vapor Pressure ,4,-3.73E-05,3.73E-05,7.46E-05
+mod_obs14_7,Soil Source Top Conc. ,4,1.74E-07,1.74E-07,3.48E-07
+mod_obs14_7,Soil Source Bottom Conc. ,4,4.22E-06,4.22E-06,8.45E-06
+mod_obs14_7,Min Soil Moisture,4,-0.0271363,0.0271363,0.0501625
+mod_obs14_7,q air slab,4,-0.033838,0.033838,6.77E-02
+mod_obs14_7,q air vims,4,-0.0740779,0.0740779,0.14773
+mod_obs15_1,Porosity ,4,-0.666858,1.68543,2.30757
+mod_obs15_1,Min. Vapor Porosity,4,7.28247,7.28247,11.261
+mod_obs15_1,FOC,4,8.90353,27.6438,32.9526
+mod_obs15_1,D {air},4,55.8275,55.8275,28.0621
+mod_obs15_1,Pore Size Dist. Coeff. ,4,-0.127435,0.190056,0.227266
+mod_obs15_1,Vapor Pressure ,4,0.00515969,0.00517606,0.00706626
+mod_obs15_1,Soil Source Top Conc. ,4,0.0805141,0.0805141,0.0555084
+mod_obs15_1,Soil Source Bottom Conc. ,4,0.0210371,0.0210371,0.0268702
+mod_obs15_1,Min Soil Moisture,4,10.1793,39.6397,64.1106
+mod_obs15_1,q air slab,4,-22.3221,22.3221,40.773
+mod_obs15_1,q air vims,4,-6027.26,6027.26,12044.4
+mod_obs15_2,Porosity ,4,15.8005,17.6282,24.2544
+mod_obs15_2,Min. Vapor Porosity,4,46.6799,46.6799,50.6173
+mod_obs15_2,FOC,4,3.71429,72.542,99.9995
+mod_obs15_2,D {air},4,260.541,260.541,272.37
+mod_obs15_2,Pore Size Dist. Coeff. ,4,0.00285362,0.90186,1.15892
+mod_obs15_2,Vapor Pressure ,4,0.0593245,0.0594784,0.11505
+mod_obs15_2,Soil Source Top Conc. ,4,0.293593,0.293593,0.186944
+mod_obs15_2,Soil Source Bottom Conc. ,4,0.143327,0.143327,0.243311
+mod_obs15_2,Min Soil Moisture,4,161.044,258.194,456.897
+mod_obs15_2,q air slab,4,-55.317,55.317,106.071
+mod_obs15_2,q air vims,4,-17043,17043,34042.1
+mod_obs15_3,Porosity ,4,2.72E+01,3.09E+01,5.92E+01
+mod_obs15_3,Min. Vapor Porosity,4,6.20E+01,6.22E+01,1.21E+02
+mod_obs15_3,FOC,4,-43.6691,57.1248,97.2121
+mod_obs15_3,D {air},4,122.528,122.528,181.162
+mod_obs15_3,Pore Size Dist. Coeff. ,4,-0.171096,0.291173,0.342958
+mod_obs15_3,Vapor Pressure ,4,-0.0128635,0.0166141,0.030924
+mod_obs15_3,Soil Source Top Conc. ,4,0.0361351,0.0361351,0.0235392
+mod_obs15_3,Soil Source Bottom Conc. ,4,0.00939504,0.00939504,0.0087402
+mod_obs15_3,Min Soil Moisture,4,-22.2409,22.9084,21.3276
+mod_obs15_3,q air slab,4,-37.505,37.505,71.0283
+mod_obs15_3,q air vims,4,-4059.35,4059.35,8055.23
+mod_obs15_4,Porosity ,4,0.0377277,0.0377277,0.0754554
+mod_obs15_4,Min. Vapor Porosity,4,6.75E-02,6.75E-02,1.35E-01
+mod_obs15_4,FOC,4,-5.93E-02,5.93E-02,1.19E-01
+mod_obs15_4,D {air},4,0.0900312,0.0900312,0.178915
+mod_obs15_4,Pore Size Dist. Coeff. ,4,1.68E-05,1.68E-05,3.15E-05
+mod_obs15_4,Vapor Pressure ,4,-1.07E-05,1.07E-05,2.14E-05
+mod_obs15_4,Soil Source Top Conc. ,4,1.43E-08,1.46E-08,2.90E-08
+mod_obs15_4,Soil Source Bottom Conc. ,4,4.23E-07,4.23E-07,8.46E-07
+mod_obs15_4,Min Soil Moisture,4,-0.00655106,0.00655106,0.0101377
+mod_obs15_4,q air slab,4,-0.0105101,0.0105101,0.021012
+mod_obs15_4,q air vims,4,-0.0192402,0.0192402,0.0381682
+mod_obs15_5,Porosity ,4,5.02199,5.139,10.1963
+mod_obs15_5,Min. Vapor Porosity,4,2.34E+00,2.34E+00,4.22E+00
+mod_obs15_5,FOC,4,-5.50E+00,5.50E+00,1.03E+01
+mod_obs15_5,D {air},4,9.36E+00,9.36E+00,5.46E+00
+mod_obs15_5,Pore Size Dist. Coeff. ,4,0.0547073,0.0547073,0.0787086
+mod_obs15_5,Vapor Pressure ,4,-3.37E-04,3.37E-04,6.45E-04
+mod_obs15_5,Soil Source Top Conc. ,4,5.76E-05,5.76E-05,4.62E-05
+mod_obs15_5,Soil Source Bottom Conc. ,4,1.37E-04,1.37E-04,1.28E-04
+mod_obs15_5,Min Soil Moisture,4,-7.44096,7.44096,5.65062
+mod_obs15_5,q air slab,4,-0.0258449,0.0258449,0.0296321
+mod_obs15_5,q air vims,4,-47.7689,47.7689,88.9829
+mod_obs15_6,Porosity ,4,0.640375,0.640375,1.28075
+mod_obs15_6,Min. Vapor Porosity,4,0.929663,0.929663,1.85928
+mod_obs15_6,FOC,4,-0.912826,0.912826,1.82561
+mod_obs15_6,D {air},4,1.12E+00,1.12E+00,2.23E+00
+mod_obs15_6,Pore Size Dist. Coeff. ,4,-0.000425602,0.000435898,0.000864946
+mod_obs15_6,Vapor Pressure ,4,4.18E-08,4.51E-08,8.80E-08
+mod_obs15_6,Soil Source Top Conc. ,4,5.42E-07,5.44E-07,1.09E-06
+mod_obs15_6,Soil Source Bottom Conc. ,4,1.38E-05,1.38E-05,2.76E-05
+mod_obs15_6,Min Soil Moisture,4,-0.14425,0.14425,0.269032
+mod_obs15_6,q air slab,4,-0.0496178,0.0496178,0.0991966
+mod_obs15_6,q air vims,4,-0.270786,0.270786,0.539555
+mod_obs15_7,Porosity ,4,0.151126,0.151126,0.302252
+mod_obs15_7,Min. Vapor Porosity,4,0.245333,0.245333,0.490656
+mod_obs15_7,FOC,4,-0.224908,0.224908,0.449807
+mod_obs15_7,D {air},4,3.24E-01,3.24E-01,6.46E-01
+mod_obs15_7,Pore Size Dist. Coeff. ,4,2.03E-05,2.03E-05,3.77E-05
+mod_obs15_7,Vapor Pressure ,4,-3.12E-05,3.12E-05,6.24E-05
+mod_obs15_7,Soil Source Top Conc. ,4,1.42E-07,1.42E-07,2.84E-07
+mod_obs15_7,Soil Source Bottom Conc. ,4,3.50E-06,3.50E-06,6.99E-06
+mod_obs15_7,Min Soil Moisture,4,-0.0240938,0.0240938,0.0440579
+mod_obs15_7,q air slab,4,-0.026195,0.026195,0.0523839
+mod_obs15_7,q air vims,4,-0.0713879,0.0713879,0.142347
+mod_obs16_1,Porosity ,4,-0.741402,1.76678,2.40178
+mod_obs16_1,Min. Vapor Porosity,4,7.21048,7.21048,11.2526
+mod_obs16_1,FOC,4,8.85543,27.1414,32.2903
+mod_obs16_1,D {air},4,53.3319,53.3319,23.9649
+mod_obs16_1,Pore Size Dist. Coeff. ,4,-0.142828,0.203542,0.234904
+mod_obs16_1,Vapor Pressure ,4,0.00508614,0.00510009,6.82E-03
+mod_obs16_1,Soil Source Top Conc. ,4,0.0785717,0.0785717,0.0548603
+mod_obs16_1,Soil Source Bottom Conc. ,4,0.0196826,0.0196826,0.0242374
+mod_obs16_1,Min Soil Moisture,4,8.68367,37.6643,60.6925
+mod_obs16_1,q air slab,4,-16.6976,16.6976,29.6215
+mod_obs16_1,q air vims,4,-6022.83,6022.83,12035.8
+mod_obs16_2,Porosity ,4,15.7281,17.6733,24.3503
+mod_obs16_2,Min. Vapor Porosity,4,46.6292,46.6292,50.6692
+mod_obs16_2,FOC,4,3.67794,71.9843,99.2684
+mod_obs16_2,D {air},4,242.591,242.591,237.152
+mod_obs16_2,Pore Size Dist. Coeff. ,4,-0.0481139,0.919805,1.18335
+mod_obs16_2,Vapor Pressure ,4,0.0644728,0.0646227,0.125133
+mod_obs16_2,Soil Source Top Conc. ,4,0.288084,0.288084,0.188612
+mod_obs16_2,Soil Source Bottom Conc. ,4,0.130901,0.130901,0.218524
+mod_obs16_2,Min Soil Moisture,4,142.505,239.147,419.617
+mod_obs16_2,q air slab,4,-37.2653,37.2653,70.0084
+mod_obs16_2,q air vims,4,-17038.8,17038.8,34034.4
+mod_obs16_3,Porosity ,4,27.7722,31.7203,60.684
+mod_obs16_3,Min. Vapor Porosity,4,62.2424,62.577,121.651
+mod_obs16_3,FOC,4,-43.7461,56.7708,97.2853
+mod_obs16_3,D {air},4,119.862,119.862,176.247
+mod_obs16_3,Pore Size Dist. Coeff. ,4,-0.181299,0.289476,0.340148
+mod_obs16_3,Vapor Pressure ,4,-0.0120148,0.0158729,0.0293932
+mod_obs16_3,Soil Source Top Conc. ,4,0.034623,0.034623,0.0226511
+mod_obs16_3,Soil Source Bottom Conc. ,4,8.94E-03,8.94E-03,7.95E-03
+mod_obs16_3,Min Soil Moisture,4,-1.96E+01,2.03E+01,2.24E+01
+mod_obs16_3,q air slab,4,-31.5364,31.5364,59.2985
+mod_obs16_3,q air vims,4,-4050.98,4050.98,8041.74
+mod_obs16_4,Porosity ,4,0.0378762,0.0378762,0.0757524
+mod_obs16_4,Min. Vapor Porosity,4,0.0675584,0.0675584,0.13511
+mod_obs16_4,FOC,4,-0.0592769,0.0592769,0.118547
+mod_obs16_4,D {air},4,0.0875812,0.0875812,0.174006
+mod_obs16_4,Pore Size Dist. Coeff. ,4,8.52E-06,8.52E-06,1.48E-05
+mod_obs16_4,Vapor Pressure ,4,-9.22E-06,9.22E-06,1.84E-05
+mod_obs16_4,Soil Source Top Conc. ,4,1.19E-08,1.22E-08,2.42E-08
+mod_obs16_4,Soil Source Bottom Conc. ,4,3.58E-07,3.58E-07,7.17E-07
+mod_obs16_4,Min Soil Moisture,4,-5.73E-03,5.73E-03,8.47E-03
+mod_obs16_4,q air slab,4,-8.29E-03,8.29E-03,1.66E-02
+mod_obs16_4,q air vims,4,-0.0186058,0.0186058,0.0368959
+mod_obs16_5,Porosity ,4,5.0316,5.12945,10.1897
+mod_obs16_5,Min. Vapor Porosity,4,2.35429,2.35429,4.20986
+mod_obs16_5,FOC,4,-5.51157,5.51157,10.3021
+mod_obs16_5,D {air},4,9.23534,9.23534,5.24442
+mod_obs16_5,Pore Size Dist. Coeff. ,4,0.0556233,0.0556233,0.078534
+mod_obs16_5,Vapor Pressure ,4,-0.000538508,0.000538508,0.00104972
+mod_obs16_5,Soil Source Top Conc. ,4,5.25E-05,5.25E-05,4.22E-05
+mod_obs16_5,Soil Source Bottom Conc. ,4,1.28E-04,1.28E-04,1.20E-04
+mod_obs16_5,Min Soil Moisture,4,-7.35E+00,7.35E+00,5.78E+00
+mod_obs16_5,q air slab,4,-1.74E-02,1.74E-02,1.61E-02
+mod_obs16_5,q air vims,4,-4.59E+01,4.59E+01,8.52E+01
+mod_obs16_6,Porosity ,4,0.640682,0.640682,1.28136
+mod_obs16_6,Min. Vapor Porosity,4,9.30E-01,9.30E-01,1.86E+00
+mod_obs16_6,FOC,4,-0.912818,0.912818,1.8256
+mod_obs16_6,D {air},4,1.07834,1.07834,2.1491
+mod_obs16_6,Pore Size Dist. Coeff. ,4,-0.000525177,0.00053559,0.00106425
+mod_obs16_6,Vapor Pressure ,4,2.86E-05,2.86E-05,5.71E-05
+mod_obs16_6,Soil Source Top Conc. ,4,4.40E-07,4.42E-07,8.83E-07
+mod_obs16_6,Soil Source Bottom Conc. ,4,1.16E-05,1.16E-05,2.31E-05
+mod_obs16_6,Min Soil Moisture,4,-0.156089,0.156089,0.292552
+mod_obs16_6,q air slab,4,-0.0362941,0.0362941,0.0725495
+mod_obs16_6,q air vims,4,-2.67E-01,2.67E-01,5.33E-01
+mod_obs16_7,Porosity ,4,0.151595,0.151595,0.30319
+mod_obs16_7,Min. Vapor Porosity,4,0.245544,0.245544,0.491078
+mod_obs16_7,FOC,4,-0.224893,0.224893,0.449779
+mod_obs16_7,D {air},4,0.314592,0.314592,0.627551
+mod_obs16_7,Pore Size Dist. Coeff. ,4,-1.05E-05,1.26E-05,2.38E-05
+mod_obs16_7,Vapor Pressure ,4,-2.52E-05,2.52E-05,5.04E-05
+mod_obs16_7,Soil Source Top Conc. ,4,1.18E-07,1.18E-07,2.36E-07
+mod_obs16_7,Soil Source Bottom Conc. ,4,2.95E-06,2.95E-06,5.90E-06
+mod_obs16_7,Min Soil Moisture,4,-0.0227826,0.0227826,0.0414147
+mod_obs16_7,q air slab,4,-0.020445,0.020445,0.0408841
+mod_obs16_7,q air vims,4,-6.94E-02,6.94E-02,1.38E-01
+mod_obs17_1,Porosity ,4,-8.16E-01,1.84E+00,2.49E+00
+mod_obs17_1,Min. Vapor Porosity,4,7.14E+00,7.14E+00,1.12E+01
+mod_obs17_1,FOC,4,8.80642,26.6476,31.6402
+mod_obs17_1,D {air},4,5.12E+01,5.12E+01,2.06E+01
+mod_obs17_1,Pore Size Dist. Coeff. ,4,-0.157854,0.216704,0.242935
+mod_obs17_1,Vapor Pressure ,4,0.00507137,0.00508302,0.00668473
+mod_obs17_1,Soil Source Top Conc. ,4,0.0767537,0.0767537,0.0541506
+mod_obs17_1,Soil Source Bottom Conc. ,4,0.0185234,0.0185234,0.0219978
+mod_obs17_1,Min Soil Moisture,4,7.35374,35.8621,57.6133
+mod_obs17_1,q air slab,4,-12.5714,12.5714,21.4653
+mod_obs17_1,q air vims,4,-6018.43,6018.43,12027.3
+mod_obs17_2,Porosity ,4,15.6498,17.7116,24.4398
+mod_obs17_2,Min. Vapor Porosity,4,46.5772,46.5772,5.07E+01
+mod_obs17_2,FOC,4,3.64115,71.4295,98.5416
+mod_obs17_2,D {air},4,226.876,226.876,206.446
+mod_obs17_2,Pore Size Dist. Coeff. ,4,-0.097795,0.936927,1.20789
+mod_obs17_2,Vapor Pressure ,4,0.0704455,0.0705915,0.136867
+mod_obs17_2,Soil Source Top Conc. ,4,0.283195,0.283195,0.189972
+mod_obs17_2,Soil Source Bottom Conc. ,4,0.120483,0.120483,0.197755
+mod_obs17_2,Min Soil Moisture,4,126.456,222.593,387.331
+mod_obs17_2,q air slab,4,-25.2831,25.2831,46.0864
+mod_obs17_2,q air vims,4,-17034.6,17034.6,34026.7
+mod_obs17_3,Porosity ,4,28.1495,32.2535,61.6483
+mod_obs17_3,Min. Vapor Porosity,4,62.3545,62.85,122.098
+mod_obs17_3,FOC,4,-43.8363,56.4429,97.3794
+mod_obs17_3,D {air},4,117.311,117.311,171.551
+mod_obs17_3,Pore Size Dist. Coeff. ,4,-0.190477,0.286613,0.336206
+mod_obs17_3,Vapor Pressure ,4,-0.0111579,0.0151144,0.0278358
+mod_obs17_3,Soil Source Top Conc. ,4,0.0332043,0.0332043,0.0217999
+mod_obs17_3,Soil Source Bottom Conc. ,4,0.00854712,0.00854712,0.0072897
+mod_obs17_3,Min Soil Moisture,4,-17.5406,18.2494,23.911
+mod_obs17_3,q air slab,4,-26.5384,26.5384,49.497
+mod_obs17_3,q air vims,4,-4042.82,4042.82,8028.15
+mod_obs17_4,Porosity ,4,0.0379627,0.0379627,0.0759254
+mod_obs17_4,Min. Vapor Porosity,4,0.0675981,0.0675981,0.135189
+mod_obs17_4,FOC,4,-0.0592741,0.0592741,0.118542
+mod_obs17_4,D {air},4,8.52E-02,8.52E-02,1.69E-01
+mod_obs17_4,Pore Size Dist. Coeff. ,4,4.69E-07,1.22E-06,1.53E-06
+mod_obs17_4,Vapor Pressure ,4,-7.71E-06,7.71E-06,1.54E-05
+mod_obs17_4,Soil Source Top Conc. ,4,1.00E-08,1.03E-08,2.04E-08
+mod_obs17_4,Soil Source Bottom Conc. ,4,3.06E-07,3.07E-07,6.13E-07
+mod_obs17_4,Min Soil Moisture,4,-0.00531376,0.00531376,0.00762244
+mod_obs17_4,q air slab,4,-0.00654271,0.00654271,0.0130775
+mod_obs17_4,q air vims,4,-0.0181054,0.0181054,0.0358919
+mod_obs17_5,Porosity ,4,5.04008,5.12098,10.1839
+mod_obs17_5,Min. Vapor Porosity,4,2.36879,2.36879,4.20232
+mod_obs17_5,FOC,4,-5.52405,5.52405,10.3207
+mod_obs17_5,D {air},4,9.12237,9.12237,5.06788
+mod_obs17_5,Pore Size Dist. Coeff. ,4,5.64E-02,5.64E-02,7.81E-02
+mod_obs17_5,Vapor Pressure ,4,-7.57E-04,7.57E-04,1.49E-03
+mod_obs17_5,Soil Source Top Conc. ,4,4.81E-05,4.81E-05,3.86E-05
+mod_obs17_5,Soil Source Bottom Conc. ,4,1.19E-04,1.19E-04,1.13E-04
+mod_obs17_5,Min Soil Moisture,4,-7.26155,7.26155,5.92265
+mod_obs17_5,q air slab,4,-0.0124111,0.0124111,0.00976658
+mod_obs17_5,q air vims,4,-44.0282,44.0282,81.5962
+mod_obs17_6,Porosity ,4,0.640839,0.640839,1.28168
+mod_obs17_6,Min. Vapor Porosity,4,0.929885,0.929885,1.85972
+mod_obs17_6,FOC,4,-0.912813,0.912813,1.82558
+mod_obs17_6,D {air},4,1.04232,1.04232,2.07701
+mod_obs17_6,Pore Size Dist. Coeff. ,4,-6.10E-04,6.21E-04,1.23E-03
+mod_obs17_6,Vapor Pressure ,4,5.59E-05,5.59E-05,1.12E-04
+mod_obs17_6,Soil Source Top Conc. ,4,3.60E-07,3.62E-07,7.23E-07
+mod_obs17_6,Soil Source Bottom Conc. ,4,9.79E-06,9.79E-06,1.96E-05
+mod_obs17_6,Min Soil Moisture,4,-1.69E-01,1.69E-01,3.19E-01
+mod_obs17_6,q air slab,4,-0.0265483,0.0265483,0.0530583
+mod_obs17_6,q air vims,4,-0.264959,0.264959,0.52787
+mod_obs17_7,Porosity ,4,0.151866,0.151866,0.303733
+mod_obs17_7,Min. Vapor Porosity,4,0.245668,0.245668,0.491326
+mod_obs17_7,FOC,4,-0.224886,0.224886,0.449763
+mod_obs17_7,D {air},4,0.30558,0.30558,0.609521
+mod_obs17_7,Pore Size Dist. Coeff. ,4,-3.97E-05,4.19E-05,8.24E-05
+mod_obs17_7,Vapor Pressure ,4,-1.92E-05,1.92E-05,3.84E-05
+mod_obs17_7,Soil Source Top Conc. ,4,9.88E-08,9.91E-08,1.98E-07
+mod_obs17_7,Soil Source Bottom Conc. ,4,2.51E-06,2.51E-06,5.03E-06
+mod_obs17_7,Min Soil Moisture,4,-0.0226835,0.0226835,0.0411942
+mod_obs17_7,q air slab,4,-0.0159572,0.0159572,0.0319085
+mod_obs17_7,q air vims,4,-0.0677848,0.0677848,0.135136

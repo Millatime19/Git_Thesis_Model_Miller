@@ -1,0 +1,15 @@
+Parameter,Value,Description
+x1,1.00000,Plotting parameter for soil contamination start
+x2,1.00000,Plotting parameter for VIMS on
+x3,1.00000,Plotting parameter for VIMS off
+x_tce_vapor,0.00000,Screening level for vapor concentration (µg/L)
+x_pce_vapor,0.01000,Screening level for vapor concentration (µg/L)
+x_vc_vapor,0.00000,Screening level for vapor concentration (µg/L)
+x_tce_diss,0.00000,Screening level for dissolved concentration (µg/L)
+x_pce_diss,0.00000,Screening level for dissolved concentration (µg/L)
+x_cis_diss,0.07000,Screening level for dissolved concentration (µg/L)
+x_vc_diss,0.00000,Screening level for dissolved concentration (µg/L)
+x_tce_soil,0.00000,Screening level for soil concentration (mg/kg)
+x_pce_soil,0.01000,Screening level for soil concentration (mg/kg)
+x_vc_soil,0.02000,Screening level for soil concentration (mg/kg)
+x_toluene_soil,0.00000,Screening level for soil concentration (mg/kg)

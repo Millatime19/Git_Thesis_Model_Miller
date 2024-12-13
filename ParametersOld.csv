@@ -1,0 +1,51 @@
+Parameter,Value,Description
+DENSLIQ,8.00E-01,Density of NAPL in grams/cc
+SDENS,1.50E+00,Density of dry soil in grams/cc
+TEMP,1.60E+01,Temperature of soil (°C)
+FOC,1.00E-01,Fraction organic carbon (M/M)
+P_air,1.20E+01,Air entry pressure (cm of water)
+airdiff,1.00E-01,Free-air diffusion coefficient (cm²/s) Average = 8e-2
+por,3.78E-01,Total porosity at all nodes
+por_v_min,1.46E-01,Minimum vapor porosity
+theta_initial,1.20E-01,Initial soil moisture content (M/M)
+theta_min,1.00E-01, Min theta 
+K_sat,1.40E-04,Saturated hydraulic conductivity (cm/s)
+BC_lambda,0.41,Brooks Corey soil parameter (unitless)
+q_air_Slab,0.00E+00,Vapor discharge - Slab condition 
+q_air_VIMS,1.00E-02,Vapor discharge - VIMS condition
+q_air_Open,1.00E+00,Vapor discharge - Open air condition 
+q_var,0,Variability for q
+q_air_JE,2.78E-04,Vapor Discharge - JE Default
+q_air_VIMS_Site,2.26E-01,Vapor discharge observed - VIMS condition
+ctot_1,4.96E+00,Total Mass Concentration at steady state (mg/kg)
+ctot_2,5.14E+00,Total Mass Concentration at steady state (mg/kg)
+ctot_3,5.32E+00,Total Mass Concentration at steady state (mg/kg)
+ctot_4,5.50E+00,Total Mass Concentration at steady state (mg/kg)
+ctot_5,5.68E+00,Total Mass Concentration at steady state (mg/kg)
+ctot_6,5.87E+00,Total Mass Concentration at steady state (mg/kg)
+ctot_7,6.05E+00,Total Mass Concentration at steady state (mg/kg)
+ctot_8,6.24E+00,Total Mass Concentration at steady state (mg/kg)
+ctot_9,6.43E+00,Total Mass Concentration at steady state (mg/kg)
+ctot_10,6.64E+00,Total Mass Concentration at steady state (mg/kg)
+ctot_11,6.84E+00,Total Mass Concentration at steady state (mg/kg)
+ctot_12,7.05E+00,Total Mass Concentration at steady state (mg/kg)
+ctot_13,7.28E+00,Total Mass Concentration at steady state (mg/kg)
+ctot_14,7.53E+00,Total Mass Concentration at steady state (mg/kg)
+ctot_15,7.88E+00,Total Mass Concentration at steady state (mg/kg)
+ctot_16,8.10E+00,Total Mass Concentration at steady state (mg/kg)
+Conc_Soil_1,0.00E+00,Soil Concentration (mg/kg)
+Conc_Soil_2,0.00E+00,Soil Concentration (mg/kg)
+Soil_Frac_1,7.28E+00,Soil Source Molar fraction of compound TCE
+Soil_Frac_2,7.53E+00,Soil Source Molar fraction of compound PCE
+Soil_Frac_3,7.88E+00,Soil Source Molar fraction of compound CIS
+Soil_Frac_4,8.10E+00,Soil Source Molar fraction of compound Vinyl Chloride
+Soil_Frac_5,7.80E-05,Soil Source Molar fraction of compound Toluene
+Soil_Frac_6,0.00E+00,Soil Source Molar fraction of compound Total Xylenes
+Soil_Frac_7,0.00E+00,Soil Source Molar fraction of compound Ethylbenzene
+GW_Frac_1,0.0007,GW Source Molar fraction of compound TCE
+GW_Frac_2,0.065,GW Source Molar fraction of compound PCE
+GW_Frac_3,0.72,GW Source Molar fraction of compound CIS
+GW_Frac_4,0.00058,GW Source Molar fraction of compound Toluene
+GW_Frac_5,0.014,GW Source Molar fraction of compound Vinyl Chloride
+GW_Frac_6,0.006,GW Source Molar fraction of compound Total Xylenes
+GW_Frac_7,0.002,GW Source Molar fraction of compound Ethylbenzene
