@@ -1,14 +1,5 @@
 clear all; 
 data = load('plot.mat'); % Load the results from the plot.mat file
-PCE_VISL = 6000; % PCE VISL ug/L
-TCE_VISL = 293; % TCE VISL ug/L
-CIS_VISL = 5840; % PCE VISL ug/L
-VC_VISL = 929; % TCE VISL ug/L
-PCE_VISL_90 = 0.90 * PCE_VISL;  % 20% of 6000 ug/L
-TCE_VISL_90 = 0.90 * TCE_VISL;   % 20% of 293 ug/L
-PCE_VISL_20 = 0.2 * PCE_VISL;  % 20% of 6000 ug/L
-TCE_VISL_20 = 0.2 * TCE_VISL;   % 20% of 293 ug/L
-
 % Extract all fields into the current workspace
 fields = fieldnames(data);
 for i = 1:length(fields)
@@ -20,7 +11,7 @@ fields = fieldnames(data);
 for i = 1:length(fields)
     assignin('base', fields{i}, data.(fields{i}));
 end
-nc=size(MC,2);
+nc=size(MC_slab,2);
 Fig_Position = [100, 100, 1300, 600];
 plot_markers = {'o', 'd', 's', 'o', '^', 'd', 's'};
 colors = [
@@ -59,7 +50,7 @@ MW_1_x_dates = MW1_startDate + days(MW_1_transformed(:,1)); % Define the startin
 MW1_startDate = datetime(2004, 7, 1);  % Convert days to datetime values  Define the starting date% July 1, 2004
 MW_1_x_dates = MW1_startDate + days(MW_1_transformed(:,1)); % Define the starting date
 % Setup VIMS Construction Date and Sampling Dates 
-SS_Data = load("VIMS_Conc_Data.csv"); % VIMs Sub-System Vapor Exhaust Concentration Data
+SS_Data = load("SS8_Conc_Data.csv"); % VIMs Sub-System Vapor Exhaust Concentration Data
 SSV_Data = load("SubSlabVapor.csv");
 % Setup VIMS Construction Date and Sampling Dates 
 MW1_Start = min(MW1(:,1));MW1_dates = MW1(:, 1); MW1_dates = MW1_dates - MW1_Start;
@@ -68,10 +59,8 @@ Start_GWSample = min(MW1_dates); VIMS_Sample_Start = VIMS_Install-MW1_Start;
 Solvents_MW = [2 3 4 6]; % Used for plotting 
 Hydrocarbons_MW = [5 7 8]; 
 Fig_Position = [100, 100, 1300, 600];
-L           =   24.5;       % Vertical domain length units in ft
-L           =   L*12*2.54;  % Vertical domain length units in cm 
-nin         =   15;         % Specify number of internal spatial nodes
-dx          =   L/nin;      % Specify dx based on L and nin. 
+
+
 for i = 1:length(dates)% Loop through each date and contaminant
     for j = 1:length(contaminants)
         
@@ -109,8 +98,8 @@ SubSlabVapor_Data = load("SubSlabVapor.csv"); %  % Load monitor well contaminant
 Model_Start = min(SubSlabVapor_Data(:,1)); SubSlabVapor_Data(:,1) = SubSlabVapor_Data(:,1) - Model_Start; % Adjust the starting dates
 dates = unique(SubSlabVapor_Data(:,1));contaminants = unique(SubSlabVapor_Data(:,2)); % Get unique dates and contaminants
 SubSlabVapor_Data_transformed = zeros(length(dates), length(contaminants) + 1); % Initialize new matrix for plotting
-SubSlabVapor_Data_transformed(:,1) = dates+50; % Fill in the dates column
-
+SubSlabVapor_Data_transformed(:,1) = dates+200; % Fill in the dates column
+Vapor_All = [SubSlabVapor_Data_transformed;VIMS_Data]
 for i = 1:length(dates)% Loop through each date and contaminant
     for j = 1:length(contaminants)
         
@@ -123,183 +112,6 @@ for i = 1:length(dates)% Loop through each date and contaminant
     end
 end
 SubSlabVapor_Data_transformed = sortrows(SubSlabVapor_Data_transformed, 1); % Sort the matrix by date
-
-Vapor_All = [SubSlabVapor_Data_transformed;VIMS_Data];
-
-% % % % % % %      Soil Moisture Plot     % % % % % % %
-figure(110)
-    plot(theta(:,2),(dx/100)*(0.5+(0:(nin))),'-o')
-    set(gca,'Ydir','reverse')
-    axis([0 max(por) 0 (L+dx/2)/100]);
-    title(['Soil Moisture - Time = ',num2str(elapsed/86400),' days'])
-    xlabel('Vol. Soil Moisture'); ylabel('Depth (m)');
-    % save_figure_with_sim_no(Sim_No, 'Soil Moisture');
-% % % % % % % %     Plot Surface Node Vapor Phase Concentrations     % % % % % % % %
-% (Chlorinated Solvents) %%%%%%
-    figure(200)
-    
-    Solvents_SSD = [1 2 3 5]; 
-    plot(G_Top_ug_m3(:,1)/86400,G_Top_ug_m3(:,[2 3 4 6]),'LineWidth', 2)
-    hold on
-   for i = [2 3 4 6]
-        % Plot each contaminant with a different marker  
-        plot(Vapor_All(:,1), Vapor_All(:,i), [plot_markers{i-1} '--'],'LineWidth', 1, 'MarkerSize',10,'MarkerFaceColor',darker_colors(i-1,:)+.1,'MarkerEdgeColor','black'); % Plot measured VIMS vapor data
-   end  
-yline(PCE_VISL, '--', 'PCE VISL,                               ', 'LineWidth', 1.5, 'Color', [0 0 0]) % Darkest black
-yline(TCE_VISL, '--', ' TCE VISL', 'LineWidth', 1.5, 'Color', [0 0 0.5]) % Darker blue
-yline(CIS_VISL, '--', 'Cis-1,2-DCE VISL', 'LineWidth', 1.5, 'Color',[0.5 0 0] ) % Darker red
-yline(VC_VISL, '--', 'VC VISL', 'LineWidth', 1.5, 'Color', [0 0.4 0]) % Darker green
-
-% yline(PCE_VISL_90, '--k', '90% PCE VISL', 'LineWidth', 1.5)  % Black dashed line for PCE 20 % VISL
-% yline(TCE_VISL_90, '--b', '90%T CE VISL', 'LineWidth', 1.5)  % Blue dashed line for TCE 20 % VISL
-% yline(PCE_VISL_20, '--k', '20% PCE VISL', 'LineWidth', 1.5)  % Black dashed line for PCE 20 % VISL
-% yline(TCE_VISL_20, '--b', '20% TCE VISL', 'LineWidth', 1.5)  % Blue dashed line for TCE 20 % VISL
-hold off
-    ylabel('Vapor Conc. (ug/m^3)'); xlabel('Days');
-    set(gca, 'ColorOrder', colors_solvents); 
-    x_limits = get(gca, 'XLim'); % Get the current x-axis limits
-    title('Vapor Phase Concentrations at Ground Surface (Building Model)','Soil Source Total Mass Conc. = 6,000 mg/kg');
-    legend('Modeled TCE','Modeled PCE','Modeled cis-1-2,DCE','Modeled Vinyl Chloride', ...
-    'Measured TCE','Measured PCE','Measured CIS','Measured VC',...
-    'Location', 'northeast');
-     set(gca, 'YScale', 'log'); grid on; ylim([1e-1 2e8]); xlim([BC(1,2), 3300]);
-     set(gcf, 'Position', Fig_Position);
-     % gtext('\bf PCE Screening Level = 6,000 \mug/m^3'); gtext('\bf TCE Screening Level = 293 \mug/m^3');
-
-% % Get final equilibrium for EACH contaminant separately
-% eq_TCE = G_Top_ug_m3(end,2);
-% eq_PCE = G_Top_ug_m3(end,3); 
-% eq_DCE = G_Top_ug_m3(end,4);
-% eq_VC = G_Top_ug_m3(end,6);
-% 
-% % Find when each hits 98% of its own equilibrium
-% idx_TCE = find(G_Top_ug_m3(:,2) >= 0.98*eq_TCE, 1, 'first');
-% idx_PCE = find(G_Top_ug_m3(:,3) >= 0.98*eq_PCE, 1, 'first');
-% idx_DCE = find(G_Top_ug_m3(:,4) >= 0.98*eq_DCE, 1, 'first');
-% idx_VC = find(G_Top_ug_m3(:,6) >= 0.98*eq_VC, 1, 'first');
-% 
-% % Get those times
-% Eq98 = [G_Top_ug_m3(idx_TCE,1) G_Top_ug_m3(idx_PCE,1) G_Top_ug_m3(idx_DCE,1) G_Top_ug_m3(idx_VC,1)];
-% hold on
-% for i = 1:4
-%    xline(Eq98(i)/86400, '--', 'LineWidth', 1.5)
-% end
-% hold off;
-
-
-
-
-
-
-
-%%
-
-     % % % % % % % %   Plot of NAPL at surface and node and lowest node during simulation      % % % % % % % % 
-   
-    figure (118) % 
-    subplot(3,1,1) 
-    % Top Node NAPL History (At surface; Node 1)
-    plot((1/86400)*PHASE_History(:,1), PHASE_History(:,2),'o','Color',[0, 0, 0.5])
-    xlim([BC(1,2),BC(3,3)]);
-    hold on
-    ylim([3,4])
-    title('NAPL History - At Surface');
-    xlabel('Days');
-    ylabel('Phases Present');
-    xline(x1, 'Color', 'k', 'LineStyle', '--', 'LineWidth', 1);   % Line for VIMS ON
-    xline(x2, 'Color', 'k', 'LineStyle', '--', 'LineWidth', 1);   % Line for VIMS OFF
-    xline(x3, 'Color', 'k', 'LineStyle', '--', 'LineWidth', 1); % Line for Surface Soil Contamination Start
-    text(x1, 10, 'VIMS ON', 'VerticalAlignment', 'bottom', 'HorizontalAlignment', 'left');
-    text(x2, 10, 'VIMS OFF', 'VerticalAlignment', 'bottom', 'HorizontalAlignment', 'left');
-    text(x3, 10, 'Soil Contam.', 'VerticalAlignment', 'bottom', 'HorizontalAlignment', 'right');
-    hold off
-    subplot(3,1,2) % Bottom Node NAPL History (Just above water table; Node 16)
-    plot((1/86400)*PHASE_History(:,1), PHASE_History(:,16),'o','Color',[0, 0.5, 0])  
-    hold on
-    xlim([BC(1,2),BC(3,3)]);
-    ylim([3,4])
-    title('NAPL History - Above Water Table');
-    xlabel('Days');
-    ylabel('Phases Present');
-    xline(x1, 'Color', 'k', 'LineStyle', '--', 'LineWidth', 1);   % Line for VIMS ON
-    xline(x2, 'Color', 'k', 'LineStyle', '--', 'LineWidth', 1);   % Line for VIMS OFF
-    xline(x3, 'Color', 'k', 'LineStyle', '--', 'LineWidth', 1); % Line for Surface Soil Contamination Start
-    text(x1, 10, 'VIMS ON', 'VerticalAlignment', 'bottom', 'HorizontalAlignment', 'left');
-    text(x2, 10, 'VIMS OFF', 'VerticalAlignment', 'bottom', 'HorizontalAlignment', 'left');
-    text(x3, 10, 'Soil Contam.', 'VerticalAlignment', 'bottom', 'HorizontalAlignment', 'right');
-    hold off
-     subplot(3,1,3) % Bottom Node NAPL History (At water table; Node 17)
-    plot((1/86400)*PHASE_History(:,1), PHASE_History(:,17),'o','Color',[0, 0.5, 0])  
-    hold on
-    xlim([BC(1,2),BC(3,3)]);
-    ylim([3,4])
-    title('NAPL History - At Water Table');
-    xlabel('Days');
-    ylabel('Phases Present');
-    xline(x1, 'Color', 'k', 'LineStyle', '--', 'LineWidth', 1);   % Line for VIMS ON
-    xline(x2, 'Color', 'k', 'LineStyle', '--', 'LineWidth', 1);   % Line for VIMS OFF
-    xline(x3, 'Color', 'k', 'LineStyle', '--', 'LineWidth', 1); % Line for Surface Soil Contamination Start
-    text(x1, 10, 'VIMS ON', 'VerticalAlignment', 'bottom', 'HorizontalAlignment', 'left');
-    text(x2, 10, 'VIMS OFF', 'VerticalAlignment', 'bottom', 'HorizontalAlignment', 'left');
-    text(x3, 10, 'Soil Contam.', 'VerticalAlignment', 'bottom', 'HorizontalAlignment', 'right');
-    hold off
-    % save_figure_with_sim_no(Sim_No, 'Phase_History');
-%% 
-
-     % % % % % % % %     Plot above WT (node 15) Vapor Phase Concentrations     % % % % % % % %
-% (Chlorinated Solvents) %%%%%%
-    figure(100)
-    
-    Solvents_SSD = [1 2 3 5]; 
-    plot(G_WT_ug_m3(:,1)/86400/365,G_WT_ug_m3(:,[2 3 4 6]),'LineWidth', 2)
-    hold on
-   for i = [2 3 4 6]
-        % Plot each contaminant with a different marker  
-        plot(Vapor_All(:,1)/365, Vapor_All(:,i), [plot_markers{i-1} '--'],'LineWidth', 1, 'MarkerSize',10,'MarkerFaceColor',darker_colors(i-1,:)+.1,'MarkerEdgeColor','black'); % Plot measured VIMS vapor data
-   end  
-   
-    %  for i = [2 3 4 6]
-    %     % Plot each contaminant with a different marker
-    %     plot(SubSlabVapor_Data_transformed(:,1), SubSlabVapor_Data_transformed(:,i), [plot_markers{i-1} '--'],'LineWidth', 1, 'MarkerSize',10,'MarkerFaceColor',darker_colors(i-1,:)+.1,'MarkerEdgeColor','black'); % Plot measured Subslab vapor data
-    % end  
-    plot(Screening_PCE(:,1), Screening_PCE(:,2),'-.','Color', [0.3, 0.3, 0.3],'LineWidth',1.5); % Plot Superfund Site PCE Screening Level
-    plot(Screening_TCE(:,1), Screening_TCE(:,2),'-.','Color', [0.3, 0.3, 0.3],'LineWidth',1.5); % Plot Superfund Site TCE Screening Level
-    ylabel('Vapor Conc. (ug/m^3)'); xlabel('Years');
-    set(gca, 'ColorOrder', colors_solvents); 
-    x_limits = get(gca, 'XLim'); % Get the current x-axis limits
-    title('Baseline  Vapor Phase Concentrations just above Water Table (Building Model)','Chlorinated Solvents, q = 2.78E-04 cm/sec');
-    legend('Modeled TCE','Modeled PCE','Modeled cis-1-2,DCE','Modeled Vinyl Chloride', ...
-    'Measured TCE','Measured PCE','Measured CIS','Measured VC',...
-    'Location', 'northeast');
-     set(gca, 'YScale', 'log');grid on; ylim([1e-1 2e8]); xlim([BC(1,2),30000/365]);
-     set(gcf, 'Position', Fig_Position);
-     gtext('\bf PCE Screening Level = 6,000 \mug/m^3'); gtext('\bf TCE Screening Level = 293 \mug/m^3');
-     hold off;
-     %% 
-% % % % % % % %     Plot Surface Node Vapor Phase Concentrations     % % % % % % % %
-% (Chlorinated Solvents) %%%%%%
-    figure(200)
-    
-    Solvents_SSD = [1 2]; 
-    plot(G_Top_ug_m3(:,1)/86400,G_Top_ug_m3(:,[2 3]),'LineWidth', 2); 
-    hold on
-    for i = [2 3]
-        % Plot each contaminant with a different marker  
-        plot(Vapor_All(:,1), Vapor_All(:,i), [plot_markers{i-1} '--'],'LineWidth', 1, 'MarkerSize',10,'MarkerFaceColor',darker_colors(i-1,:)+.1,'MarkerEdgeColor','black'); % Plot measured VIMS vapor data
-    end  
-    plot(Screening_PCE(:,1), Screening_PCE(:,2),'-.','Color', [0.3, 0.3, 0.3],'LineWidth',1.5); % Plot Superfund Site PCE Screening Level
-    plot(Screening_TCE(:,1), Screening_TCE(:,2),'-.','Color', [0.3, 0.3, 0.3],'LineWidth',1.5); % Plot Superfund Site TCE Screening Level
-    ylabel('Vapor Conc. (ug/m^3)'); xlabel('Days');
-    set(gca, 'ColorOrder', colors_solvents([1,2],:)); 
-    x_limits = get(gca, 'XLim'); % Get the current x-axis limits
-    title('Baseline  Vapor Phase Concentrations at Ground Surface (Building Model)','Chlorinated Solvents, Soil Source Only');
-    legend('Modeled TCE','Modeled PCE','Measured TCE','Measured PCE','Location', 'northeast');
-    set(gca, 'YScale', 'log');grid on; ylim([1e-1 2e8]); xlim([BC(1,2),3255]);
-    set(gcf, 'Position', Fig_Position);
-    gtext('\bf PCE Screening Level = 6,000 \mug/m^3'); gtext('\bf TCE Screening Level = 293 \mug/m^3');
-    hold off;
-
-%% 
 
 
 % % % % % % % %     Plot Surface Node Vapor Phase Concentrations     % % % % % % % %
@@ -322,7 +134,7 @@ hold off
     legend('Modeled TCE','Modeled PCE','Modeled cis-1-2,DCE','Modeled Vinyl Chloride', ...
     'Measured TCE','Measured PCE','Measured CIS','Measured VC',...
     'Location', 'northeast');
-     set(gca, 'YScale', 'log');grid on; ylim([1e-1 2e8]); xlim([BC(1,2),2000]);
+     set(gca, 'YScale', 'log');grid on; ylim([1e-1 2e8]); xlim([BC(1,2),3251]);
      set(gcf, 'Position', Fig_Position);
      gtext('\bf PCE Screening Level = 6,000 \mug/m^3'); gtext('\bf TCE Screening Level = 293 \mug/m^3');
      hold off;
@@ -354,20 +166,22 @@ figure(203)
          hold off
 %% 
 
+
+
 % % % % % % % % Plot Groundwater Node Dissolved Phase Concentrations
 % (Chorinated Solvents) %%%%%%
 figure (121)
      
-    plot((1/86400)*C_Top(:,1),W_GW_ug_L(:,[2 3 4 6]),'LineWidth', 2)
+    plot((1/86400)*C_Top(:,1),W_GW_ug_L(:,[1 2 3 5]),'LineWidth', 2)
     hold on
-    for i = [2 3 4 6]
+    for i = Solvents_MW
         % Plot each contaminant with a different marker
         plot(MW_1_transformed(:,1)-4042, MW_1_transformed(:,i), [plot_markers{i-1} '--'],'LineWidth', 1, 'MarkerSize',8);
     end
 
     set(gca, 'ColorOrder', colors_solvents);
     set(gcf, 'Position', Fig_Position);
-    axis([min(C_Top(:,1))/86400 3275 0 max(max(MW1(:,3)))]);set(gca, 'YScale', 'log'); 
+    axis([min(C_Top(:,1))/86400 max(C_Top(:,1))/86400 0 max(max(MW1(:,3)))]);set(gca, 'YScale', 'log'); 
     xlabel('Days'); ylabel('Dissolved Conc. (ug/L)');grid on;
     title('Dissolved Chlorinated Solvents Concentration at Water Table');
     legend('Modeled TCE','Modeled PCE','Modeled cis-1-2,DCE','Modeled Vinyl Chloride', ...
@@ -380,11 +194,13 @@ figure (121)
     saveas(gcf,  filename);
     hold off
 
-    % % % % % % % % Plot Groundwater Node Dissolved Phase Concentrations
+
+
+% % % % % % % % Plot Groundwater Node Dissolved Phase Concentrations
 % (Petroleum Hydrocarbons) %%%%%%
     figure (122)
     Hydrocarbons_MW = [5 7 8]; 
-    plot((1/86400)*C_Top(:,1),W_GW_ug_L(:,[5 7 8]),'LineWidth', 2)
+    plot((1/86400)*C_Top(:,1),W_GW_ug_L(:,[4 6 7]),'LineWidth', 2)
     hold on
     for i = Hydrocarbons_MW
         % Plot each contaminant with a different marker
@@ -392,7 +208,7 @@ figure (121)
     end
     set(gca, 'ColorOrder', colors_hydrocarbons);
     set(gcf, 'Position', Fig_Position);
-    axis([min(C_Top(:,1))/86400 3275 0 max(max(MW_1_transformed(:,3)))]);set(gca, 'YScale', 'log'); 
+    axis([min(C_Top(:,1))/86400 max(C_Top(:,1))/86400 0 max(max(MW_1_transformed(:,3)))]);set(gca, 'YScale', 'log'); 
     xlabel('Days'); ylabel('Dissolved Conc. (ug/L)');grid on;
     title('Dissolved Petroleum Hydrocarbons Concentrations at Water Table');
     legend('Modeled Toluene','Modeled Total Xylenes','Modeled Ethylbenzene', ...
@@ -685,7 +501,7 @@ hold off;
     hold on 
     set(gca,'Ydir','reverse')
     xlabel('Soil Gas Conc. [mg/L]'); ylabel('Depth (m)')
-    axis([1e-2 1e9 0 (L+dx/2)/100])
+    axis([1e-5 1000 0 (L+dx/2)/100])
     legend('TCE','PCE','cis-1-2,DCE','Toluene','Vinyl Chloride','Xylenes','Ethylbenzene');
      title(['Vapor Con. - Time = ',num2str(elapsed/86400),' days'])
      line([x_pce_vapor x_pce_vapor], y_limits, 'Color', color_PCE, 'LineStyle', '--', 'DisplayName', 'GW Goal PCE')
@@ -699,9 +515,10 @@ hold off;
 %   % save_figure_with_sim_no(Sim_No, 'Vapor');
 % 
 
-
+%% 
     % % % % % % % %     Total Mass Concentration Plot    % % % % % % % %
     figure(113)
+    L = 15; 
     semilogx((1e6/SDENS)*MC(:,1:ncomp).*MW',(dx/100)*(0.5+(0:(nin))),'-+')
     set(gca,'Ydir','reverse')
     axis([1e-5 1000 0 (L+dx/2)/100])
@@ -722,7 +539,7 @@ hold off;
 figure(112)
     semilogx(W_ug_L,(dx/100)*(0.5+(0:(nin))),'-+')
     set(gca,'Ydir','reverse')
-    axis([1e-5 2000 0 (L+dx/2)/100])
+    axis([1e-5 1000 0 (L+dx/2)/100])
     xlabel('Dissolved Conc. [mg/L]'); ylabel('Depth (m)')
     title(['Diss. Conc. - Time = ',num2str(elapsed/86400),' days'])
     hold on
@@ -732,7 +549,7 @@ figure(112)
     % line([x_cis_diss x_cis_diss], y_limits, 'Color', color_Cis, 'LineStyle', '--', 'DisplayName', 'GW Goal CIS')
     % line([x_vc_diss x_vc_diss], y_limits, 'Color', color_VC, 'LineStyle', '--', 'DisplayName', 'GW Goal VC')
     hold off 
-
+    save_figure_with_sim_no(Sim_No, 'Diss');
 
 %% 
 % % % % % % % %   Plot of Sum of Dissolved Conc. at node above water table during simulation vs Infiltration      % % % % % % % %    

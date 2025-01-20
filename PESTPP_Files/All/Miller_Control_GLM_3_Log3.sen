@@ -1,0 +1,153 @@
+                    PARAMETER SENSITIVITIES: CASE Miller_Control_GLM_3_Log3
+
+
+NUMERIC PARAMETER SENSITIVITIES FOR OPTIMISATION ITERATION NO. 1   ----->
+  Parameter name   Group        Current Value        PEST_CSS_wo_reg
+   por             pargrp       0.380000000000       106.199760652       
+   por_v_min       pargrp       0.120000000000       3.46409018188       
+   blahblah        pargrp       0.0150000000000      22853.6415770       
+   airdiff         pargrp       0.0930000000000      141.966733558       
+   brooks          pargrp       1.20000000000        0.900671553617      
+   p_air           pargrp       12.0000000000        0.0354231042994     
+   conc_s_top      pargrp       20.0000000000        17.4220313701       
+   conc_s_bot      pargrp       8.00000000000        1.27254749530       
+   theta_min       pargrp       0.120000000000       183.463953656       
+   q_air_slab      pargrp       -7.00000000000       0.128693909849      
+   q_air_vims      pargrp       -2.00000000000       30.4645819278       
+
+
+NUMERIC PARAMETER SENSITIVITIES FOR OPTIMISATION ITERATION NO. 2   ----->
+  Parameter name   Group        Current Value        PEST_CSS_wo_reg
+   por             pargrp       0.375960000000       102.274991191       
+   por_v_min       pargrp       0.0557118414700      3.95695400893       
+   blahblah        pargrp       0.0149993504000      21758.4558486       
+   airdiff         pargrp       0.100000000000       121.041479292       
+   brooks          pargrp       1.13113748000        1.57797856648       
+   p_air           pargrp       12.0006810000        0.0644158055799     
+   conc_s_top      pargrp       19.0151888250        17.4570995014       
+   conc_s_bot      pargrp       8.04596528373        1.22100431387       
+   theta_min       pargrp       0.126111279380       174.295723303       
+   q_air_slab      pargrp       -6.99139827770       0.125964885178      
+   q_air_vims      pargrp       -2.02689230941       31.2215155935       
+
+
+NUMERIC PARAMETER SENSITIVITIES FOR OPTIMISATION ITERATION NO. 3   ----->
+  Parameter name   Group        Current Value        PEST_CSS_wo_reg
+   por             pargrp       0.376090000000       91.7697937864       
+   por_v_min       pargrp       0.00100000000000     3.80247486970       
+   blahblah        pargrp       0.0149978064000      20056.2065289       
+   airdiff         pargrp       0.100000000000       103.566444394       
+   brooks          pargrp       1.06403427000        2.27066018210       
+   p_air           pargrp       12.0015860000        0.0800229926464     
+   conc_s_top      pargrp       17.4623190295        17.5589820534       
+   conc_s_bot      pargrp       8.14725710969        1.09719694357       
+   theta_min       pargrp       0.134613257720       155.697409911       
+   q_air_slab      pargrp       -6.97799035300       0.122005164031      
+   q_air_vims      pargrp       -2.08171265042       32.3655554756       
+
+
+NUMERIC PARAMETER SENSITIVITIES FOR OPTIMISATION ITERATION NO. 4   ----->
+  Parameter name   Group        Current Value        PEST_CSS_wo_reg
+   por             pargrp       0.380330000000       87.7558756501       
+   por_v_min       pargrp       0.0110000000000      5.15198776953       
+   blahblah        pargrp       0.0149972575000      20171.8660750       
+   airdiff         pargrp       0.100000000000       100.500057668       
+   brooks          pargrp       0.917764520000       3.92008789756       
+   p_air           pargrp       12.0020220000        0.260443725378      
+   conc_s_top      pargrp       17.2264082241        17.5425066176       
+   conc_s_bot      pargrp       8.33530582485        0.738161578646      
+   theta_min       pargrp       0.134724774480       151.275841347       
+   q_air_slab      pargrp       -6.97394891510       0.545035210975      
+   q_air_vims      pargrp       -2.08287178184       33.4209419384       
+
+
+NUMERIC PARAMETER SENSITIVITIES FOR OPTIMISATION ITERATION NO. 5   ----->
+  Parameter name   Group        Current Value        PEST_CSS_wo_reg
+   por             pargrp       0.380350000000       69.4499990095       
+   por_v_min       pargrp       0.0134062474500      6.14415095995       
+   blahblah        pargrp       0.0149972566000      19379.2950625       
+   airdiff         pargrp       0.100000000000       81.9549341877       
+   brooks          pargrp       0.826408900000       5.09187201697       
+   p_air           pargrp       11.8307690000        0.270490625704      
+   conc_s_top      pargrp       16.4054416181        17.5669480068       
+   conc_s_bot      pargrp       10.3433421687        0.790363737566      
+   theta_min       pargrp       0.134761294630       138.632054593       
+   q_air_slab      pargrp       -21.0000000000       0.144107959970      
+   q_air_vims      pargrp       -2.08303738191       32.9564755090       
+
+
+NUMERIC PARAMETER SENSITIVITIES FOR OPTIMISATION ITERATION NO. 6   ----->
+  Parameter name   Group        Current Value        PEST_CSS_wo_reg
+   por             pargrp       0.380200000000       50.0401978905       
+   por_v_min       pargrp       0.112046202330       109.921141112       
+   blahblah        pargrp       0.0149972881000      13709.3981625       
+   airdiff         pargrp       0.100000000000       61.0824253735       
+   brooks          pargrp       0.100000000000       60.3285838002       
+   p_air           pargrp       11.3959870000        0.309714464067      
+   conc_s_top      pargrp       11.3414752161        18.0642075160       
+   conc_s_bot      pargrp       29.3937940126        0.234299616389      
+   theta_min       pargrp       0.135085934470       56.2159787293       
+   q_air_slab      pargrp       -20.6718729880       0.102320835874      
+   q_air_vims      pargrp       -2.08387142662       21.9105797244       
+
+
+NUMERIC PARAMETER SENSITIVITIES FOR OPTIMISATION ITERATION NO. 7   ----->
+  Parameter name   Group        Current Value        PEST_CSS_wo_reg
+   por             pargrp       0.380200000000       43.0518030943       
+   por_v_min       pargrp       0.112099995840       112.783355968       
+   blahblah        pargrp       0.0149972931000      13722.6538914       
+   airdiff         pargrp       0.100000000000       142.099174727       
+   brooks          pargrp       0.208242870000       80.3302622611       
+   p_air           pargrp       11.3959870000        0.540566017064      
+   conc_s_top      pargrp       10.7068390215        17.7707106660       
+   conc_s_bot      pargrp       29.3902109170        0.701186083514      
+   theta_min       pargrp       0.0945793900900      152.123181114       
+   q_air_slab      pargrp       -20.6718729830       0.101908733011      
+   q_air_vims      pargrp       -2.08387186945       29.3590668400       
+
+
+NUMERIC PARAMETER SENSITIVITIES FOR OPTIMISATION ITERATION NO. 8   ----->
+  Parameter name   Group        Current Value        PEST_CSS_wo_reg
+   por             pargrp       0.380530000000       61.7373373058       
+   por_v_min       pargrp       0.111476248150       179.919314996       
+   blahblah        pargrp       0.0149972580000      13524.1716965       
+   airdiff         pargrp       0.100000000000       229.624311522       
+   brooks          pargrp       0.190809710000       137.333955126       
+   p_air           pargrp       10.5291870000        0.798725570649      
+   conc_s_top      pargrp       9.99223626270        17.7608405239       
+   conc_s_bot      pargrp       42.3839672793        0.720332808423      
+   theta_min       pargrp       0.0869776634200      220.207080792       
+   q_air_slab      pargrp       -21.0000000000       0.100884049275      
+   q_air_vims      pargrp       -2.08439809486       33.1782064076       
+
+
+NUMERIC PARAMETER SENSITIVITIES FOR OPTIMISATION ITERATION NO. 9   ----->
+  Parameter name   Group        Current Value        PEST_CSS_wo_reg
+   por             pargrp       0.380880000000       72.7824486133       
+   por_v_min       pargrp       0.111049537220       231.736716456       
+   blahblah        pargrp       0.0149972129000      13445.5885476       
+   airdiff         pargrp       0.100000000000       288.482017617       
+   brooks          pargrp       0.176146050000       186.665532330       
+   p_air           pargrp       9.48367330000        1.03761041832       
+   conc_s_top      pargrp       9.57244395254        17.7615555578       
+   conc_s_bot      pargrp       51.6284126778        0.714989506369      
+   theta_min       pargrp       0.0824583509700      262.187503270       
+   q_air_slab      pargrp       -20.6408994540       0.100048306104      
+   q_air_vims      pargrp       -2.08477109386       35.7638550642       
+
+
+NUMERIC PARAMETER SENSITIVITIES FOR OPTIMISATION ITERATION NO. 10  ----->
+  Parameter name   Group        Current Value        PEST_CSS_wo_reg
+   por             pargrp       0.381080000000       75.9542167284       
+   por_v_min       pargrp       0.110771261620       262.380151404       
+   blahblah        pargrp       0.0149971863000      13430.5599167       
+   airdiff         pargrp       0.100000000000       315.115162828       
+   brooks          pargrp       0.163726090000       219.378092627       
+   p_air           pargrp       8.39975230000        1.22974764489       
+   conc_s_top      pargrp       9.41136012840        17.7749137157       
+   conc_s_bot      pargrp       57.0519489906        0.692965257482      
+   theta_min       pargrp       0.0812054393300      278.601343850       
+   q_air_slab      pargrp       -20.9544666120       0.100459515922      
+   q_air_vims      pargrp       -2.08493469671       36.9053205987       
+
+

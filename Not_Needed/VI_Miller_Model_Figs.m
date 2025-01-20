@@ -59,7 +59,7 @@ MW_1_x_dates = MW1_startDate + days(MW_1_transformed(:,1)); % Define the startin
 MW1_startDate = datetime(2004, 7, 1);  % Convert days to datetime values  Define the starting date% July 1, 2004
 MW_1_x_dates = MW1_startDate + days(MW_1_transformed(:,1)); % Define the starting date
 % Setup VIMS Construction Date and Sampling Dates 
-SS_Data = load("VIMS_Conc_Data.csv"); % VIMs Sub-System Vapor Exhaust Concentration Data
+SS_Data = load("SS8_Conc_Data.csv"); % VIMs Sub-System Vapor Exhaust Concentration Data
 SSV_Data = load("SubSlabVapor.csv");
 % Setup VIMS Construction Date and Sampling Dates 
 MW1_Start = min(MW1(:,1));MW1_dates = MW1(:, 1); MW1_dates = MW1_dates - MW1_Start;

@@ -1,0 +1,172 @@
+pcf
+* control data
+norestart          estimation
+15		126		1		0		1
+1                 1       single  point 1 0 0
+10.0               -2.0    0.3     0.01    10
+10.0               1.2     0.001
+0.1
+15              1.000000E-02         3         3   1.000000E-02 3
+0                  0       0
+
+* singular value decomposition
+1
+10   1.000000E-06
+1
+* parameter groups
+pargrp  relative 0.01 0.0  switch 1  parabolic
+
+* parameter data
+por         none        relative   3.80000E-01      0.3000000	 	0.3900000   pargrp 1.0 0.0 1
+por_v_min   none 		relative   0.12000	        0.0010000  		0.1700000   pargrp 1.0 0.0 1
+blahblah    none        relative   0.01500000       0.0000100	    0.5000000   pargrp 1.0 0.0 1
+airdiff     none        relative   0.093	        0.0001000  		0.1000000   pargrp 1.0 0.0 1
+k_sat       fixed       relative   0.000140000    	0.0000100  		0.0100000   pargrp 1.0 0.0 1
+brooks		none        relative   1.20000000      	0.1000000  		3.00000     pargrp 1.0 0.0 1
+p_air       none        relative   12.0000000       8.000000    	20.0000     pargrp 1.0 0.0 1
+conc_s_top  none        relative   20.00000         0.0001000  		180.0000    pargrp 1.0 0.0 1
+conc_s_bot  none        relative   8.000000         0.0001000  		180.0000    pargrp 1.0 0.0 1
+ctot_wt     fixed       relative   8.10E+00         0.00100000 		50.00000    pargrp 1.0 0.0 1
+theta_min	none        relative   1.20000E-01      5.00000E-02	 	2.00000E-01 pargrp 1.0 0.0 1
+q_air_Slab	none        relative  -7.00000000000	-21.0	 		2.0			pargrp 1.0 0.0 1
+q_air_VIMS	none        relative   -2.0    			-5.0		 	0.0 	 	pargrp 1.0 0.0 1
+q_air_Open	fixed       relative   1.000000E+00     0.001	 		100.00 		pargrp 1.0 0.0 1
+q_var		fixed       relative   0.000001			0.00000001	 	0.35000     pargrp 1.0 0.0 1
+
+* observation groups
+mod_group
+
+* observation data
+mod_obs0_1	53750 	0.0555556	mod_group
+mod_obs0_2	213280	0.0555556	mod_group
+mod_obs0_3	44550	0.1428571	mod_group
+mod_obs0_4	999999	0			mod_group
+mod_obs0_5	999999	0			mod_group
+mod_obs0_6	18		0.2500000	mod_group
+mod_obs0_7	1.500	0.1428571	mod_group
+mod_obs1_1	174 	0.0555556	mod_group
+mod_obs1_2	2570	0.0555556	mod_group
+mod_obs1_3	999999	0			mod_group
+mod_obs1_4	999999	0			mod_group
+mod_obs1_5	999999	0			mod_group
+mod_obs1_6	999999	0			mod_group
+mod_obs1_7	999999	0			mod_group
+mod_obs2_1	221 	0.0555556	mod_group
+mod_obs2_2	4650	0.0555556	mod_group
+mod_obs2_3	999999	0			mod_group
+mod_obs2_4	999999	0			mod_group
+mod_obs2_5	999999	0			mod_group
+mod_obs2_6	999999	0			mod_group
+mod_obs2_7	999999	0			mod_group
+mod_obs3_1	747 	0.0555556	mod_group
+mod_obs3_2	14700	0.0555556	mod_group
+mod_obs3_3	999999	0			mod_group
+mod_obs3_4	999999	0			mod_group
+mod_obs3_5	999999	0			mod_group
+mod_obs3_6	999999	0			mod_group
+mod_obs3_7	999999	0			mod_group
+mod_obs4_1	230 	0.0555556	mod_group
+mod_obs4_2	3420	0.0555556	mod_group
+mod_obs4_3	999999	0			mod_group
+mod_obs4_4	999999	0			mod_group
+mod_obs4_5	999999	0			mod_group
+mod_obs4_6	999999	0			mod_group
+mod_obs4_7	999999	0			mod_group
+mod_obs5_1	695 	0.0555556	mod_group
+mod_obs5_2	11600	0.0555556	mod_group
+mod_obs5_3	999999	0			mod_group
+mod_obs5_4	999999	0			mod_group
+mod_obs5_5	999999	0			mod_group
+mod_obs5_6	999999	0			mod_group
+mod_obs5_7	999999	0			mod_group
+mod_obs6_1	124 	0.0555556	mod_group
+mod_obs6_2	2350	0.0555556	mod_group
+mod_obs6_3	999999	0			mod_group
+mod_obs6_4	999999	0			mod_group
+mod_obs6_5	999999	0			mod_group
+mod_obs6_6	999999	0			mod_group
+mod_obs6_7	999999	0			mod_group
+mod_obs7_1	363 	0.0555556	mod_group
+mod_obs7_2	6700	0.0555556	mod_group
+mod_obs7_3	999999	0			mod_group
+mod_obs7_4	999999	0			mod_group
+mod_obs7_5	999999	0			mod_group
+mod_obs7_6	999999	0			mod_group
+mod_obs7_7	999999	0			mod_group
+mod_obs8_1	169 	0.0555556	mod_group
+mod_obs8_2	3000	0.0555556	mod_group
+mod_obs8_3	999999	0			mod_group
+mod_obs8_4	999999	0			mod_group
+mod_obs8_5	999999	0			mod_group
+mod_obs8_6	999999	0			mod_group
+mod_obs8_7	999999	0			mod_group
+mod_obs9_1	23.4	0.0555556	mod_group
+mod_obs9_2	287		0.0555556	mod_group
+mod_obs9_3	999999	0			mod_group
+mod_obs9_4	999999	0			mod_group
+mod_obs9_5	999999	0			mod_group
+mod_obs9_6	999999	0			mod_group
+mod_obs9_7	999999	0			mod_group
+mod_obs10_1	60.6	0.0555556	mod_group
+mod_obs10_2	1010	0.0555556	mod_group
+mod_obs10_3	999999	0			mod_group
+mod_obs10_4	999999	0			mod_group
+mod_obs10_5	999999	0			mod_group
+mod_obs10_6	999999	0			mod_group
+mod_obs10_7	999999	0			mod_group
+mod_obs11_1	377		0.0555556	mod_group
+mod_obs11_2	5590	0.0555556	mod_group
+mod_obs11_3	999999	0			mod_group
+mod_obs11_4	999999	0			mod_group
+mod_obs11_5	999999	0			mod_group
+mod_obs11_6	999999	0			mod_group
+mod_obs11_7	999999	0			mod_group
+mod_obs12_1	202  	0.0555556	mod_group
+mod_obs12_2	3410	0.0555556	mod_group
+mod_obs12_3	521  	0.1428571	mod_group
+mod_obs12_4	60  	0.1428571	mod_group
+mod_obs12_5	15.1	0.1428571	mod_group
+mod_obs12_6	999999	0			mod_group
+mod_obs12_7	51.4	0.1428571	mod_group
+mod_obs13_1	335		0.0555556	mod_group
+mod_obs13_2	5160	0.0555556	mod_group
+mod_obs13_3	1290	0.1428571	mod_group
+mod_obs13_4	55.5	0.1428571	mod_group
+mod_obs13_5	1.9 	0.1428571	mod_group
+mod_obs13_6	999999	0			mod_group
+mod_obs13_7	18.3	0.1428571	mod_group
+mod_obs14_1	101		0.0555556	mod_group
+mod_obs14_2	652		0.0555556	mod_group
+mod_obs14_3	1280	0.1428571	mod_group
+mod_obs14_4	35.8	0.1428571	mod_group
+mod_obs14_5	9.5 	0.1428571	mod_group
+mod_obs14_6	999999	0			mod_group
+mod_obs14_7	5.9 	0.1428571	mod_group
+mod_obs15_1	461		0.0555556	mod_group
+mod_obs15_2	4060	0.0555556	mod_group
+mod_obs15_3	2290	0.1428571	mod_group
+mod_obs15_4	75.3	0.1428571	mod_group
+mod_obs15_5	6.98	0.1428571	mod_group
+mod_obs15_6	95.5	0.2500000	mod_group
+mod_obs15_7	10.8	0.1428571	mod_group
+mod_obs16_1	226 	0.0555556	mod_group
+mod_obs16_2	1720	0.0555556	mod_group
+mod_obs16_3	892 	0.1428571	mod_group
+mod_obs16_4	41.1	0.1428571	mod_group
+mod_obs16_5	3.43	0.1428571	mod_group
+mod_obs16_6	37.8	0.2500000	mod_group
+mod_obs16_7	7.07	0.1428571	mod_group
+mod_obs17_1	442 	0.0555556	mod_group
+mod_obs17_2	6050	0.0555556	mod_group
+mod_obs17_3	1920	0.1428571	mod_group
+mod_obs17_4	26.6	0.1428571	mod_group
+mod_obs17_5	4.01	0.1428571	mod_group
+mod_obs17_6	69  	0.2500000	mod_group
+mod_obs17_7	9.58	0.1428571	mod_group
+
+* model command line
+.\Miller_Model_PEST_Building1.exe
+
+* model input/output
+Model_Input_All.tpl Model_Input_All.txt
+Modeled_Obs.ins Modeled_Obs_New.txt

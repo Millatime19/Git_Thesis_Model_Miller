@@ -1,0 +1,484 @@
+             pestpp-sen: a tool for global sensitivity analysis
+
+                         by The PEST++ Development Team
+
+
+
+version: 5.2.6
+binary compiled on Aug 15 2023 at 14:56:06
+
+using control file: "Miller_Control_Sense_3_Log_0108_2.pst"
+in directory: "C:\Users\matth\OneDrive - Colorado School of Mines\Mines\Thesis\Data\Model\Draft\PEST_Testing\Miller_Model_Diff_Adv_111824\PEST\Testing"
+on host: "MOOSE"
+
+started at 01/10/25 11:35:19
+Note: 3 unused lines in pest control file:
+  -->  line number 6: '10.0               -2.0    0.3     0.01    10' 
+  -->  line number 10: '0                  0       0' 
+  -->  line number 12: '1' 
+
+using control file: "Miller_Control_Sense_3_Log_0108_2.pst"
+
+    This software has been approved for release by the
+    U.S.Geological Survey(USGS).Although the software has 
+    been subjected to rigorous review, the USGS reserves the
+    right to update the software as needed pursuant to further
+    analysisand review.No warranty, expressed or implied, is 
+    made by the USGS or the U.S.Government as to the
+    functionality of the softwareand related material nor shall
+    the fact of release constitute any such warranty.
+    Furthermore, the software is released on condition that
+    neither the USGS nor the U.S.Government shall be held
+    liable for any damages resulting from its authorized 
+    or unauthorized use.
+
+
+pestmode:- 
+   estimation
+
+
+Case dimensions:- 
+    Number of parameters = 15
+    Number of adjustable parameters = 11
+    Number of observations = 126
+    Number of non-zero weighted observations = 66
+    Number of prior estimates = 0
+
+PEST Control Information
+    relparmax = 10
+    facparmax = 1.2
+    facorig = 0.001
+    phiredswh = 0.1
+    noptmax = 15
+    phiredstp = 0.01
+    nphistp = 3
+    nphinored = 3
+    relparstp = 0.01
+    nrelpar = 3
+
+
+    PEST++ OPTIONS: 
+
+...general options (used in multiple tools): 
+svd_pack: redsvd
+lambda_scale_fac: 0.75,1,1.1,
+forgive_unknown_args: 0
+max_run_fail: 3
+panther_poll_interval: 1
+parameter_covariance: 
+observation_covariance: 
+hotstart_resfile: 
+overdue_resched_fac: 1.15
+overdue_giveup_fac: 100
+overdue_giveup_minutes: 1e+30
+condor_submit_file: 
+tie_by_group: 0
+par_sigma_range: 4
+enforce_tied_bounds: 0
+debug_parse_only: 0
+check_tplins: 1
+fill_tpl_zeros: 0
+tpl_force_decimal: 0
+additional_ins_delimiters: 
+random_seed: 358183147
+num_tpl_ins_threads: 1
+save_binary: 0
+ensemble_output_precision: 6
+panther_echo: 1
+panther_agent_restart_on_error: 0
+panther_agent_no_ping_timeout_secs: -1
+panther_debug_loop: 0
+debug_check_par_en_consistency: 0
+panther_agent_freeze_on_fail: 0
+panther_transfer_on_finish: 
+panther_transfer_on_fail: 
+
+...pestpp-glm specific options:
+max_n_super: 1000000
+super_eigthresh: 1e-06
+n_iter_base: 1000000
+n_iter_super: 0
+super_relparmax: 0.1
+max_super_frz_iter: 20
+max_reg_iter: 20
+lambdas: 0.1,1,10,100,1000,
+iteration_summary: 1
+der_forgive: 1
+uncertainty: 1
+forecasts: 
+base_jacobian: Miller_Control_GLM_3_Log_0108_2.pst
+glm_num_reals: 0
+jac_scale: 1
+glm_normal_form: DIAG
+glm_debug_der_fail: 0
+glm_debug_lamb_fail: 0
+glm_debug_real_fail: 0
+glm_accept_mc_phi: 0
+glm_rebase_super: 0
+glm_iter_mc: 0
+glm_high_2nd_iter_phi: 0
+
+...pestpp-swp options:
+sweep_parameter_csv_file: 
+sweep_output_csv_file: sweep_out.csv
+sweep_chunk: 500
+sweep_forgive: 0
+sweep_base_run: 0
+sweep_include_regul_phi: 0
+
+...pestpp-opt options:
+opt_objective_function: 
+opt_coin_log: 1
+opt_skip_final: 0
+opt_std_weights: 0
+opt_stack_size: 0
+opt_par_stack: 
+opt_obs_stack: 
+opt_decision_variable_groups: 
+opt_external_variable_groups: 
+opt_constraint_groups: 
+opt_risk: 0.5
+opt_iter_derinc_fac: 1
+opt_direction: 1
+opt_iter_tol: 0.001
+opt_recalc_fosm_every: 1
+opt_chance_points: SINGLE
+
+...pestpp-sqp options:
+sqp_dv_en: 
+sqp_obs_restart_en: 
+sqp_num_reals: -1
+sqp_update_hessian: 0
+sqp_scale_facs:
+  1e-05
+  0.0001
+  0.0005
+  0.001
+  0.0025
+  0.005
+  0.01
+  0.05
+  0.075
+  0.1
+  0.25
+  0.5
+  1
+  2
+  5
+  10
+
+...pestpp-mou options:
+mou_generator: PSO
+mou_population_size: 100
+mou_dv_population_file: 
+mou_obs_population_restart_file: 
+mou_objectives: 
+mou_max_archive_size: 500
+mou_risk_objective: 0
+mou_verbose_level: 1
+mou_env_selector: NSGA
+mou_mating_selector: TOURNAMENT
+mou_crossover_prob: 0.75
+mou_mutation_prob: -999
+mou_de_f: 0.8
+mou_save_population_every: -1
+mou_pso_omega: 0.7
+mou_pso_social_const: 2
+mou_pso_cognitive: 2
+mou_population_schedule: 
+mou_simplex_reflections:10
+mou_simplex_factors: 
+ 0.5
+ 0.6
+ 0.7
+ 0.8
+mou_simplex_mutation: 0
+mou_use_multigen:0
+mou_shuffle_fixed_pars: 0
+
+...shared pestpp-ies/pestpp-da options:
+(note: 'da' args override 'ies' args when using pestpp-da)
+ies_parameter_ensemble: 
+ies_observation_ensemble: 
+ies_weights_ensemble: 
+ies_restart_parameter_ensemble: 
+ies_restart_observation_ensemble: 
+ies_use_approximate_solution: 1
+ies_lambda_mults: 0.1,1,10,
+ies_initial_lambda: 0
+ies_use_approx: 1
+ies_subset_size: 4
+ies_reg_factor: 0
+ies_verbose_level: 1
+ies_use_prior_scaling: 0
+ies_num_reals: 50
+ies_bad_phi: 1e+300
+ies_bad_phi_sigma: 1e+300
+ies_include_base: 1
+ies_use_empirical_prior: 0
+ies_group_draws: 1
+ies_enforce_bounds: 1
+ies_localizer: 
+ies_accept_phi_fac: 1.05
+ies_lambda_inc_fac: 10
+ies_lambda_dec_fac: 0.75
+ies_save_lambda_ensembles: 0
+ies_subset_how: RANDOM
+ies_localize_how: PARAMETERS
+ies_num_threads: -1
+ies_debug_fail_subset: 0
+ies_debug_fail_remainder: 0
+ies_debug_bad_phi: 0
+ies_debug_upgrade_only: 0
+ies_debug_high_subset_phi: 0
+ies_debug_high_upgrade_phi: 0
+ies_csv_by_reals: 1
+ies_autoadaloc: 0
+ies_autoadaloc_sigma_dist: 1
+ies_enforce_chglim: 0
+ies_center_on: 
+ies_no_noise: 0
+ies_drop_conflicts: 0
+ies_save_rescov:0
+ies_pdc_sigma_distance: -1
+ies_use_mda: 0
+ies_mda_init_fac: 10
+ies_mda_dec_fac: 0.5
+ies_localization_type: LOCAL
+ies_upgrades_in_memory: 1
+ies_ordered_binary: 1
+ies_multimodal_alpha: 1
+ies_localizer_forgive_extra: 0
+ies_phi_factors_file: 
+ies_phi_factors_by_real: 0
+
+pestpp-sen options: 
+gsa_method: MORRIS
+gsa_morris_pooled_obs: 0
+gsa_morris_obs_sen: 1
+gsa_morris_p: 4
+gsa_morris_r: 4
+gsa_morris_delta: 0.667
+gsa_sobol_samples: 4
+gsa_sobol_par_dist: norm
+
+pestpp-da options (those not shared with pestpp-ies):
+da_parameter_cycle_table: 
+da_observation_cycle_table: 
+da_hotstart_cycle: 0
+da_stop_cycle: 1000000000
+da_use_simulated_states: 1
+da_noptmax_schedule: 
+
+
+
+Model command line(s):- 
+    .\Miller_Model_PEST_Building1.exe
+
+Model interface files:-
+    template files:
+      Model_Input_All.tpl
+    model input files:
+      Model_Input_All.txt
+
+    instruction files:
+      Modeled_Obs.ins
+    model output files:
+      Modeled_Obs_New.txt
+
+
+Parameter group information
+NAME          INCREMENT TYPE     DERIVATIVE INCREMENT    INCREMENT LOWER BOUND  FORCE CENTRAL     INCREMENT MULTIPLIER
+pargrp              RELATIVE                     0.01                        0         SWITCH                        1
+
+
+
+Parameter information
+NAME         TRANSFORMATION        CHANGE LIMIT  INITIAL VALUE    LOWER BOUND    UPPER BOUND        GROUP          SCALE         OFFSET  DERIVATIVE COMMAND
+por          none                  RELATIVE           0.38            0.3           0.39       pargrp              1              0                   1
+por_v_min    none                  RELATIVE           0.12          0.001           0.17       pargrp              1              0                   1
+blahblah     none                  RELATIVE          0.015          1e-05            0.5       pargrp              1              0                   1
+airdiff      none                  RELATIVE          0.093         0.0001            0.1       pargrp              1              0                   1
+k_sat        fixed                 RELATIVE        0.00014          1e-05           0.01       pargrp              1              0                   1
+brooks       none                  RELATIVE            1.2            0.1              3       pargrp              1              0                   1
+p_air        none                  RELATIVE             12              8             20       pargrp              1              0                   1
+conc_s_top   none                  RELATIVE             20         0.0001            180       pargrp              1              0                   1
+conc_s_bot   none                  RELATIVE              8         0.0001            180       pargrp              1              0                   1
+ctot_wt      fixed                 RELATIVE            8.1          0.001             50       pargrp              1              0                   1
+theta_min    none                  RELATIVE           0.12           0.05            0.2       pargrp              1              0                   1
+q_air_slab   none                  RELATIVE             -7            -21              2       pargrp              1              0                   1
+q_air_vims   none                  RELATIVE             -2             -5              0       pargrp              1              0                   1
+q_air_open   fixed                 RELATIVE              1          0.001            100       pargrp              1              0                   1
+q_var        fixed                 RELATIVE          1e-06          1e-08           0.35       pargrp              1              0                   1
+
+
+
+Observation information
+NAME                                VALUE                GROUP              WEIGHT
+mod_obs0_1                          53750            mod_group           0.0555556
+mod_obs0_2                         213280            mod_group           0.0555556
+mod_obs0_3                          44550            mod_group            0.142857
+mod_obs0_4                         999999            mod_group                   0
+mod_obs0_5                         999999            mod_group                   0
+mod_obs0_6                             18            mod_group                0.25
+mod_obs0_7                            1.5            mod_group            0.142857
+mod_obs1_1                            174            mod_group           0.0555556
+mod_obs1_2                           2570            mod_group           0.0555556
+mod_obs1_3                         999999            mod_group                   0
+mod_obs1_4                         999999            mod_group                   0
+mod_obs1_5                         999999            mod_group                   0
+mod_obs1_6                         999999            mod_group                   0
+mod_obs1_7                         999999            mod_group                   0
+mod_obs2_1                            221            mod_group           0.0555556
+mod_obs2_2                           4650            mod_group           0.0555556
+mod_obs2_3                         999999            mod_group                   0
+mod_obs2_4                         999999            mod_group                   0
+mod_obs2_5                         999999            mod_group                   0
+mod_obs2_6                         999999            mod_group                   0
+mod_obs2_7                         999999            mod_group                   0
+mod_obs3_1                            747            mod_group           0.0555556
+mod_obs3_2                          14700            mod_group           0.0555556
+mod_obs3_3                         999999            mod_group                   0
+mod_obs3_4                         999999            mod_group                   0
+mod_obs3_5                         999999            mod_group                   0
+mod_obs3_6                         999999            mod_group                   0
+mod_obs3_7                         999999            mod_group                   0
+mod_obs4_1                            230            mod_group           0.0555556
+mod_obs4_2                           3420            mod_group           0.0555556
+mod_obs4_3                         999999            mod_group                   0
+mod_obs4_4                         999999            mod_group                   0
+mod_obs4_5                         999999            mod_group                   0
+mod_obs4_6                         999999            mod_group                   0
+mod_obs4_7                         999999            mod_group                   0
+mod_obs5_1                            695            mod_group           0.0555556
+mod_obs5_2                          11600            mod_group           0.0555556
+mod_obs5_3                         999999            mod_group                   0
+mod_obs5_4                         999999            mod_group                   0
+mod_obs5_5                         999999            mod_group                   0
+mod_obs5_6                         999999            mod_group                   0
+mod_obs5_7                         999999            mod_group                   0
+mod_obs6_1                            124            mod_group           0.0555556
+mod_obs6_2                           2350            mod_group           0.0555556
+mod_obs6_3                         999999            mod_group                   0
+mod_obs6_4                         999999            mod_group                   0
+mod_obs6_5                         999999            mod_group                   0
+mod_obs6_6                         999999            mod_group                   0
+mod_obs6_7                         999999            mod_group                   0
+mod_obs7_1                            363            mod_group           0.0555556
+mod_obs7_2                           6700            mod_group           0.0555556
+mod_obs7_3                         999999            mod_group                   0
+mod_obs7_4                         999999            mod_group                   0
+mod_obs7_5                         999999            mod_group                   0
+mod_obs7_6                         999999            mod_group                   0
+mod_obs7_7                         999999            mod_group                   0
+mod_obs8_1                            169            mod_group           0.0555556
+mod_obs8_2                           3000            mod_group           0.0555556
+mod_obs8_3                         999999            mod_group                   0
+mod_obs8_4                         999999            mod_group                   0
+mod_obs8_5                         999999            mod_group                   0
+mod_obs8_6                         999999            mod_group                   0
+mod_obs8_7                         999999            mod_group                   0
+mod_obs9_1                           23.4            mod_group           0.0555556
+mod_obs9_2                            287            mod_group           0.0555556
+mod_obs9_3                         999999            mod_group                   0
+mod_obs9_4                         999999            mod_group                   0
+mod_obs9_5                         999999            mod_group                   0
+mod_obs9_6                         999999            mod_group                   0
+mod_obs9_7                         999999            mod_group                   0
+mod_obs10_1                          60.6            mod_group           0.0555556
+mod_obs10_2                          1010            mod_group           0.0555556
+mod_obs10_3                        999999            mod_group                   0
+mod_obs10_4                        999999            mod_group                   0
+mod_obs10_5                        999999            mod_group                   0
+mod_obs10_6                        999999            mod_group                   0
+mod_obs10_7                        999999            mod_group                   0
+mod_obs11_1                           377            mod_group           0.0555556
+mod_obs11_2                          5590            mod_group           0.0555556
+mod_obs11_3                        999999            mod_group                   0
+mod_obs11_4                        999999            mod_group                   0
+mod_obs11_5                        999999            mod_group                   0
+mod_obs11_6                        999999            mod_group                   0
+mod_obs11_7                        999999            mod_group                   0
+mod_obs12_1                           202            mod_group           0.0555556
+mod_obs12_2                          3410            mod_group           0.0555556
+mod_obs12_3                           521            mod_group            0.142857
+mod_obs12_4                            60            mod_group            0.142857
+mod_obs12_5                          15.1            mod_group            0.142857
+mod_obs12_6                        999999            mod_group                   0
+mod_obs12_7                          51.4            mod_group            0.142857
+mod_obs13_1                           335            mod_group           0.0555556
+mod_obs13_2                          5160            mod_group           0.0555556
+mod_obs13_3                          1290            mod_group            0.142857
+mod_obs13_4                          55.5            mod_group            0.142857
+mod_obs13_5                           1.9            mod_group            0.142857
+mod_obs13_6                        999999            mod_group                   0
+mod_obs13_7                          18.3            mod_group            0.142857
+mod_obs14_1                           101            mod_group           0.0555556
+mod_obs14_2                           652            mod_group           0.0555556
+mod_obs14_3                          1280            mod_group            0.142857
+mod_obs14_4                          35.8            mod_group            0.142857
+mod_obs14_5                           9.5            mod_group            0.142857
+mod_obs14_6                        999999            mod_group                   0
+mod_obs14_7                           5.9            mod_group            0.142857
+mod_obs15_1                           461            mod_group           0.0555556
+mod_obs15_2                          4060            mod_group           0.0555556
+mod_obs15_3                          2290            mod_group            0.142857
+mod_obs15_4                          75.3            mod_group            0.142857
+mod_obs15_5                          6.98            mod_group            0.142857
+mod_obs15_6                          95.5            mod_group                0.25
+mod_obs15_7                          10.8            mod_group            0.142857
+mod_obs16_1                           226            mod_group           0.0555556
+mod_obs16_2                          1720            mod_group           0.0555556
+mod_obs16_3                           892            mod_group            0.142857
+mod_obs16_4                          41.1            mod_group            0.142857
+mod_obs16_5                          3.43            mod_group            0.142857
+mod_obs16_6                          37.8            mod_group                0.25
+mod_obs16_7                          7.07            mod_group            0.142857
+mod_obs17_1                           442            mod_group           0.0555556
+mod_obs17_2                          6050            mod_group           0.0555556
+mod_obs17_3                          1920            mod_group            0.142857
+mod_obs17_4                          26.6            mod_group            0.142857
+mod_obs17_5                          4.01            mod_group            0.142857
+mod_obs17_6                            69            mod_group                0.25
+mod_obs17_7                          9.58            mod_group            0.142857
+
+
+
+Prior information
+
+   no prior information provided
+
+
+
+PEST SVD Information
+    maxsing = 10
+    eigthresh = 1e-06
+
+
+
+
+
+Note: 3 unused lines in pest control file:
+  -->  line number 6: '10.0               -2.0    0.3     0.01    10' 
+  -->  line number 10: '0                  0       0' 
+  -->  line number 12: '1' 
+
+Note: only non-zero weighted observations contribute to
+      the phi and group phi sensitivity metrics.  Please
+      make sure this is what you want...
+
+
+
+
+Method of Morris settings:
+ morris_r                     4
+ morris_p                     4
+ morris_delta                 6.670000e-01
+
+ gsa random seed              1
+
+
+pestpp-sen analysis complete...
+started at 01/10/25 11:35:19
+finished at 01/10/25 11:41:32
+took 6.200000e+00 minutes
